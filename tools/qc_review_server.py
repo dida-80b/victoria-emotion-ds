@@ -183,6 +183,19 @@ button.sync:disabled{opacity:.4;cursor:default}
 </div>
 <script>
 const HF_BASE = "%%HF_BASE%%";
+const EMO_DE = {
+  angry:"Wütend", annoyed:"Genervt", apologetic:"Entschuldigend",
+  bitter:"Verbittert", condescending:"Herablassend", confident:"Selbstsicher",
+  desperate:"Verzweifelt", disgusted:"Angewidert", enraged:"Rasend",
+  excited:"Aufgeregt", fearful:"Ängstlich", flirtatious:"Flirtend",
+  frustrated:"Frustriert", guilty:"Schuldbewusst", happy:"Fröhlich",
+  hopeless:"Hoffnungslos", lethargic:"Träge", menacing:"Bedrohlich",
+  mocking:"Spöttisch", mysterious:"Geheimnisvoll", neutral:"Neutral",
+  pleading:"Flehend", proud:"Stolz", relieved:"Erleichtert",
+  sad:"Traurig", sarcastic:"Sarkastisch", surprised:"Überrascht",
+  sympathetic:"Mitfühlend"
+};
+const emoDE = e => EMO_DE[e] || e;
 let clips = [], filtered = [], idx = -1;
 
 async function init() {
@@ -190,7 +203,7 @@ async function init() {
   const sel = document.getElementById('fEmotion');
   for (const e of data) {
     const o = document.createElement('option');
-    o.value = e; o.textContent = e; sel.appendChild(o);
+    o.value = e; o.textContent = emoDE(e); sel.appendChild(o);
   }
   await loadClips();
   document.getElementById('fEmotion').addEventListener('change', () => loadClips());
@@ -218,8 +231,11 @@ function applySearch() {
 
 function renderStats(s) {
   if (!s) return;
+  const emo = document.getElementById('fEmotion').value;
+  const emoLabel = emo === 'all' ? 'alle' : emoDE(emo);
   document.getElementById('stats').textContent =
-    filtered.length + '/' + s.total + ' · ✓' + (s.keep||0) + ' ✕' + (s.delete||0) +
+    emoLabel + ': ' + filtered.length + '/' + s.total +
+    ' · ✓' + (s.keep||0) + ' ✕' + (s.delete||0) +
     ' ↻' + (s.rerender||0) + ' ○' + (s.unreviewed||0);
 }
 
@@ -233,7 +249,7 @@ function renderList() {
     const otherDots = Object.entries(c.others||{}).map(([,d]) =>
       `<span class="fl-o ${d||'unreviewed'}" title="${d}"></span>`).join('');
     div.innerHTML = '<span class="fl-dot ' + (c.decision||'unreviewed') + '"></span>' +
-      '<span class="fl-emo">[' + (c.emotion||'?') + ']</span>' +
+      '<span class="fl-emo">[' + emoDE(c.emotion||'?') + ']</span>' +
       '<span class="fl-name" title="' + c.file_name + '">' + c.file_name.split('/').pop() + '</span>' +
       (otherDots ? '<span class="fl-others">' + otherDots + '</span>' : '');
     const ii = i;
@@ -256,7 +272,7 @@ function select(i, play) {
   const db = document.getElementById('decisionBadge');
   db.textContent = dec; db.className = 'badge ' + dec;
   const eb = document.getElementById('emotionBadge');
-  if (c.emotion) { eb.textContent = c.emotion; eb.style.display = ''; }
+  if (c.emotion) { eb.textContent = emoDE(c.emotion); eb.style.display = ''; }
   else eb.style.display = 'none';
   document.getElementById('curText').textContent = c.text || '–';
 
