@@ -1,0 +1,11 @@
+{
+  "reviewer": "dida",
+  "updated_at": "2026-05-24T15:31:28.461692+00:00",
+  "total_clips": 7233,
+  "decisions": {
+    "angry/angry_00001_das-ist-doch-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-24T15:31:28.461618+00:00"
+    }
+  }
+}
