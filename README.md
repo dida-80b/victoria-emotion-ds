@@ -58,7 +58,7 @@ Dann im Browser öffnen: **http://127.0.0.1:8091**
 | Taste | Aktion |
 |-------|--------|
 | `K` | Keep — Clip ist gut, behalten |
-| `D` | Delete — Clip ist fehlerhaft, löschen |
+| `D` | Delete — Text ergibt keinen Sinn oder ist grammatikalisch falsch |
 | `R` | Rerender — Clip neu generieren |
 | `N` oder `→` | Nächster Clip |
 | `B` oder `←` | Vorheriger Clip |
