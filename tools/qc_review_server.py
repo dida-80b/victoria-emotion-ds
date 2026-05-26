@@ -580,8 +580,9 @@ def main():
     parser.add_argument("--hf-dataset", default="dida-80b/victoria-emotion-de-synthetic",
                         help="HuggingFace dataset ID (default: dida-80b/victoria-emotion-de-synthetic)")
     parser.add_argument("--hf-branch", default="main", help="HuggingFace branch (default: main)")
-    parser.add_argument("--state-dir", type=Path, default=Path("reviews"),
-                        help="Directory for state files (default: reviews/)")
+    default_state_dir = Path(__file__).resolve().parent.parent / "reviews"
+    parser.add_argument("--state-dir", type=Path, default=default_state_dir,
+                        help=f"Directory for state files (default: {default_state_dir})")
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8091)
     args = parser.parse_args()
