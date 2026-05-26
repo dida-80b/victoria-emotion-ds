@@ -1,7 +1,7 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-26T13:47:17.096020+00:00",
-  "total_clips": 9396,
+  "updated_at": "2026-05-26T15:43:30.317547+00:00",
+  "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
       "decision": "keep",
@@ -1246,6 +1246,210 @@
     "angry/angry_universal_0019.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T13:47:17.095966+00:00"
+    },
+    "annoyed/annoyed_00001_muss-das-jetzt-wirkl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:38:38.531575+00:00"
+    },
+    "annoyed/annoyed_00002_ich-habs-langsam-sat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:38:56.679679+00:00"
+    },
+    "annoyed/annoyed_00004_immer-das-gleiche-th.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:01.654029+00:00"
+    },
+    "annoyed/annoyed_00005_wenn-ich-noch-einmal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:07.932718+00:00"
+    },
+    "annoyed/annoyed_00007_warum-muss-ausgerech.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:39:10.406810+00:00"
+    },
+    "annoyed/annoyed_00008_ich-hab-keine-lust-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:18.567813+00:00"
+    },
+    "annoyed/annoyed_00011_ich-hab-wirklich-bes.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:23.274684+00:00"
+    },
+    "annoyed/annoyed_00014_ich-bin-kurz-davor-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:27.399456+00:00"
+    },
+    "annoyed/annoyed_00015_das-kann-doch-nicht.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:39:35.913633+00:00"
+    },
+    "annoyed/annoyed_00018_ich-bin-es-leid-stän.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:40.601561+00:00"
+    },
+    "annoyed/annoyed_00019_das-ist-doch-kein-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:44.221633+00:00"
+    },
+    "annoyed/annoyed_00020_warum-muss-ich-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:39:50.038549+00:00"
+    },
+    "annoyed/annoyed_00021_ich-hab-langsam-genu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:39:53.738628+00:00"
+    },
+    "annoyed/annoyed_00023_das-ist-jetzt-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:00.302903+00:00"
+    },
+    "annoyed/annoyed_00024_ich-glaub-ich-spinne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:04.342104+00:00"
+    },
+    "annoyed/annoyed_00030_warum-muss-ich-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:07.989526+00:00"
+    },
+    "annoyed/annoyed_00031_ich-hab-keine-energi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:40:19.123986+00:00"
+    },
+    "annoyed/annoyed_00034_ich-bin-echt-genervt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:22.946952+00:00"
+    },
+    "annoyed/annoyed_00036_ich-hab-langsam-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:31.235399+00:00"
+    },
+    "annoyed/annoyed_00037_das-ist-doch-kein-le.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:35.772072+00:00"
+    },
+    "annoyed/annoyed_00039_ich-glaub-ich-hör-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:39.122968+00:00"
+    },
+    "annoyed/annoyed_00042_ich-hab-keine-lust-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:40:41.800759+00:00"
+    },
+    "annoyed/annoyed_00045_ich-bin-echt-kurz-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:40:54.564849+00:00"
+    },
+    "annoyed/annoyed_00046_warum-muss-alles-imm.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:41:05.932767+00:00"
+    },
+    "annoyed/annoyed_00047_ich-hab-langsam-genu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:09.214350+00:00"
+    },
+    "annoyed/annoyed_00050_ich-glaub-ich-träume.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:13.321686+00:00"
+    },
+    "annoyed/annoyed_00054_kannst-du-nicht-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:18.355113+00:00"
+    },
+    "annoyed/annoyed_00056_warum-muss-alles-imm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:24.022035+00:00"
+    },
+    "annoyed/annoyed_00057_ich-hab-langsam-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:33.189210+00:00"
+    },
+    "annoyed/annoyed_00061_warum-muss-ich-immer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:37.697016+00:00"
+    },
+    "annoyed/annoyed_00062_ich-hab-keine-nerven.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:41.202564+00:00"
+    },
+    "annoyed/annoyed_00064_kannst-du-nicht-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:49.095128+00:00"
+    },
+    "annoyed/annoyed_00075_ich-bin-kurz-davor-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:41:59.991202+00:00"
+    },
+    "annoyed/annoyed_00077_ich-hab-langsam-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:05.635539+00:00"
+    },
+    "annoyed/annoyed_00080_ich-glaub-ich-spinne.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:42:15.637157+00:00"
+    },
+    "annoyed/annoyed_00087_ich-hab-langsam-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:20.907388+00:00"
+    },
+    "annoyed/annoyed_00090_ich-glaub-ich-fall-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:26.678120+00:00"
+    },
+    "annoyed/annoyed_00092_ich-hab-keine-geduld.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:30.114809+00:00"
+    },
+    "annoyed/annoyed_00099_könnt-ihr-nicht-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:34.782740+00:00"
+    },
+    "annoyed/annoyed_00100_ich-bin-echt-sauer-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:37.819052+00:00"
+    },
+    "annoyed/annoyed_00100_muss-ich-denn-wirkli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:42.445174+00:00"
+    },
+    "annoyed/annoyed_00102_warum-muss-immer-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:42:47.386220+00:00"
+    },
+    "annoyed/annoyed_00106_ich-habe-keine-lust.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:50.810950+00:00"
+    },
+    "annoyed/annoyed_00107_warum-muss-aus-jeder.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:54.862924+00:00"
+    },
+    "annoyed/annoyed_00118_das-ist-doch-zum-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:42:59.657258+00:00"
+    },
+    "annoyed/annoyed_00119_warum-muss-aus-jeder.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:43:04.318527+00:00"
+    },
+    "annoyed/annoyed_00120_ich-bin-echt-genervt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:43:08.623186+00:00"
+    },
+    "annoyed/annoyed_00123_warum-muss-ich-immer.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-26T15:43:12.386111+00:00"
+    },
+    "annoyed/annoyed_00125_könnt-ihr-nicht-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:43:18.321928+00:00"
+    },
+    "annoyed/annoyed_00126_ich-habe-keine-nerve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:43:22.026459+00:00"
+    },
+    "annoyed/annoyed_00130_ich-bin-echt-kurz-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-26T15:43:30.317488+00:00"
     }
   }
 }
