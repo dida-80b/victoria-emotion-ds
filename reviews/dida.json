@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-28T08:32:30.812328+00:00",
+  "updated_at": "2026-05-28T18:43:26.080774+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -2694,6 +2694,106 @@
     "annoyed/annoyed_00297_wenn-ich-jedesmal-ei.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:32:30.812250+00:00"
+    },
+    "annoyed/annoyed_00298_die-ruhe-verliere-ic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:41:09.341401+00:00"
+    },
+    "annoyed/annoyed_00299_mit-einem-tiefen-ate.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:26.162006+00:00"
+    },
+    "annoyed/annoyed_00300_ich-warte-schon-seit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:37.045773+00:00"
+    },
+    "annoyed/annoyed_00301_der-kleine-zahnnerv.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:41.681363+00:00"
+    },
+    "annoyed/annoyed_00302_das-ist-zum-haare-ra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:45.022557+00:00"
+    },
+    "annoyed/annoyed_00304_nochmal-dieselbe-sac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:49.210239+00:00"
+    },
+    "annoyed/annoyed_00305_ich-hoere-genau-was.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:54.977052+00:00"
+    },
+    "annoyed/annoyed_00306_jede-kleinigkeit-heu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:58.952035+00:00"
+    },
+    "annoyed/annoyed_00308_muss-ich-das-wirklic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:03.064870+00:00"
+    },
+    "annoyed/annoyed_00309_meine-aufmerksamkeit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:07.890828+00:00"
+    },
+    "annoyed/annoyed_00310_ich-kriege-die-zaehn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:12.747711+00:00"
+    },
+    "annoyed/annoyed_00311_heute-ist-nicht-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:15.960682+00:00"
+    },
+    "annoyed/annoyed_00312_kannst-du-das-einfac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:19.581935+00:00"
+    },
+    "annoyed/annoyed_00313_ich-bin-kurz-davor-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:22.951093+00:00"
+    },
+    "annoyed/annoyed_00314_ruhig-bleiben-aber-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:42:36.966383+00:00"
+    },
+    "annoyed/annoyed_00315_ich-versuche-mir-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:41.328922+00:00"
+    },
+    "annoyed/annoyed_00316_das-ist-ja-wie-gegen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:44.040940+00:00"
+    },
+    "annoyed/annoyed_00317_waerst-du-heute-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:48.578572+00:00"
+    },
+    "annoyed/annoyed_00318_nicht-wuetend-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:56.982603+00:00"
+    },
+    "annoyed/annoyed_00319_ich-mache-das-naechs.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:01.979215+00:00"
+    },
+    "annoyed/annoyed_00320_wenn-ich-so-tue-als.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:05.812436+00:00"
+    },
+    "annoyed/annoyed_00321_ich-fasse-mir-an-den.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:10.167498+00:00"
+    },
+    "annoyed/annoyed_00322_sei-kurz-sei-bitte-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:13.115854+00:00"
+    },
+    "annoyed/annoyed_00323_dieselbe-geschichte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:18.347689+00:00"
+    },
+    "annoyed/annoyed_00324_nein-du-hoerst-mir-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:26.080715+00:00"
     }
   }
 }
