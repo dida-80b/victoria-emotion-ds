@@ -1,0 +1,15 @@
+{
+  "reviewer": "ichDaheim",
+  "updated_at": "2026-05-28T14:24:15.083142+00:00",
+  "total_clips": 6758,
+  "decisions": {
+    "angry/angry_00001_das-ist-doch-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T14:24:12.181776+00:00"
+    },
+    "angry/angry_00002_wie-kannst-du-es-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T14:24:15.083142+00:00"
+    }
+  }
+}
