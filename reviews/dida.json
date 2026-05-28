@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-28T18:43:26.080774+00:00",
+  "updated_at": "2026-05-28T19:50:42.569787+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -2794,6 +2794,242 @@
     "annoyed/annoyed_00324_nein-du-hoerst-mir-n.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T18:43:26.080715+00:00"
+    },
+    "annoyed/annoyed_00325_heute-ist-meine-tole.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:44:58.887105+00:00"
+    },
+    "annoyed/annoyed_00326_ich-atme-tief-ein-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:45:17.725262+00:00"
+    },
+    "annoyed/annoyed_00327_merkst-du-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:45:24.372662+00:00"
+    },
+    "annoyed/annoyed_00328_mit-zusammengebissen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:45:33.017254+00:00"
+    },
+    "annoyed/annoyed_00329_die-geduld-ist-ein-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:45:41.940533+00:00"
+    },
+    "annoyed/annoyed_00330_immer-wieder-dasselb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:45:46.376957+00:00"
+    },
+    "annoyed/annoyed_00331_das-thema-nervt-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:45:51.666686+00:00"
+    },
+    "annoyed/annoyed_00332_ich-muss-mich-gerade.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:45:54.786263+00:00"
+    },
+    "annoyed/annoyed_00333_wenn-stille-meine-an.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:46:01.741482+00:00"
+    },
+    "annoyed/annoyed_00334_nicht-jede-meinung-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:46:10.801870+00:00"
+    },
+    "annoyed/annoyed_00335_ich-beende-das-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:46:18.466450+00:00"
+    },
+    "annoyed/annoyed_00336_nochmal-und-ich-sage.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:46:25.062511+00:00"
+    },
+    "annoyed/annoyed_00337_kopfschuetteln-in-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:46:28.368688+00:00"
+    },
+    "annoyed/annoyed_00338_wir-koennen-das-gern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:46:35.826617+00:00"
+    },
+    "annoyed/annoyed_00339_die-stirn-runzeln-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:46:40.563143+00:00"
+    },
+    "annoyed/annoyed_00340_ich-weiss-was-ich-de.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:46:44.964685+00:00"
+    },
+    "annoyed/annoyed_00341_gut-gemeint-trotzdem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:46:53.976758+00:00"
+    },
+    "annoyed/annoyed_00343_ich-sage-das-jetzt-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:47:00.292569+00:00"
+    },
+    "annoyed/annoyed_00344_immer-dann-wenn-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:47:06.678791+00:00"
+    },
+    "annoyed/annoyed_00345_ich-mag-dich-aber-ge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:47:11.347420+00:00"
+    },
+    "annoyed/annoyed_00346_langsam-reicht-es-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:47:14.985178+00:00"
+    },
+    "annoyed/annoyed_00347_die-grenze-ist-gerad.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:47:20.469223+00:00"
+    },
+    "annoyed/annoyed_00348_nicht-boes-aber-gene.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:47:25.696053+00:00"
+    },
+    "annoyed/annoyed_00349_du-machst-mir-das-sc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:47:32.523792+00:00"
+    },
+    "annoyed/annoyed_00350_ich-antworte-aber-oh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:47:36.511980+00:00"
+    },
+    "annoyed/annoyed_00351_gern-waere-ich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:47:42.080789+00:00"
+    },
+    "annoyed/annoyed_00352_kurz-vor-dem-punkt-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:47:46.514096+00:00"
+    },
+    "annoyed/annoyed_00353_ich-ueberhoere-das-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:47:52.075682+00:00"
+    },
+    "annoyed/annoyed_00354_bitte-kurz-machen-ic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:47:59.627068+00:00"
+    },
+    "annoyed/annoyed_00355_innerlich-stoehne-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:04.631771+00:00"
+    },
+    "annoyed/annoyed_00356_das-laecheln-kostet.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:08.478790+00:00"
+    },
+    "annoyed/annoyed_00357_puh-tief-durchatmen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:17.354030+00:00"
+    },
+    "annoyed/annoyed_00358_ich-lasse-mir-das-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:23.653029+00:00"
+    },
+    "annoyed/annoyed_00359_manchmal-sind-leute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:27.029572+00:00"
+    },
+    "annoyed/annoyed_00360_ich-sage-ja-aber-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:31.318141+00:00"
+    },
+    "annoyed/annoyed_00361_meine-augen-sagen-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:35.230551+00:00"
+    },
+    "annoyed/annoyed_00362_das-ist-so-ein-ding.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:48:37.934162+00:00"
+    },
+    "annoyed/annoyed_00363_ich-nehme-mir-zehn-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:48:45.789650+00:00"
+    },
+    "annoyed/annoyed_00364_gemuetlich-nein-gene.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:02.927345+00:00"
+    },
+    "annoyed/annoyed_00365_ich-brauche-gerade-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:49:20.529719+00:00"
+    },
+    "annoyed/annoyed_00366_eine-runde-ignoriere.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:23.878670+00:00"
+    },
+    "annoyed/annoyed_00367_heute-ist-das-einfac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:27.735900+00:00"
+    },
+    "annoyed/annoyed_00368_nicht-aggressiv-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:32.006296+00:00"
+    },
+    "annoyed/annoyed_00369_ein-seufzer-reicht-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:35.642506+00:00"
+    },
+    "annoyed/annoyed_00370_ich-tue-was-du-verla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:39.236230+00:00"
+    },
+    "annoyed/annoyed_00371_wenn-du-doch-nur-kur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:44.508651+00:00"
+    },
+    "annoyed/annoyed_00372_ich-habe-geduld-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:49:48.733858+00:00"
+    },
+    "annoyed/annoyed_00373_ich-merke-wie-ich-an.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:49:51.893952+00:00"
+    },
+    "annoyed/annoyed_00374_das-wollte-ich-nicht.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:49:55.131453+00:00"
+    },
+    "annoyed/annoyed_00375_koennte-ich-das-igno.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:00.995818+00:00"
+    },
+    "annoyed/annoyed_00376_kein-streit-keine-sz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:07.336848+00:00"
+    },
+    "annoyed/annoyed_00377_ich-handle-zuerst-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:10.833796+00:00"
+    },
+    "annoyed/annoyed_00378_muss-das-genau-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:15.207855+00:00"
+    },
+    "annoyed/annoyed_00379_schoen-wenn-man-imme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:19.227802+00:00"
+    },
+    "annoyed/annoyed_00380_ich-glaube-ich-sprec.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:50:21.715417+00:00"
+    },
+    "annoyed/annoyed_00381_lass-mich-kurz-schwe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:28.393875+00:00"
+    },
+    "annoyed/annoyed_00382_am-liebsten-wuerde-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:32.015825+00:00"
+    },
+    "annoyed/annoyed_00383_man-muss-nicht-auf-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T19:50:36.055584+00:00"
+    },
+    "annoyed/annoyed_00384_mit-wuerde-drueber-h.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T19:50:42.569731+00:00"
     }
   }
 }
