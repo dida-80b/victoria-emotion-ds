@@ -1,6 +1,6 @@
 {
   "reviewer": "ichDaheim",
-  "updated_at": "2026-05-28T18:33:30.903887+00:00",
+  "updated_at": "2026-05-28T18:46:26.286667+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -18,6 +18,518 @@
     "angry/angry_00004_du-h-rst-mir-jetzt.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T18:33:30.903887+00:00"
+    },
+    "angry/angry_00005_das-war-das-letzte.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:37:22.979518+00:00"
+    },
+    "angry/angry_00007_wer-hat-dir-erlaub.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:37:26.913986+00:00"
+    },
+    "angry/angry_00008_ich-will-dass-du-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:37:30.616322+00:00"
+    },
+    "angry/angry_00010_ich-dulde-keine-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:37:38.821924+00:00"
+    },
+    "angry/angry_00011_das-geht-so-nicht-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:37:43.439890+00:00"
+    },
+    "angry/angry_00012_du-hast-keine-ahnu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:37:48.502516+00:00"
+    },
+    "angry/angry_00013_ich-kann-nicht-gla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:37:58.623247+00:00"
+    },
+    "angry/angry_00014_h-r-auf-mich-wie-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:03.303698+00:00"
+    },
+    "angry/angry_00015_ich-bin-es-leid-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:12.583712+00:00"
+    },
+    "angry/angry_00017_das-ist-einfach-nu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:17.602162+00:00"
+    },
+    "angry/angry_00018_ich-will-dass-du-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:21.293339+00:00"
+    },
+    "angry/angry_00019_du-hast-keine-ahnu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:38:27.145335+00:00"
+    },
+    "angry/angry_00020_ich-bin-so-sauer-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:38:32.839174+00:00"
+    },
+    "angry/angry_00021_wie-konntest-du-nu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:38:41.676276+00:00"
+    },
+    "angry/angry_00022_ich-erwarte-eine-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:44.597049+00:00"
+    },
+    "angry/angry_00023_das-war-das-letzte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:46.569407+00:00"
+    },
+    "angry/angry_00025_du-hast-alles-ruin.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:38:51.821811+00:00"
+    },
+    "angry/angry_00027_ich-kann-nicht-fas.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:56.106123+00:00"
+    },
+    "angry/angry_00028_wenn-du-noch-einma.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:38:59.640605+00:00"
+    },
+    "angry/angry_00029_das-ist-einfach-nu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:39:03.649393+00:00"
+    },
+    "angry/angry_00033_das-war-das-allerl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:05.773095+00:00"
+    },
+    "angry/angry_00034_ich-dulde-keine-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:09.689023+00:00"
+    },
+    "angry/angry_00036_ich-bin-es-leid-st.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:39:14.552371+00:00"
+    },
+    "angry/angry_00041_h-r-auf-mich-st-nd.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:17.805027+00:00"
+    },
+    "angry/angry_00046_ich-habe-genug-von.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:39:20.672998+00:00"
+    },
+    "angry/angry_00048_das-geht-so-nicht-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:23.560590+00:00"
+    },
+    "angry/angry_00052_was-bildest-du-dir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:25.804120+00:00"
+    },
+    "angry/angry_00057_warum-h-rst-du-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:28.433842+00:00"
+    },
+    "angry/angry_00058_das-ist-einfach-nu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:31.943844+00:00"
+    },
+    "angry/angry_00059_ich-dulde-dieses-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:39:35.211307+00:00"
+    },
+    "angry/angry_00060_ich-will-dass-du-j.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:39:39.042383+00:00"
+    },
+    "angry/angry_00065_ich-kann-deine-anw.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:39:58.855429+00:00"
+    },
+    "angry/angry_00071_ich-bin-fertig-mit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:01.399484+00:00"
+    },
+    "angry/angry_00072_das-reicht-jetzt-e.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:40:04.606342+00:00"
+    },
+    "angry/angry_00074_ich-habe-die-nase-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:08.484263+00:00"
+    },
+    "angry/angry_00075_h-r-auf-mich-st-nd.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:11.904539+00:00"
+    },
+    "angry/angry_00076_was-f-llt-dir-eige.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:14.660998+00:00"
+    },
+    "angry/angry_00077_du-machst-alles-ka.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:17.979147+00:00"
+    },
+    "angry/angry_00078_ich-will-dich-hier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:21.102202+00:00"
+    },
+    "angry/angry_00080_ich-kann-dein-geja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:25.036499+00:00"
+    },
+    "angry/angry_00081_halt-endlich-den-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:26.986067+00:00"
+    },
+    "angry/angry_00082_du-bringst-mich-no.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:30.214875+00:00"
+    },
+    "angry/angry_00083_was-hast-du-dir-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:33.036754+00:00"
+    },
+    "angry/angry_00084_ich-hasse-es-wenn-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:35.970818+00:00"
+    },
+    "angry/angry_00087_kannst-du-nicht-ei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:40:40.627614+00:00"
+    },
+    "angry/angry_00090_warum-l-gst-du-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:43.259989+00:00"
+    },
+    "angry/angry_00092_du-machst-mich-wah.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:40:50.324238+00:00"
+    },
+    "angry/angry_00097_ich-kann-dich-nich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:40:53.562388+00:00"
+    },
+    "angry/angry_00100_das-geht-so-nicht-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:40:56.934593+00:00"
+    },
+    "angry/angry_00102_du-bringst-mich-zu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:40:59.988603+00:00"
+    },
+    "angry/angry_00105_du-hast-alles-ruin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:02.355687+00:00"
+    },
+    "angry/angry_00106_verschwinde-aus-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:06.325869+00:00"
+    },
+    "angry/angry_00113_warum-machst-du-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:09.570432+00:00"
+    },
+    "angry/angry_00114_du-denkst-wohl-du-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:14.478177+00:00"
+    },
+    "angry/angry_00116_h-r-auf-mir-die-sc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:20.365568+00:00"
+    },
+    "angry/angry_00117_ich-will-keine-ent.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:24.497488+00:00"
+    },
+    "angry/angry_00123_ich-dulde-nicht-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:27.720138+00:00"
+    },
+    "angry/angry_00125_ich-will-keine-lee.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:30.765366+00:00"
+    },
+    "angry/angry_00131_warum-kannst-du-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:35.214939+00:00"
+    },
+    "angry/angry_00132_ich-hasse-es-wenn-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:40.270620+00:00"
+    },
+    "angry/angry_00135_ich-kann-deine-l-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:42.968011+00:00"
+    },
+    "angry/angry_00140_du-hast-mich-zum-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:47.852827+00:00"
+    },
+    "angry/angry_00141_ich-kann-nicht-fas.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:41:51.827896+00:00"
+    },
+    "angry/angry_00146_ich-will-dass-du-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:42:02.949236+00:00"
+    },
+    "angry/angry_00148_du-h-rst-mir-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:08.203610+00:00"
+    },
+    "angry/angry_00149_das-reicht-jetzt-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:42:15.195088+00:00"
+    },
+    "angry/angry_00164_das-war-das-letzte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:21.115641+00:00"
+    },
+    "angry/angry_00166_du-hast-alles-zers.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:42:28.555907+00:00"
+    },
+    "angry/angry_00167_lass-das-endlich-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:32.018461+00:00"
+    },
+    "angry/angry_00170_du-machst-alles-ka.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:42:36.130403+00:00"
+    },
+    "angry/angry_00175_du-hast-kein-r-ckg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:40.792997+00:00"
+    },
+    "angry/angry_00177_ich-habe-genug-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:42:47.355602+00:00"
+    },
+    "angry/angry_00182_ich-bin-nicht-dein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:42:51.694216+00:00"
+    },
+    "angry/angry_00192_was-soll-das-jetzt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:42:57.040140+00:00"
+    },
+    "angry/angry_00199_ich-dulde-nicht-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:00.836027+00:00"
+    },
+    "angry/angry_00201_ich-hasse-es-wenn-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:43:09.913588+00:00"
+    },
+    "angry/angry_00206_lass-mich-in-ruhe-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:12.985770+00:00"
+    },
+    "angry/angry_00208_r-um-endlich-dein-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:43:15.119534+00:00"
+    },
+    "angry/angry_00209_was-soll-der-schei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:17.171463+00:00"
+    },
+    "angry/angry_00213_mach-das-nie-wiede.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:19.460425+00:00"
+    },
+    "angry/angry_00216_das-ist-einfach-nu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:21.679503+00:00"
+    },
+    "angry/angry_00217_das-ist-nicht-dein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:43:28.401820+00:00"
+    },
+    "angry/angry_00219_du-hast-alles-verm.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:43:31.476267+00:00"
+    },
+    "angry/angry_00220_h-r-auf-mich-zu-ne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:40.520773+00:00"
+    },
+    "angry/angry_00221_das-geht-gar-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:43.430980+00:00"
+    },
+    "angry/angry_00222_das-war-das-allerl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:46.214933+00:00"
+    },
+    "angry/angry_00226_ich-kann-deine-ign.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:49.901700+00:00"
+    },
+    "angry/angry_00229_h-r-auf-mich-wie-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:43:55.369629+00:00"
+    },
+    "angry/angry_00231_du-hast-alles-zers.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:44:01.128332+00:00"
+    },
+    "angry/angry_00233_du-hast-es-wieder-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:44:06.248482+00:00"
+    },
+    "angry/angry_00235_h-r-sofort-auf-dam.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:10.267509+00:00"
+    },
+    "angry/angry_00236_du-denkst-wohl-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:14.422945+00:00"
+    },
+    "angry/angry_00238_wenn-du-das-noch-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:17.243443+00:00"
+    },
+    "angry/angry_00245_was-soll-das-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:20.090923+00:00"
+    },
+    "angry/angry_00248_wie-kannst-du-es-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:24.350965+00:00"
+    },
+    "angry/angry_00249_ich-hasse-es-wie-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:44:27.506203+00:00"
+    },
+    "angry/angry_00250_h-r-auf-dich-wie-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:30.821136+00:00"
+    },
+    "angry/angry_00250_ich-will-keine-dis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:35.514784+00:00"
+    },
+    "angry/angry_00253_ich-bin-so-w-tend-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:44:39.555140+00:00"
+    },
+    "angry/angry_00255_h-r-sofort-auf-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:43.093443+00:00"
+    },
+    "angry/angry_00256_verschwinde-aus-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:47.118303+00:00"
+    },
+    "angry/angry_00258_ich-dulde-das-nich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:50.153025+00:00"
+    },
+    "angry/angry_00259_das-ist-das-letzte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:53.142026+00:00"
+    },
+    "angry/angry_00260_ich-bin-es-satt-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:56.390720+00:00"
+    },
+    "angry/angry_00260_ich-kann-deine-fas.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:44:59.428837+00:00"
+    },
+    "angry/angry_00262_du-machst-mich-fer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:02.779359+00:00"
+    },
+    "angry/angry_00262_h-r-auf-mich-zu-ig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:05.896507+00:00"
+    },
+    "angry/angry_00264_lass-mich-in-fried.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:45:12.443737+00:00"
+    },
+    "angry/angry_00264_was-f-llt-dir-ein-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:45:18.258770+00:00"
+    },
+    "angry/angry_00266_das-ist-absolut-in.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:21.290339+00:00"
+    },
+    "angry/angry_00267_schluss-jetzt-ich-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:45:25.288597+00:00"
+    },
+    "angry/angry_00269_h-r-auf-dich-herau.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:45:30.613868+00:00"
+    },
+    "angry/angry_00270_du-hast-es-wieder-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:34.660211+00:00"
+    },
+    "angry/angry_00270_ich-will-nie-wiede.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:45:37.834727+00:00"
+    },
+    "angry/angry_00271_wie-kannst-du-es-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:43.071296+00:00"
+    },
+    "angry/angry_00272_das-geht-dich-berh.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:45:46.241555+00:00"
+    },
+    "angry/angry_00273_halt-endlich-den-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:49.434653+00:00"
+    },
+    "angry/angry_00276_das-war-das-d-mmst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:53.635726+00:00"
+    },
+    "angry/angry_00280_ich-will-das-nie-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:45:56.430831+00:00"
+    },
+    "angry/angry_00281_ich-bin-so-w-tend-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:46:00.255826+00:00"
+    },
+    "angry/angry_00282_das-war-das-unvers.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:46:03.411914+00:00"
+    },
+    "angry/angry_00284_warum-l-gst-du-mic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-28T18:46:06.157163+00:00"
+    },
+    "angry/angry_00286_du-hast-kein-recht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:46:08.952887+00:00"
+    },
+    "angry/angry_00294_ich-bin-nicht-dein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:46:11.633895+00:00"
+    },
+    "angry/angry_00301_du-hast-alles-ruin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:46:16.871992+00:00"
+    },
+    "angry/angry_00306_h-r-auf-dich-wie-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:46:20.168060+00:00"
+    },
+    "angry/angry_00315_warum-l-gst-du-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:46:22.951757+00:00"
+    },
+    "angry/angry_00316_du-hast-mein-vertr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-28T18:46:26.285664+00:00"
     }
   }
 }
