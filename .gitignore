@@ -4,8 +4,3 @@ tools/__pycache__/
 *.tmp
 *.log
 HANDOFF.md
-tools/audio_curation_server.py
-tools/qc_signal.py
-tools/qc_ollama_review.py
-tools/qc_make_review_folder.py
-tools/qc_sample.py
