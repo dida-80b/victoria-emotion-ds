@@ -1,6 +1,6 @@
 {
   "reviewer": "ichDaheim",
-  "updated_at": "2026-05-29T17:38:07.255790+00:00",
+  "updated_at": "2026-05-29T17:57:16.349309+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -2270,6 +2270,618 @@
     "apologetic/apologetic_00133_ich-war-blind-für-de.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T17:38:07.255790+00:00"
+    },
+    "apologetic/apologetic_00134_verzeih-mir-ich-habe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:40:09.866119+00:00"
+    },
+    "apologetic/apologetic_00135_ich-übernehme-die-vo.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:40:13.265612+00:00"
+    },
+    "apologetic/apologetic_00137_ich-kann-nur-hoffen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:40:19.776959+00:00"
+    },
+    "apologetic/apologetic_00139_ich-hätte-besser-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:40:24.252765+00:00"
+    },
+    "apologetic/apologetic_00140_mein-verhalten-war-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:40:32.531733+00:00"
+    },
+    "apologetic/apologetic_00141_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:40:37.091099+00:00"
+    },
+    "apologetic/apologetic_00142_du-verdienst-eine-en.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:40:46.045883+00:00"
+    },
+    "apologetic/apologetic_00144_ich-weiß-dass-worte.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:41:16.702348+00:00"
+    },
+    "apologetic/apologetic_00145_ich-bitte-dich-mir-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:41:22.865957+00:00"
+    },
+    "apologetic/apologetic_00146_das-war-falsch-und-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:41:31.776564+00:00"
+    },
+    "apologetic/apologetic_00149_ich-hätte-ruhiger-bl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:41:36.360213+00:00"
+    },
+    "apologetic/apologetic_00150_ich-war-nicht-fair-u.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:41:51.236579+00:00"
+    },
+    "apologetic/apologetic_00151_bitte-vergib-mir-mei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:41:57.063610+00:00"
+    },
+    "apologetic/apologetic_00152_ich-stehe-zu-meinem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:42:06.214216+00:00"
+    },
+    "apologetic/apologetic_00153_es-war-falsch-von-mi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:42:11.289719+00:00"
+    },
+    "apologetic/apologetic_00154_ich-bedauere-mein-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:42:15.643485+00:00"
+    },
+    "apologetic/apologetic_00155_tut-mir-leid-ich-war.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:42:21.208296+00:00"
+    },
+    "apologetic/apologetic_00156_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:42:29.935221+00:00"
+    },
+    "apologetic/apologetic_00157_das-hätte-nicht-pass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:42:42.851597+00:00"
+    },
+    "apologetic/apologetic_00158_ich-weiß-ich-habe-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:42:50.109489+00:00"
+    },
+    "apologetic/apologetic_00159_bitte-glaub-mir-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:42:54.831696+00:00"
+    },
+    "apologetic/apologetic_00160_ich-war-so-im-unrech.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:42:58.579231+00:00"
+    },
+    "apologetic/apologetic_00163_das-war-unbedacht-vo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:04.565229+00:00"
+    },
+    "apologetic/apologetic_00164_ich-bereue-jedes-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:43:10.913419+00:00"
+    },
+    "apologetic/apologetic_00166_ich-habe-einen-fehle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:18.336180+00:00"
+    },
+    "apologetic/apologetic_00167_es-war-nicht-richtig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:22.165353+00:00"
+    },
+    "apologetic/apologetic_00168_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:27.225294+00:00"
+    },
+    "apologetic/apologetic_00169_bitte-vergib-mir-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:31.470067+00:00"
+    },
+    "apologetic/apologetic_00170_ich-hätte-sensibler.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:35.861412+00:00"
+    },
+    "apologetic/apologetic_00172_ich-war-im-unrecht-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:39.663811+00:00"
+    },
+    "apologetic/apologetic_00173_tut-mir-leid-für-all.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:44.742866+00:00"
+    },
+    "apologetic/apologetic_00175_das-war-rücksichtslo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:49.331220+00:00"
+    },
+    "apologetic/apologetic_00176_ich-hätte-es-besser.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:43:53.724578+00:00"
+    },
+    "apologetic/apologetic_00180_ich-war-egoistisch-u.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:43:57.287133+00:00"
+    },
+    "apologetic/apologetic_00184_ich-bereue-was-passi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:02.121533+00:00"
+    },
+    "apologetic/apologetic_00186_ich-war-kurzsichtig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:10.944866+00:00"
+    },
+    "apologetic/apologetic_00187_es-war-falsch-und-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:15.875005+00:00"
+    },
+    "apologetic/apologetic_00188_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:25.973685+00:00"
+    },
+    "apologetic/apologetic_00189_bitte-gib-mir-die-ch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:31.251468+00:00"
+    },
+    "apologetic/apologetic_00190_das-war-nicht-in-ord.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:36.025660+00:00"
+    },
+    "apologetic/apologetic_00191_ich-tut-mir-leid-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:44.352924+00:00"
+    },
+    "apologetic/apologetic_00194_ich-war-so-falsch-bi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:44:54.034421+00:00"
+    },
+    "apologetic/apologetic_00195_das-hätte-ich-besser.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:01.525528+00:00"
+    },
+    "apologetic/apologetic_00197_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:07.398576+00:00"
+    },
+    "apologetic/apologetic_00199_ich-gebe-zu-ich-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:11.719404+00:00"
+    },
+    "apologetic/apologetic_00200_bitte-vergib-mir-mei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:14.818237+00:00"
+    },
+    "apologetic/apologetic_00201_ich-bereue-mein-verh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:22.645239+00:00"
+    },
+    "apologetic/apologetic_00202_es-war-mein-fehler-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:28.226895+00:00"
+    },
+    "apologetic/apologetic_00204_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:33.204822+00:00"
+    },
+    "apologetic/apologetic_00205_das-war-falsch-von-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:40.445979+00:00"
+    },
+    "apologetic/apologetic_00206_ich-entschuldige-mic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:45:44.223513+00:00"
+    },
+    "apologetic/apologetic_00208_ich-hätte-ruhiger-re.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:45:49.055145+00:00"
+    },
+    "apologetic/apologetic_00209_bitte-glaub-mir-es-t.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:45:58.590068+00:00"
+    },
+    "apologetic/apologetic_00210_ich-war-zu-voreilig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:01.779476+00:00"
+    },
+    "apologetic/apologetic_00213_es-war-nicht-richtig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:04.886299+00:00"
+    },
+    "apologetic/apologetic_00214_ich-bedauere-was-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:09.439391+00:00"
+    },
+    "apologetic/apologetic_00216_ich-war-blind-und-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:13.275643+00:00"
+    },
+    "apologetic/apologetic_00217_das-war-ein-fehler-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:46:31.645008+00:00"
+    },
+    "apologetic/apologetic_00220_ich-übernehme-die-ve.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:46:37.514349+00:00"
+    },
+    "apologetic/apologetic_00222_ich-war-im-unrecht-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:42.945121+00:00"
+    },
+    "apologetic/apologetic_00223_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:46.902728+00:00"
+    },
+    "apologetic/apologetic_00225_bitte-vergib-mir-auc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:50.946487+00:00"
+    },
+    "apologetic/apologetic_00226_ich-bereue-dich-verl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:46:57.991205+00:00"
+    },
+    "apologetic/apologetic_00228_ich-hätte-besser-han.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:47:02.616302+00:00"
+    },
+    "apologetic/apologetic_00231_es-tut-mir-aufrichti.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:47:06.117199+00:00"
+    },
+    "apologetic/apologetic_00232_ich-war-so-im-unrech.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:47:11.140948+00:00"
+    },
+    "apologetic/apologetic_00233_bitte-vergib-mir-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:47:24.382571+00:00"
+    },
+    "apologetic/apologetic_00234_ich-entschuldige-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:47:30.319074+00:00"
+    },
+    "apologetic/apologetic_00235_das-war-gedankenlos.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:47:34.624613+00:00"
+    },
+    "apologetic/apologetic_00237_ich-war-falsch-und-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:47:43.724631+00:00"
+    },
+    "apologetic/apologetic_00240_bitte-gib-mir-eine-c.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:47:49.785356+00:00"
+    },
+    "apologetic/apologetic_00242_ich-bereue-dass-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:47:54.263154+00:00"
+    },
+    "apologetic/apologetic_00246_es-tut-mir-sehr-leid.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:48:08.743104+00:00"
+    },
+    "apologetic/apologetic_00247_ich-war-ungerecht-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:48:14.213050+00:00"
+    },
+    "apologetic/apologetic_00251_es-tut-mir-wirklich-leid-das-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:48:19.030730+00:00"
+    },
+    "apologetic/apologetic_00252_ich-stehe-zu-meinem-fehler-und.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:48:26.360497+00:00"
+    },
+    "apologetic/apologetic_00254_ich-war-im-unrecht-und-das-wei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:48:30.100754+00:00"
+    },
+    "apologetic/apologetic_00256_du-verdienst-eine-ehrliche-ent.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:48:40.385837+00:00"
+    },
+    "apologetic/apologetic_00257_ich-habe-dich-entt-uscht-und-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:48:49.588390+00:00"
+    },
+    "apologetic/apologetic_00258_mein-verhalten-war-nicht-in-or.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:48:58.341102+00:00"
+    },
+    "apologetic/apologetic_00260_das-h-tte-ich-anders-machen-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:49:03.099991+00:00"
+    },
+    "apologetic/apologetic_00261_ich-bitte-dich-von-herzen-um-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:49:08.563077+00:00"
+    },
+    "apologetic/apologetic_00262_du-hast-jedes-recht-sauer-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:49:13.564323+00:00"
+    },
+    "apologetic/apologetic_00263_es-war-gedankenlos-von-mir-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:49:34.925921+00:00"
+    },
+    "apologetic/apologetic_00264_ich-h-tte-mehr-nachdenken-soll.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:49:39.795725+00:00"
+    },
+    "apologetic/apologetic_00265_das-war-nicht-okay-und-ich-ste.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:49:43.667007+00:00"
+    },
+    "apologetic/apologetic_00266_ich-kann-dein-vertrauen-nur-du.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:49:48.452944+00:00"
+    },
+    "apologetic/apologetic_00267_ich-wei-dass-worte-jetzt-wenig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:49:54.131187+00:00"
+    },
+    "apologetic/apologetic_00268_verzeih-mir-wenn-du-kannst-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:49:59.176296+00:00"
+    },
+    "apologetic/apologetic_00269_das-war-mein-versagen-nicht-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:50:04.763441+00:00"
+    },
+    "apologetic/apologetic_00270_ich-h-tte-f-r-dich-da-sein-sol.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:50:13.741420+00:00"
+    },
+    "apologetic/apologetic_00271_mir-ist-klar-geworden-wie-sehr.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:50:18.058839+00:00"
+    },
+    "apologetic/apologetic_00272_ich-entschuldige-mich-nicht-nu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:50:25.753027+00:00"
+    },
+    "apologetic/apologetic_00273_du-verdienst-jemanden-der-bess.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:50:40.027687+00:00"
+    },
+    "apologetic/apologetic_00274_ich-stehe-gerade-vor-dir-und-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:50:46.445080+00:00"
+    },
+    "apologetic/apologetic_00275_mein-fehler-hat-konsequenzen-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:50:55.545408+00:00"
+    },
+    "apologetic/apologetic_00277_ich-bitte-nicht-um-entschuldig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:01.305725+00:00"
+    },
+    "apologetic/apologetic_00278_das-war-nicht-die-person-die-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:06.014277+00:00"
+    },
+    "apologetic/apologetic_00279_ich-h-tte-auf-dich-h-ren-solle.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:51:10.373512+00:00"
+    },
+    "apologetic/apologetic_00280_das-war-leichtsinnig-und-du-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:16.336443+00:00"
+    },
+    "apologetic/apologetic_00281_ich-war-so-sehr-mit-mir-besch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:22.330803+00:00"
+    },
+    "apologetic/apologetic_00282_das-werde-ich-nicht-vergessen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:51:28.941541+00:00"
+    },
+    "apologetic/apologetic_00283_es-tut-mir-leid-f-r-das-was-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:34.289413+00:00"
+    },
+    "apologetic/apologetic_00284_ich-habe-dich-im-stich-gelasse.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:43.831699+00:00"
+    },
+    "apologetic/apologetic_00285_du-hast-mir-vertraut-und-ich-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:49.857537+00:00"
+    },
+    "apologetic/apologetic_00286_ich-kann-nur-hoffen-dass-du-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:51:58.180817+00:00"
+    },
+    "apologetic/apologetic_00287_das-war-nicht-fair-von-mir-pun.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:52:03.104865+00:00"
+    },
+    "apologetic/apologetic_00288_ich-h-tte-fr-her-kommen-und-fr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:52:07.470172+00:00"
+    },
+    "apologetic/apologetic_00289_es-war-meine-schuld-und-ich-be.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:52:12.753571+00:00"
+    },
+    "apologetic/apologetic_00290_ich-bitte-dich-mir-noch-eine-c.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:52:19.239081+00:00"
+    },
+    "apologetic/apologetic_00292_das-war-ein-fehler-den-ich-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:52:25.056758+00:00"
+    },
+    "apologetic/apologetic_00294_du-hast-das-nicht-verdient-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:52:37.770500+00:00"
+    },
+    "apologetic/apologetic_00295_ich-wei-dass-entschuldigungen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:52:43.817977+00:00"
+    },
+    "apologetic/apologetic_00296_das-tut-mir-leid-nicht-weil-es.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:52:52.407728+00:00"
+    },
+    "apologetic/apologetic_00297_ich-werde-mich-daran-erinnern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:52:56.647401+00:00"
+    },
+    "apologetic/apologetic_00298_es-war-falsch-auf-deine-kosten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:01.179041+00:00"
+    },
+    "apologetic/apologetic_00299_ich-bitte-um-verzeihung-weil-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:06.133781+00:00"
+    },
+    "apologetic/apologetic_00300_bitte-glaub-mir-das-war-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:11.756054+00:00"
+    },
+    "apologetic/apologetic_00302_ich-weiss-das-war-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:28.797547+00:00"
+    },
+    "apologetic/apologetic_00303_mir-ist-bewusst-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:32.732726+00:00"
+    },
+    "apologetic/apologetic_00304_es-tut-mir-leid-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:38.295685+00:00"
+    },
+    "apologetic/apologetic_00305_ich-haette-frueher-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:42.250920+00:00"
+    },
+    "apologetic/apologetic_00306_das-war-ein-riesiger.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:53:48.724162+00:00"
+    },
+    "apologetic/apologetic_00307_ich-nehme-die-verant.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:53:54.480775+00:00"
+    },
+    "apologetic/apologetic_00308_rueckblickend-erkenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:54:04.573875+00:00"
+    },
+    "apologetic/apologetic_00309_deine-reaktion-war-v.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:54:18.640108+00:00"
+    },
+    "apologetic/apologetic_00310_ich-will-nicht-drum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:54:23.690804+00:00"
+    },
+    "apologetic/apologetic_00311_zu-sagen-dass-es-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:54:29.000469+00:00"
+    },
+    "apologetic/apologetic_00312_ich-stehe-hier-und-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:54:33.841329+00:00"
+    },
+    "apologetic/apologetic_00314_ich-hatte-unrecht-un.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:54:39.452425+00:00"
+    },
+    "apologetic/apologetic_00315_nicht-als-ausrede-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:54:45.842278+00:00"
+    },
+    "apologetic/apologetic_00316_du-verdientest-besse.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:54:50.405594+00:00"
+    },
+    "apologetic/apologetic_00317_lass-mich-erklaeren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:54:57.897668+00:00"
+    },
+    "apologetic/apologetic_00318_ich-bitte-dich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:55:03.582877+00:00"
+    },
+    "apologetic/apologetic_00319_kein-stolz-mehr-nur.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:55:15.591029+00:00"
+    },
+    "apologetic/apologetic_00320_was-ich-getan-habe-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:55:21.084439+00:00"
+    },
+    "apologetic/apologetic_00321_wie-kann-ich-das-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:55:29.121448+00:00"
+    },
+    "apologetic/apologetic_00323_nicht-ausreden-sonde.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:55:36.298665+00:00"
+    },
+    "apologetic/apologetic_00324_ich-habe-dich-enttae.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:55:43.249633+00:00"
+    },
+    "apologetic/apologetic_00325_reue-allein-genuegt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:55:55.630718+00:00"
+    },
+    "apologetic/apologetic_00326_mein-fehler-hat-dich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:55:59.401651+00:00"
+    },
+    "apologetic/apologetic_00327_ich-uebernehme-die-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:56:04.550628+00:00"
+    },
+    "apologetic/apologetic_00328_was-ich-damals-gesag.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:56:11.303430+00:00"
+    },
+    "apologetic/apologetic_00329_du-hattest-jedes-rec.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:56:16.430261+00:00"
+    },
+    "apologetic/apologetic_00330_ich-mache-keine-halb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:56:30.082994+00:00"
+    },
+    "apologetic/apologetic_00331_bitte-glaub-mir-so-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:56:35.402640+00:00"
+    },
+    "apologetic/apologetic_00332_kein-grund-war-gut-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:56:38.456132+00:00"
+    },
+    "apologetic/apologetic_00333_was-ich-getan-habe-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:56:43.667117+00:00"
+    },
+    "apologetic/apologetic_00334_du-hast-jeden-grund.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:56:53.634070+00:00"
+    },
+    "apologetic/apologetic_00335_mir-fehlen-die-worte.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T17:56:56.472284+00:00"
+    },
+    "apologetic/apologetic_00336_verzeih-mir-bitte-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:57:06.156901+00:00"
+    },
+    "apologetic/apologetic_00337_es-tut-mir-aufrichtig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:57:11.156636+00:00"
+    },
+    "apologetic/apologetic_00338_ich-entschuldige-mich-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T17:57:16.349309+00:00"
     }
   }
 }
