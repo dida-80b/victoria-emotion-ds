@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-29T23:36:27.356883+00:00",
+  "updated_at": "2026-05-30T00:13:50.753639+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -4314,6 +4314,190 @@
     "bitter/bitter_00221_ich-habe-gelernt-dei.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:30:11.534776+00:00"
+    },
+    "annoyed/annoyed_00385_das-ist-der-moment-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:07:16.376113+00:00"
+    },
+    "annoyed/annoyed_00386_ich-atme-aus-und-las.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:07:21.250241+00:00"
+    },
+    "annoyed/annoyed_00387_ich-antworte-wenn-ic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:08:01.580050+00:00"
+    },
+    "annoyed/annoyed_00388_man-hoert-mir-einfac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:07:40.663567+00:00"
+    },
+    "annoyed/annoyed_00390_kein-kommentar-nur-e.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:07:44.513301+00:00"
+    },
+    "annoyed/annoyed_00391_das-temperament-hael.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:08:09.113468+00:00"
+    },
+    "annoyed/annoyed_00392_eines-tages-werde-ic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:08:13.757172+00:00"
+    },
+    "annoyed/annoyed_00393_heute-ist-so-ein-tag.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:08:27.315268+00:00"
+    },
+    "annoyed/annoyed_00394_ich-verbiege-mich-ge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:08:41.923148+00:00"
+    },
+    "annoyed/annoyed_00396_ich-nicke-aber-inner.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:08:49.354021+00:00"
+    },
+    "annoyed/annoyed_00397_das-erste-mal-ist-lu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:08:54.706789+00:00"
+    },
+    "annoyed/annoyed_00398_ich-tue-es-aber-besc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:09:06.911853+00:00"
+    },
+    "annoyed/annoyed_00400_nur-kurz-aufhoeren-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:09:12.961000+00:00"
+    },
+    "annoyed/annoyed_00401_nicht-mehr-im-modus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:09:17.016526+00:00"
+    },
+    "annoyed/annoyed_00402_das-war-doch-schon-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:09:21.008180+00:00"
+    },
+    "annoyed/annoyed_00403_ich-will-nicht-nacht.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:09:24.017738+00:00"
+    },
+    "annoyed/annoyed_00404_haertest-du-nur-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:09:38.016398+00:00"
+    },
+    "annoyed/annoyed_00404_kannst-du-nicht-einf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:09:42.015653+00:00"
+    },
+    "annoyed/annoyed_00405_schon-wieder-dieselb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:09:46.583178+00:00"
+    },
+    "annoyed/annoyed_00406_staendig-muss-ich-hi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:09:51.310025+00:00"
+    },
+    "annoyed/annoyed_00409_schon-wieder-vergess.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:09:56.964851+00:00"
+    },
+    "annoyed/annoyed_00410_muss-das-immer-so-la.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:10:00.855728+00:00"
+    },
+    "annoyed/annoyed_00411_du-laesst-immer-alle.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:10:13.052253+00:00"
+    },
+    "annoyed/annoyed_00412_jetzt-komm-endlich-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:10:18.620976+00:00"
+    },
+    "annoyed/annoyed_00413_dieselbe-ausrede-zum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:10:30.289430+00:00"
+    },
+    "annoyed/annoyed_00414_koenntest-du-wenigst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:10:39.863735+00:00"
+    },
+    "annoyed/annoyed_00415_das-nervt-mich-wirklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:10:44.812244+00:00"
+    },
+    "annoyed/annoyed_00416_kannst-du-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:10:52.172409+00:00"
+    },
+    "annoyed/annoyed_00417_das-ist-schon-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:10:57.176044+00:00"
+    },
+    "annoyed/annoyed_00418_es-wäre-schön-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:11:06.017977+00:00"
+    },
+    "annoyed/annoyed_00420_das-zieht-sich-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:11:18.048600+00:00"
+    },
+    "annoyed/annoyed_00421_kannst-du-nicht-einfach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:11:21.712163+00:00"
+    },
+    "bitter/bitter_00222_jedes-mal-wenn-ich-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:12:03.490837+00:00"
+    },
+    "bitter/bitter_00223_die-worte-die-du-mir.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:12:20.398910+00:00"
+    },
+    "bitter/bitter_00224_ich-habe-deine-sache.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:12:28.636244+00:00"
+    },
+    "bitter/bitter_00225_manchmal-wache-ich-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:12:34.340316+00:00"
+    },
+    "bitter/bitter_00228_dein-name-auf-meinem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:12:40.879423+00:00"
+    },
+    "bitter/bitter_00231_die-leere-in-meiner.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:12:44.898553+00:00"
+    },
+    "bitter/bitter_00232_ich-habe-gelernt-all.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:12:51.421311+00:00"
+    },
+    "bitter/bitter_00233_deine-abwesenheit-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:12:57.470104+00:00"
+    },
+    "bitter/bitter_00237_deine-stimme-in-mein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:13:00.511673+00:00"
+    },
+    "bitter/bitter_00238_manchmal-starre-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:13:20.689937+00:00"
+    },
+    "bitter/bitter_00240_deine-lügen-waren-sü.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:13:25.756097+00:00"
+    },
+    "bitter/bitter_00248_deine-versprechen-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:13:33.037443+00:00"
+    },
+    "bitter/bitter_00251_ich-habe-alles-gegeben-und-am.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T00:13:46.042004+00:00"
+    },
+    "bitter/bitter_00252_du-hast-mich-einfach-gehen-las.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T00:13:50.753575+00:00"
     }
   }
 }
