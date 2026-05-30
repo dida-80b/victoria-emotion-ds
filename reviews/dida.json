@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-30T10:47:25.394634+00:00",
+  "updated_at": "2026-05-30T10:53:21.509208+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -6094,6 +6094,250 @@
     "condescending/condescending_00473_schoen-dass-du-mitdenkst.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:47:25.394560+00:00"
+    },
+    "confident/confident_00001_ich-weiß-genau-was-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:00.083276+00:00"
+    },
+    "confident/confident_00002_das-schaffst-du-ohne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:05.169012+00:00"
+    },
+    "confident/confident_00003_meine-lösung-ist-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:10.367000+00:00"
+    },
+    "confident/confident_00004_ich-stehe-zu-meiner.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:48:17.583326+00:00"
+    },
+    "confident/confident_00005_mit-dieser-strategie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:22.296399+00:00"
+    },
+    "confident/confident_00006_du-kannst-dich-auf-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:28.281211+00:00"
+    },
+    "confident/confident_00007_das-ergebnis-wird-ze.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:32.612071+00:00"
+    },
+    "confident/confident_00008_ich-lasse-mich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:40.484609+00:00"
+    },
+    "confident/confident_00009_meine-erfahrung-spri.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:48:44.768672+00:00"
+    },
+    "confident/confident_00010_das-ist-der-richtige.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:48:53.311528+00:00"
+    },
+    "confident/confident_00011_ich-habe-alles-im-gr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:01.919170+00:00"
+    },
+    "confident/confident_00013_ich-bin-vorbereitet.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:06.178526+00:00"
+    },
+    "confident/confident_00014_das-projekt-läuft-na.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:10.251571+00:00"
+    },
+    "confident/confident_00015_ich-kenne-die-fakten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:14.366817+00:00"
+    },
+    "confident/confident_00016_du-wirst-überrascht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:17.821159+00:00"
+    },
+    "confident/confident_00017_ich-handle-entschlos.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:21.869634+00:00"
+    },
+    "confident/confident_00018_meine-entscheidung-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:30.194982+00:00"
+    },
+    "confident/confident_00019_das-ist-keine-frage.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:34.235549+00:00"
+    },
+    "confident/confident_00020_ich-vertraue-auf-mei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:38.342417+00:00"
+    },
+    "confident/confident_00021_du-kannst-mir-glaube.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:42.255109+00:00"
+    },
+    "confident/confident_00022_meine-stimme-ist-kla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:47.170321+00:00"
+    },
+    "confident/confident_00023_ich-lasse-mich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:50.039150+00:00"
+    },
+    "confident/confident_00024_das-ist-genau-das-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:49:53.954678+00:00"
+    },
+    "confident/confident_00025_ich-habe-alles-durch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:01.435095+00:00"
+    },
+    "confident/confident_00026_meine-präsentation-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:05.965495+00:00"
+    },
+    "confident/confident_00027_ich-stehe-hinter-dem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:10.707042+00:00"
+    },
+    "confident/confident_00028_das-ergebnis-wird-fü.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:50:22.892893+00:00"
+    },
+    "confident/confident_00029_ich-bin-nicht-nervös.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:26.757237+00:00"
+    },
+    "confident/confident_00030_meine-antwort-ist-fu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:31.432695+00:00"
+    },
+    "confident/confident_00031_ich-kenne-die-risike.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:36.103978+00:00"
+    },
+    "confident/confident_00032_du-wirst-sehen-ich-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:39.918814+00:00"
+    },
+    "confident/confident_00034_meine-meinung-ist-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:43.907403+00:00"
+    },
+    "confident/confident_00035_ich-weiß-was-ich-tue.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:47.430043+00:00"
+    },
+    "confident/confident_00036_das-ist-der-beste-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:51.698921+00:00"
+    },
+    "confident/confident_00037_ich-bin-nicht-unsich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:50:56.235080+00:00"
+    },
+    "confident/confident_00038_meine-worte-haben-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:00.646737+00:00"
+    },
+    "confident/confident_00039_ich-handle-mit-bedac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:04.251506+00:00"
+    },
+    "confident/confident_00040_das-wird-funktionier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:07.651090+00:00"
+    },
+    "confident/confident_00042_meine-position-ist-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:11.768473+00:00"
+    },
+    "confident/confident_00043_ich-habe-keine-zweif.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:15.768526+00:00"
+    },
+    "confident/confident_00044_das-ist-kein-wunschd.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:51:17.471198+00:00"
+    },
+    "confident/confident_00045_ich-kenne-die-spielr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:24.209407+00:00"
+    },
+    "confident/confident_00046_meine-stimme-klingt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:28.053751+00:00"
+    },
+    "confident/confident_00048_das-ist-kein-experim.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:32.700591+00:00"
+    },
+    "confident/confident_00049_ich-weiß-was-ich-kan.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:51:54.059551+00:00"
+    },
+    "confident/confident_00050_meine-argumente-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:51:58.645692+00:00"
+    },
+    "confident/confident_00051_ich-bin-nicht-überhe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:03.624716+00:00"
+    },
+    "confident/confident_00052_das-wird-klappen-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:07.932761+00:00"
+    },
+    "confident/confident_00054_meine-entscheidung-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:12.690624+00:00"
+    },
+    "confident/confident_00055_ich-stehe-zu-meinen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:52:17.741331+00:00"
+    },
+    "confident/confident_00056_das-ist-kein-ratespi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:21.291411+00:00"
+    },
+    "confident/confident_00057_ich-handle-mit-überz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:26.023037+00:00"
+    },
+    "confident/confident_00058_meine-worte-sind-prä.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:30.160976+00:00"
+    },
+    "confident/confident_00060_das-ist-der-richtige.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:34.171939+00:00"
+    },
+    "confident/confident_00061_ich-bin-nicht-arroga.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:52:38.037853+00:00"
+    },
+    "confident/confident_00062_meine-strategie-ist.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:52:46.274496+00:00"
+    },
+    "confident/confident_00064_das-wird-ein-erfolg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:52:55.029401+00:00"
+    },
+    "confident/confident_00065_ich-vertraue-auf-mei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:53:02.156607+00:00"
+    },
+    "confident/confident_00066_meine-stimme-ist-fes.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:53:05.697502+00:00"
+    },
+    "confident/confident_00068_das-ist-kein-zufall.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:53:16.022973+00:00"
+    },
+    "confident/confident_00069_ich-handle-mit-bedac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:53:21.509159+00:00"
     }
   }
 }
