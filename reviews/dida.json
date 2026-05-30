@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-29T11:43:12.220395+00:00",
+  "updated_at": "2026-05-29T23:36:27.356883+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -64,16 +64,16 @@
       "reviewed_at": "2026-05-26T10:07:02.840772+00:00"
     },
     "angry/angry_00019_du-hast-keine-ahnu.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:07:09.197943+00:00"
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T23:35:38.855779+00:00"
     },
     "angry/angry_00020_ich-bin-so-sauer-i.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:07:15.747049+00:00"
+      "decision": "rerender",
+      "reviewed_at": "2026-05-29T23:35:52.110068+00:00"
     },
     "angry/angry_00021_wie-konntest-du-nu.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:07:23.738085+00:00"
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T23:35:58.068725+00:00"
     },
     "angry/angry_00022_ich-erwarte-eine-e.wav": {
       "decision": "keep",
@@ -3112,8 +3112,8 @@
       "reviewed_at": "2026-05-29T08:52:23.276828+00:00"
     },
     "apologetic/apologetic_00023_das-war-wirklich-ged.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-29T08:52:24.556420+00:00"
+      "decision": "keep",
+      "reviewed_at": "2026-05-29T23:36:27.356827+00:00"
     },
     "apologetic/apologetic_00024_ich-wollte-dich-nich.wav": {
       "decision": "rerender",
