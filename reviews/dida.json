@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-30T00:13:50.753639+00:00",
+  "updated_at": "2026-05-30T09:34:41.902850+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -4498,6 +4498,634 @@
     "bitter/bitter_00252_du-hast-mich-einfach-gehen-las.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T00:13:50.753575+00:00"
+    },
+    "bitter/bitter_00253_alles-was-ich-aufgebaut-habe-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:05.477555+00:00"
+    },
+    "bitter/bitter_00254_ich-erkenne-mich-selbst-nicht.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:15:10.381043+00:00"
+    },
+    "bitter/bitter_00255_es-schmerzt-wenn-man-merkt-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:15.095765+00:00"
+    },
+    "bitter/bitter_00256_ich-dachte-wir-w-ren-mehr-als.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:19.799137+00:00"
+    },
+    "bitter/bitter_00257_die-jahre-z-hlen-nicht-mehr-we.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:15:26.453482+00:00"
+    },
+    "bitter/bitter_00258_ich-h-tte-fr-her-gehen-sollen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:31.556611+00:00"
+    },
+    "bitter/bitter_00259_was-bleibt-ist-die-stille-erke.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:36.507210+00:00"
+    },
+    "bitter/bitter_00260_du-hast-mich-genommen-und-fall.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:41.114217+00:00"
+    },
+    "bitter/bitter_00261_es-gibt-schmerzen-die-mit-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:46.173963+00:00"
+    },
+    "bitter/bitter_00262_ich-trage-das-alles-noch-in-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:51.753415+00:00"
+    },
+    "bitter/bitter_00263_wie-kann-man-jemanden-so-behan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:15:56.267351+00:00"
+    },
+    "bitter/bitter_00264_das-vertrauen-ist-weg-und-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:16:01.655313+00:00"
+    },
+    "bitter/bitter_00265_ich-bin-m-de-nicht-von-der-arb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:16:06.880044+00:00"
+    },
+    "bitter/bitter_00266_du-warst-nicht-die-person-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:16:11.786968+00:00"
+    },
+    "bitter/bitter_00267_es-nagt-an-mir-dass-ich-so-lan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:16:16.883294+00:00"
+    },
+    "bitter/bitter_00268_nicht-einmal-ein-ehrliches-ges.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:16:21.698807+00:00"
+    },
+    "bitter/bitter_00269_ich-habe-zu-viel-gegeben-an-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:16:26.329612+00:00"
+    },
+    "bitter/bitter_00270_das-hier-l-sst-sich-nicht-einf.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:16:30.685875+00:00"
+    },
+    "bitter/bitter_00271_ich-wei-noch-genau-in-welchem.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:16:52.664262+00:00"
+    },
+    "bitter/bitter_00272_du-hast-die-schw-che-gesehen-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:16:43.938263+00:00"
+    },
+    "bitter/bitter_00273_das-war-kein-missverst-ndnis-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:17:10.819446+00:00"
+    },
+    "bitter/bitter_00274_es-ist-schwer-jemandem-zu-verg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:17:19.843489+00:00"
+    },
+    "bitter/bitter_00275_ich-tue-so-als-w-re-es-vorbei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:17:24.715922+00:00"
+    },
+    "bitter/bitter_00276_was-einmal-war-kann-ich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:17:29.442080+00:00"
+    },
+    "bitter/bitter_00277_du-hast-das-beste-von-mir-verb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:17:34.825323+00:00"
+    },
+    "bitter/bitter_00278_das-l-cheln-kostet-mich-mehr-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:17:38.901407+00:00"
+    },
+    "bitter/bitter_00279_ich-habe-lange-gek-mpft-f-r-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:17:44.939684+00:00"
+    },
+    "bitter/bitter_00280_es-ist-schwer-zu-verzeihen-wen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:17:58.222655+00:00"
+    },
+    "bitter/bitter_00281_ich-war-da-immer-und-trotzdem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:03.488339+00:00"
+    },
+    "bitter/bitter_00282_das-hier-brennt-noch-tief-drin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:09.602049+00:00"
+    },
+    "bitter/bitter_00284_es-h-tte-anders-ausgehen-k-nne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:13.703983+00:00"
+    },
+    "bitter/bitter_00285_ich-trage-deinen-namen-noch-ob.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:18.391877+00:00"
+    },
+    "bitter/bitter_00286_das-war-kein-zufall-das-war-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:23.179087+00:00"
+    },
+    "bitter/bitter_00287_ich-habe-dir-mehr-vertraut-als.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:27.813543+00:00"
+    },
+    "bitter/bitter_00288_der-schmerz-hat-keinen-namen-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:33.540172+00:00"
+    },
+    "bitter/bitter_00289_du-bist-gegangen-als-ich-am-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:38.337381+00:00"
+    },
+    "bitter/bitter_00290_ich-verstehe-jetzt-dass-du-nie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:42.407869+00:00"
+    },
+    "bitter/bitter_00291_es-ist-stiller-ohne-dich-aber.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:18:47.853984+00:00"
+    },
+    "bitter/bitter_00292_ich-war-loyal-bis-zu-dem-punkt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:18:57.552793+00:00"
+    },
+    "bitter/bitter_00293_es-bleibt-ein-nachgeschmack-de.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:19:02.076952+00:00"
+    },
+    "bitter/bitter_00294_was-ich-gef-hlt-habe-war-echt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:19:07.754248+00:00"
+    },
+    "bitter/bitter_00295_das-war-keine-beziehung-das-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:19:25.130711+00:00"
+    },
+    "bitter/bitter_00296_ich-w-nsche-dir-nichts-schlech.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:19:30.530340+00:00"
+    },
+    "bitter/bitter_00297_du-hast-mir-beigebracht-nieman.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:20:08.165487+00:00"
+    },
+    "bitter/bitter_00298_es-tut-noch-weh-auch-wenn-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:20:23.538149+00:00"
+    },
+    "bitter/bitter_00299_ich-h-tte-fr-her-auf-meinen-ba.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:20:27.685248+00:00"
+    },
+    "bitter/bitter_00300_was-von-uns-brig-bleibt-passt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:20:33.419196+00:00"
+    },
+    "bitter/bitter_00302_ich-war-bereit-f-r-alles-du-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:20:39.190782+00:00"
+    },
+    "bitter/bitter_00303_man-gewoehnt-sich-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:20:51.005437+00:00"
+    },
+    "bitter/bitter_00304_tief-im-inneren-bren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:20:56.006541+00:00"
+    },
+    "bitter/bitter_00305_groll-ist-das-unsche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:21:01.284656+00:00"
+    },
+    "bitter/bitter_00306_man-sieht-es-mir-vie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:21:11.085933+00:00"
+    },
+    "bitter/bitter_00307_bitterkeit-ist-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:21:22.772713+00:00"
+    },
+    "bitter/bitter_00308_enttaeuschung-die-si.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:21:33.531845+00:00"
+    },
+    "bitter/bitter_00309_man-kann-verzeihen-o.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:21:38.651058+00:00"
+    },
+    "bitter/bitter_00310_nicht-traurig-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:21:47.947328+00:00"
+    },
+    "bitter/bitter_00311_ich-wuenschte-ich-ko.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:21:52.702843+00:00"
+    },
+    "bitter/bitter_00313_wie-lange-traegt-man.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:22:04.745988+00:00"
+    },
+    "bitter/bitter_00314_ich-rede-nicht-darue.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:08.960240+00:00"
+    },
+    "bitter/bitter_00315_bittere-erkenntnis-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:24.627703+00:00"
+    },
+    "bitter/bitter_00316_was-ich-damals-erhof.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:31.690400+00:00"
+    },
+    "bitter/bitter_00317_nie-waere-ich-damals.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:36.790533+00:00"
+    },
+    "bitter/bitter_00318_jedes-mal-wenn-ich-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:43.319254+00:00"
+    },
+    "bitter/bitter_00319_mit-einem-laecheln-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:49.217928+00:00"
+    },
+    "bitter/bitter_00320_was-fuer-ein-preis-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:54.615122+00:00"
+    },
+    "bitter/bitter_00321_ich-haette-damals-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:22:59.156356+00:00"
+    },
+    "bitter/bitter_00322_jemanden-enttaeuscht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:23:11.836408+00:00"
+    },
+    "bitter/bitter_00323_nicht-rache-nur-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:23:16.441143+00:00"
+    },
+    "bitter/bitter_00324_ich-schlucke-die-bit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:23:26.316579+00:00"
+    },
+    "bitter/bitter_00325_alles-was-uebrig-geb.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:23:49.493278+00:00"
+    },
+    "bitter/bitter_00326_was-ich-einst-fuer-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:23:54.191360+00:00"
+    },
+    "bitter/bitter_00327_nichts-schmerzt-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:23:58.543330+00:00"
+    },
+    "bitter/bitter_00328_jeder-abend-laesst-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:04.433752+00:00"
+    },
+    "bitter/bitter_00329_man-baut-und-baut-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:08.947908+00:00"
+    },
+    "bitter/bitter_00330_das-schwierigste-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:14.554310+00:00"
+    },
+    "bitter/bitter_00331_ich-trage-groll-in-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:19.333280+00:00"
+    },
+    "bitter/bitter_00332_der-gedanke-daran-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:23.201875+00:00"
+    },
+    "bitter/bitter_00333_wenn-man-nicht-aufra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:27.028069+00:00"
+    },
+    "bitter/bitter_00334_ich-bin-kalt-geworde.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:32.705433+00:00"
+    },
+    "bitter/bitter_00335_ich-wuenschte-ich-ko.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:45.464302+00:00"
+    },
+    "bitter/bitter_00336_eine-lektion-die-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:24:51.019915+00:00"
+    },
+    "bitter/bitter_00337_man-merkt-den-schade.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:24:56.917578+00:00"
+    },
+    "bitter/bitter_00338_unter-der-oberflaech.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:25:03.749710+00:00"
+    },
+    "bitter/bitter_00339_ich-habe-geschluckt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:25:08.548439+00:00"
+    },
+    "bitter/bitter_00340_der-widerwillen-komm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:25:13.883620+00:00"
+    },
+    "bitter/bitter_00342_jemanden-vertrauen-u.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:25:28.174314+00:00"
+    },
+    "bitter/bitter_00343_ich-tue-freundlich-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:25:34.620735+00:00"
+    },
+    "bitter/bitter_00344_tief-im-bauch-dieses.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:25:45.425301+00:00"
+    },
+    "bitter/bitter_00345_man-gewoehnt-sich-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:25:51.384535+00:00"
+    },
+    "bitter/bitter_00346_das-ist-das-problem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:25:57.195712+00:00"
+    },
+    "bitter/bitter_00347_nicht-alles-was-abge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:26:02.118997+00:00"
+    },
+    "bitter/bitter_00348_manches-nimmt-man-hi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:26:06.555025+00:00"
+    },
+    "bitter/bitter_00349_ich-laechle-und-fueh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:26:11.459398+00:00"
+    },
+    "bitter/bitter_00350_wenn-die-enttaeuschu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:26:28.984460+00:00"
+    },
+    "bitter/bitter_00351_wer-oft-genug-enttae.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:26:34.385535+00:00"
+    },
+    "bitter/bitter_00352_man-erzaehlt-die-ges.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:26:38.613621+00:00"
+    },
+    "bitter/bitter_00353_ich-tue-als-sei-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:26:44.254728+00:00"
+    },
+    "bitter/bitter_00354_manchmal-schmerzt-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:26:49.051411+00:00"
+    },
+    "bitter/bitter_00355_man-kann-eine-wunde.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:26:53.303304+00:00"
+    },
+    "bitter/bitter_00356_tief-in-mir-eine-sti.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:27:04.674052+00:00"
+    },
+    "bitter/bitter_00357_was-versprochen-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:14.890437+00:00"
+    },
+    "bitter/bitter_00358_was-verloren-ging-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:18.846976+00:00"
+    },
+    "bitter/bitter_00359_innerlich-habe-ich-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:25.895137+00:00"
+    },
+    "bitter/bitter_00360_jede-enttaeuschung-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:33.435422+00:00"
+    },
+    "bitter/bitter_00361_nie-wieder-dieselbe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:40.247809+00:00"
+    },
+    "bitter/bitter_00362_gelernt-ja-aber-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:45.824097+00:00"
+    },
+    "bitter/bitter_00363_ein-bitterer-beigesc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:50.764519+00:00"
+    },
+    "bitter/bitter_00364_der-raum-den-du-in-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:27:55.994074+00:00"
+    },
+    "bitter/bitter_00365_manchmal-ist-bitterk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:28:00.198796+00:00"
+    },
+    "bitter/bitter_00366_ich-sage-nichts-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:28:06.031924+00:00"
+    },
+    "bitter/bitter_00367_man-raeumt-auf-und-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:28:11.049703+00:00"
+    },
+    "bitter/bitter_00368_aufgehoert-zu-kaempf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:28:15.921670+00:00"
+    },
+    "bitter/bitter_00369_wer-oft-genug-gebroc.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:28:54.693726+00:00"
+    },
+    "bitter/bitter_00370_was-man-erhofft-und.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:29:00.637756+00:00"
+    },
+    "bitter/bitter_00371_jemand-hat-mir-etwas.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:29:08.263817+00:00"
+    },
+    "bitter/bitter_00373_manche-wunden-heilen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:29:13.998310+00:00"
+    },
+    "bitter/bitter_00374_was-einmal-offen-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:29:24.825853+00:00"
+    },
+    "bitter/bitter_00376_schmerz-der-nicht-la.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:29:29.377572+00:00"
+    },
+    "bitter/bitter_00377_bitterkeit-braucht-k.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:29:33.437906+00:00"
+    },
+    "bitter/bitter_00378_nicht-mehr-erklaeren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:29:41.584258+00:00"
+    },
+    "bitter/bitter_00379_schweigen-ist-manchm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:29:50.034408+00:00"
+    },
+    "bitter/bitter_00380_irgendwann-hoert-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:29:53.368945+00:00"
+    },
+    "bitter/bitter_00381_zu-sehr-enttaeuscht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:29:57.965147+00:00"
+    },
+    "bitter/bitter_00382_wer-oft-hinfaellt-st.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:30:05.281586+00:00"
+    },
+    "bitter/bitter_00383_abgehaertet-nennen-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:30:12.161192+00:00"
+    },
+    "bitter/bitter_00384_was-mich-geformt-hat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:30:16.112944+00:00"
+    },
+    "bitter/bitter_00385_der-preis-des-lernen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:30:23.805528+00:00"
+    },
+    "bitter/bitter_00386_man-traegt-manches-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:30:28.890998+00:00"
+    },
+    "bitter/bitter_00387_ich-spare-mir-die-wo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:30:33.012197+00:00"
+    },
+    "bitter/bitter_00389_manchmal-ist-das-sch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:30:37.449262+00:00"
+    },
+    "bitter/bitter_00390_erfahrung-ist-ein-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:30:43.849622+00:00"
+    },
+    "bitter/bitter_00391_wer-keine-erwartunge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:30:48.410590+00:00"
+    },
+    "bitter/bitter_00392_nicht-verbittert-nen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:30:53.926515+00:00"
+    },
+    "bitter/bitter_00393_zuneigung-die-missbr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:30:59.311968+00:00"
+    },
+    "bitter/bitter_00394_man-schuetzt-sich-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:31:30.507151+00:00"
+    },
+    "bitter/bitter_00395_manche-dinge-laesst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:31:41.106881+00:00"
+    },
+    "bitter/bitter_00396_was-einmal-gebrochen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:31:57.417844+00:00"
+    },
+    "bitter/bitter_00397_man-lebt-weiter-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:32:05.365419+00:00"
+    },
+    "bitter/bitter_00398_nicht-verfeindet-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:32:12.379436+00:00"
+    },
+    "bitter/bitter_00399_jemand-sagte-mir-etw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:32:17.589322+00:00"
+    },
+    "bitter/bitter_00400_tief-in-mir-ist-noch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:32:20.535590+00:00"
+    },
+    "bitter/bitter_00401_das-hat-sich-mir-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:32:31.553556+00:00"
+    },
+    "bitter/bitter_00402_bitterkeit-ist-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:32:41.738886+00:00"
+    },
+    "bitter/bitter_00403_resignation-ist-stil.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:32:53.758324+00:00"
+    },
+    "bitter/bitter_00404_man-macht-weiter-abe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:33:03.044781+00:00"
+    },
+    "bitter/bitter_00405_nicht-alle-kapitel-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:33:07.344804+00:00"
+    },
+    "bitter/bitter_00406_was-man-zu-vergessen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:33:19.604769+00:00"
+    },
+    "bitter/bitter_00407_was-bleibt-wenn-alle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:33:34.387709+00:00"
+    },
+    "bitter/bitter_00408_nicht-zornig-nur-tie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:33:39.909364+00:00"
+    },
+    "bitter/bitter_00409_das-gefuehl-das-blei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:33:44.554473+00:00"
+    },
+    "bitter/bitter_00410_jahrelang-habe-ich-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:33:49.245725+00:00"
+    },
+    "bitter/bitter_00411_manche-wunden-verhei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T09:33:51.808541+00:00"
+    },
+    "bitter/bitter_00414_schön-dass-die-anderen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:34:15.042644+00:00"
+    },
+    "bitter/bitter_00415_ich-vergebe-aber-vergessen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:34:19.085018+00:00"
+    },
+    "bitter/bitter_00416_man-investiert-und-am.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:34:23.653220+00:00"
+    },
+    "bitter/bitter_00417_ich-habe-alles-fuer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:34:29.162299+00:00"
+    },
+    "bitter/bitter_00418_manche-wunden-heilen-nie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T09:34:41.902771+00:00"
     }
   }
 }
