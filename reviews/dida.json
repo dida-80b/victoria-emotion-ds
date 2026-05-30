@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-30T11:21:54.089212+00:00",
+  "updated_at": "2026-05-30T11:32:23.343749+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -7058,6 +7058,286 @@
     "confident/confident_00174_die-fakten-sprechen.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:21:54.089152+00:00"
+    },
+    "desperate/desperate_00001_ich-halte-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:28:28.308514+00:00"
+    },
+    "desperate/desperate_00002_warum-hört-das-nie-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:28:31.507982+00:00"
+    },
+    "desperate/desperate_00003_es-gibt-keinen-auswe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:28:36.538283+00:00"
+    },
+    "desperate/desperate_00004_ich-kann-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:28:39.417130+00:00"
+    },
+    "desperate/desperate_00005_alles-ist-verloren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:28:42.099052+00:00"
+    },
+    "desperate/desperate_00006_niemand-versteht-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:28:44.205283+00:00"
+    },
+    "desperate/desperate_00007_ich-will-nur-noch-sc.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:28:48.612211+00:00"
+    },
+    "desperate/desperate_00008_meine-hände-zittern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:28:51.763027+00:00"
+    },
+    "desperate/desperate_00009_es-tut-so-weh-immer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:28:55.865257+00:00"
+    },
+    "desperate/desperate_00010_ich-sehe-kein-licht.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:29:06.624679+00:00"
+    },
+    "desperate/desperate_00011_warum-hilft-mir-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:09.430856+00:00"
+    },
+    "desperate/desperate_00012_ich-bin-so-müde.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:29:16.083396+00:00"
+    },
+    "desperate/desperate_00013_alles-bricht-zusamme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:18.776429+00:00"
+    },
+    "desperate/desperate_00014_ich-schaffe-das-nich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:29:22.278849+00:00"
+    },
+    "desperate/desperate_00015_es-ist-zu-spät.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:29:26.372438+00:00"
+    },
+    "desperate/desperate_00016_meine-stimme-versagt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:29.220341+00:00"
+    },
+    "desperate/desperate_00017_ich-habe-alles-versu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:29:34.524942+00:00"
+    },
+    "desperate/desperate_00019_ich-will-einfach-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:37.478236+00:00"
+    },
+    "desperate/desperate_00020_es-fühlt-sich-an-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:40.578938+00:00"
+    },
+    "desperate/desperate_00021_ich-halte-den-schmer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:43.884602+00:00"
+    },
+    "desperate/desperate_00022_warum-passiert-das-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:47.241910+00:00"
+    },
+    "desperate/desperate_00024_alles-ist-sinnlos.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:49.505144+00:00"
+    },
+    "desperate/desperate_00025_ich-will-nur-noch-ru.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:52.665612+00:00"
+    },
+    "desperate/desperate_00026_es-wird-nie-besser-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:55.553779+00:00"
+    },
+    "desperate/desperate_00027_ich-bin-am-ende.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:29:57.846783+00:00"
+    },
+    "desperate/desperate_00028_niemand-hört-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:00.209480+00:00"
+    },
+    "desperate/desperate_00029_ich-kann-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:03.234037+00:00"
+    },
+    "desperate/desperate_00030_es-ist-alles-umsonst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:05.775348+00:00"
+    },
+    "desperate/desperate_00032_warum-lässt-mich-all.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:08.776199+00:00"
+    },
+    "desperate/desperate_00033_ich-habe-keine-hoffn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:11.874151+00:00"
+    },
+    "desperate/desperate_00034_es-tut-so-verdammt-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:15.639620+00:00"
+    },
+    "desperate/desperate_00036_alles-ist-dunkel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:18.333342+00:00"
+    },
+    "desperate/desperate_00037_ich-will-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:20.933490+00:00"
+    },
+    "desperate/desperate_00038_warum-antwortet-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:24.306250+00:00"
+    },
+    "desperate/desperate_00039_ich-bin-so-allein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:27.035057+00:00"
+    },
+    "desperate/desperate_00040_es-gibt-nichts-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:30.666644+00:00"
+    },
+    "desperate/desperate_00041_ich-will-einfach-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:36.172137+00:00"
+    },
+    "desperate/desperate_00042_niemand-nimmt-mich-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:39.114436+00:00"
+    },
+    "desperate/desperate_00043_ich-halte-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:41.488453+00:00"
+    },
+    "desperate/desperate_00044_es-fühlt-sich-an-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:45.622675+00:00"
+    },
+    "desperate/desperate_00046_warum-hört-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:48.074697+00:00"
+    },
+    "desperate/desperate_00047_ich-habe-keine-träne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:56.564617+00:00"
+    },
+    "desperate/desperate_00048_alles-ist-kaputt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:30:59.502666+00:00"
+    },
+    "desperate/desperate_00049_ich-kann-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:02.269814+00:00"
+    },
+    "desperate/desperate_00050_es-ist-zu-viel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:04.573483+00:00"
+    },
+    "desperate/desperate_00051_ich-will-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:07.510852+00:00"
+    },
+    "desperate/desperate_00053_ich-bin-verloren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:10.008576+00:00"
+    },
+    "desperate/desperate_00054_es-gibt-keine-rettun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:12.604756+00:00"
+    },
+    "desperate/desperate_00055_ich-will-einfach-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:15.685881+00:00"
+    },
+    "desperate/desperate_00056_niemand-versteht-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:19.159199+00:00"
+    },
+    "desperate/desperate_00057_ich-breche-zusammen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:21.715414+00:00"
+    },
+    "desperate/desperate_00059_ich-habe-keine-worte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:24.764556+00:00"
+    },
+    "desperate/desperate_00060_warum-lässt-mich-all.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:27.661006+00:00"
+    },
+    "desperate/desperate_00061_ich-bin-am-ende-mein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:30.350034+00:00"
+    },
+    "desperate/desperate_00062_es-ist-alles-aus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:32.894016+00:00"
+    },
+    "desperate/desperate_00064_niemand-ist-für-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:35.792261+00:00"
+    },
+    "desperate/desperate_00068_ich-habe-alles-gegeb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:38.634573+00:00"
+    },
+    "desperate/desperate_00069_es-ist-zu-spät-für-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:41.685807+00:00"
+    },
+    "desperate/desperate_00071_niemand-hört-meine-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:44.368806+00:00"
+    },
+    "desperate/desperate_00072_ich-bin-so-leer.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T11:31:47.685069+00:00"
+    },
+    "desperate/desperate_00073_es-gibt-keine-lösung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:50.155729+00:00"
+    },
+    "desperate/desperate_00074_ich-will-einfach-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:53.030169+00:00"
+    },
+    "desperate/desperate_00077_alles-ist-egal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:56.318383+00:00"
+    },
+    "desperate/desperate_00079_es-tut-so-weh-jeden.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:31:59.377022+00:00"
+    },
+    "desperate/desperate_00080_ich-habe-keine-energ.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:32:05.085197+00:00"
+    },
+    "desperate/desperate_00082_ich-bin-so-verzweife.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:32:07.687293+00:00"
+    },
+    "desperate/desperate_00083_es-gibt-keinen-grund.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:32:11.324276+00:00"
+    },
+    "desperate/desperate_00085_niemand-nimmt-mich-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:32:14.714016+00:00"
+    },
+    "desperate/desperate_00087_es-ist-alles-verlore.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:32:18.411516+00:00"
+    },
+    "desperate/desperate_00091_alles-ist-so-schwer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T11:32:23.343663+00:00"
     }
   }
 }
