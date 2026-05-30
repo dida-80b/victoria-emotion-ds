@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-05-30T09:34:41.902850+00:00",
+  "updated_at": "2026-05-30T10:47:25.394634+00:00",
   "total_clips": 6758,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -5126,6 +5126,974 @@
     "bitter/bitter_00418_manche-wunden-heilen-nie.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T09:34:41.902771+00:00"
+    },
+    "condescending/condescending_00001_ach-das-haben-sie-al.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:16:05.122763+00:00"
+    },
+    "condescending/condescending_00002_na-klar-ich-erkläre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:16:11.067263+00:00"
+    },
+    "condescending/condescending_00003_wenn-sie-das-nicht-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:16:15.652838+00:00"
+    },
+    "condescending/condescending_00004_das-ist-ja-fast-scho.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:16:20.104700+00:00"
+    },
+    "condescending/condescending_00005_haben-sie-wirklich-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:16:24.007731+00:00"
+    },
+    "condescending/condescending_00006_ich-glaube-sie-übers.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:16:28.960763+00:00"
+    },
+    "condescending/condescending_00008_vielleicht-sollten-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:16:39.892529+00:00"
+    },
+    "condescending/condescending_00012_haben-sie-eigentlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:16:47.718600+00:00"
+    },
+    "condescending/condescending_00014_vielleicht-sollten-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:16:55.554743+00:00"
+    },
+    "condescending/condescending_00017_ach-sie-haben-es-ges.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:17:12.274581+00:00"
+    },
+    "condescending/condescending_00019_haben-sie-wirklich-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:17:17.879105+00:00"
+    },
+    "condescending/condescending_00022_vielleicht-sollten-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:17:31.269036+00:00"
+    },
+    "condescending/condescending_00023_ach-sie-wollen-es-no.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:17:36.315801+00:00"
+    },
+    "condescending/condescending_00025_das-ist-ja-fast-scho.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:17:40.716100+00:00"
+    },
+    "condescending/condescending_00027_ich-meine-es-ist-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:17:46.382443+00:00"
+    },
+    "condescending/condescending_00030_ich-würde-ihnen-ja-t.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:17:53.524673+00:00"
+    },
+    "condescending/condescending_00033_haben-sie-wirklich-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:18:08.960866+00:00"
+    },
+    "condescending/condescending_00034_ich-würde-ihnen-ja-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:18:16.352369+00:00"
+    },
+    "condescending/condescending_00036_vielleicht-sollten-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:18:21.202220+00:00"
+    },
+    "condescending/condescending_00037_ach-sie-wollen-es-be.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:18:26.285976+00:00"
+    },
+    "condescending/condescending_00115_ach-sie-glauben-wirk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:18:36.202471+00:00"
+    },
+    "condescending/condescending_00116_wie-charmant-dass-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:18:40.842348+00:00"
+    },
+    "condescending/condescending_00117_ich-bewundere-ihren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:18:51.636210+00:00"
+    },
+    "condescending/condescending_00118_das-ist-ja-mal-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:18:58.079098+00:00"
+    },
+    "condescending/condescending_00119_haben-sie-eigentlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:03.351323+00:00"
+    },
+    "condescending/condescending_00120_ich-verstehe-dass-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:09.435680+00:00"
+    },
+    "condescending/condescending_00126_ich-glaube-sie-verwe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:14.607380+00:00"
+    },
+    "condescending/condescending_00131_haben-sie-eigentlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:21.006518+00:00"
+    },
+    "condescending/condescending_00136_ich-verstehe-dass-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:26.303628+00:00"
+    },
+    "condescending/condescending_00146_ich-glaube-sie-übers.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:30.616982+00:00"
+    },
+    "condescending/condescending_00156_haben-sie-wirklich-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:35.076717+00:00"
+    },
+    "condescending/condescending_00158_vielleicht-sollten-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:39.565259+00:00"
+    },
+    "condescending/condescending_00164_ich-glaube-sie-haben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:44.506235+00:00"
+    },
+    "condescending/condescending_00168_ich-meine-es-ist-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:48.889108+00:00"
+    },
+    "condescending/condescending_00179_ich-glaube-sie-haben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:19:53.138662+00:00"
+    },
+    "condescending/condescending_00223_ach-sie-haben-das-al.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:20:09.900884+00:00"
+    },
+    "condescending/condescending_00224_wie-schön-dass-sie-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:20:21.482153+00:00"
+    },
+    "condescending/condescending_00228_ach-sie-denken-das-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:20:27.441969+00:00"
+    },
+    "condescending/condescending_00230_haben-sie-eigentlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:20:32.181791+00:00"
+    },
+    "condescending/condescending_00231_ich-glaube-sie-verwe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:20:37.216559+00:00"
+    },
+    "condescending/condescending_00234_ach-sie-haben-das-au.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:20:47.567042+00:00"
+    },
+    "condescending/condescending_00241_ach-sie-wollen-das-b.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:20:53.658939+00:00"
+    },
+    "condescending/condescending_00251_gut-versucht-wirklich-f-r-ihre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:02.463236+00:00"
+    },
+    "condescending/condescending_00252_das-war-sicher-ihr-bestes-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:06.893957+00:00"
+    },
+    "condescending/condescending_00253_erstaunlich-dass-sie-berhaupt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:12.506068+00:00"
+    },
+    "condescending/condescending_00254_sie-haben-das-tats-chlich-so-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:18.541173+00:00"
+    },
+    "condescending/condescending_00255_ach-sie-kennen-das-wort-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:23.481377+00:00"
+    },
+    "condescending/condescending_00256_ihr-ansatz-ist-nun-ja-originel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:41.624717+00:00"
+    },
+    "condescending/condescending_00257_sehen-sie-genau-das-meine-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:49.220170+00:00"
+    },
+    "condescending/condescending_00258_sehr-mutig-von-ihnen-das-laut.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:21:54.081756+00:00"
+    },
+    "condescending/condescending_00259_wissen-sie-die-meisten-leute-k.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:22:04.628562+00:00"
+    },
+    "condescending/condescending_00260_das-ist-tats-chlich-eine-antwo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:10.283332+00:00"
+    },
+    "condescending/condescending_00262_ach-so-sehen-sie-das-interessa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:15.630526+00:00"
+    },
+    "condescending/condescending_00263_sie-haben-das-tats-chlich-eing.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:20.204839+00:00"
+    },
+    "condescending/condescending_00264_keine-sorge-das-ist-ein-h-ufig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:29.899685+00:00"
+    },
+    "condescending/condescending_00266_das-klingt-nach-einem-plan-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:36.593188+00:00"
+    },
+    "condescending/condescending_00267_ich-h-tte-es-anders-gemacht-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:42.652393+00:00"
+    },
+    "condescending/condescending_00268_sch-n-dass-sie-das-so-sehen-er.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:51.958492+00:00"
+    },
+    "condescending/condescending_00269_das-braucht-zeit-zu-wachsen-au.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:22:57.649661+00:00"
+    },
+    "condescending/condescending_00270_toll-dass-sie-das-versuchen-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:04.889779+00:00"
+    },
+    "condescending/condescending_00272_das-ist-tats-chlich-falsch-abe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:10.322814+00:00"
+    },
+    "condescending/condescending_00273_ach-da-haben-sie-ja-fast-recht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:18.630854+00:00"
+    },
+    "condescending/condescending_00274_manchmal-ist-unwissenheit-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:23:23.158538+00:00"
+    },
+    "condescending/condescending_00275_f-r-eine-erstreaktion-ist-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:29.188719+00:00"
+    },
+    "condescending/condescending_00276_da-haben-sie-sich-sicher-viel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:35.009163+00:00"
+    },
+    "condescending/condescending_00278_nicht-jeder-kann-in-solchen-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:40.063876+00:00"
+    },
+    "condescending/condescending_00280_sch-n-dass-sie-sich-trauen-sol.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:46.091549+00:00"
+    },
+    "condescending/condescending_00281_ihre-herangehensweise-ist-wirk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:52.421724+00:00"
+    },
+    "condescending/condescending_00283_ich-erkl-re-das-gerne-nochmal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:23:57.452423+00:00"
+    },
+    "condescending/condescending_00284_nat-rlich-haben-sie-das-anders.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:24:07.386407+00:00"
+    },
+    "condescending/condescending_00285_sie-meinen-das-ernst-na-dann.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:24:11.585098+00:00"
+    },
+    "condescending/condescending_00286_mit-dem-richtigen-tutor-kommen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:24:16.275848+00:00"
+    },
+    "condescending/condescending_00287_bitte-korrigieren-sie-mich-fal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:24:22.799287+00:00"
+    },
+    "condescending/condescending_00288_ihr-engagement-in-ehren-der-re.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:24:27.324830+00:00"
+    },
+    "condescending/condescending_00289_das-war-ein-guter-versuch-beim.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:24:33.770057+00:00"
+    },
+    "condescending/condescending_00290_es-ist-immer-wieder-sch-n-zu-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:24:39.128958+00:00"
+    },
+    "condescending/condescending_00291_sie-wirken-berraschend-sicher.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:24:43.798596+00:00"
+    },
+    "condescending/condescending_00292_das-erkl-re-ich-ihnen-gerne-ab.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:24:49.581036+00:00"
+    },
+    "condescending/condescending_00293_daf-r-dass-das-ihr-fachgebiet.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:25:02.173224+00:00"
+    },
+    "condescending/condescending_00294_das-nennt-man-dann-wohl-einen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:25:12.245097+00:00"
+    },
+    "condescending/condescending_00295_ich-finde-ihre-naivit-t-fast-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:25:17.473985+00:00"
+    },
+    "condescending/condescending_00296_das-haben-sie-selbst-ausgedach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:25:22.319302+00:00"
+    },
+    "condescending/condescending_00297_f-r-ihre-altersgruppe-ist-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:25:26.839900+00:00"
+    },
+    "condescending/condescending_00299_sie-machen-das-mit-einer-unbek.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:25:32.523271+00:00"
+    },
+    "condescending/condescending_00300_ah-die-klassische-methode-aus.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:25:45.976948+00:00"
+    },
+    "condescending/condescending_00301_ich-bin-sicher-das-reicht-f-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:25:50.625497+00:00"
+    },
+    "condescending/condescending_00302_was-f-r-ein-vorschlag-wirklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:25:55.792673+00:00"
+    },
+    "condescending/condescending_00303_das-sehen-sie-so-spannend-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:01.437580+00:00"
+    },
+    "condescending/condescending_00304_keine-angst-das-kommt-mit-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:06.275292+00:00"
+    },
+    "condescending/condescending_00306_ihr-beitrag-ist-bemerkenswert.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:12.218461+00:00"
+    },
+    "condescending/condescending_00307_mit-verlaub-da-liegt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:17.456049+00:00"
+    },
+    "condescending/condescending_00309_man-merkt-dass-sie-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:28.603712+00:00"
+    },
+    "condescending/condescending_00310_entschuldigung-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:37.483134+00:00"
+    },
+    "condescending/condescending_00311_ich-erklaere-es-ihne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:43.607615+00:00"
+    },
+    "condescending/condescending_00312_vielleicht-sollten-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:49.102111+00:00"
+    },
+    "condescending/condescending_00313_das-ist-so-ein-klass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:26:53.912124+00:00"
+    },
+    "condescending/condescending_00314_ich-sage-das-nicht-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:00.397167+00:00"
+    },
+    "condescending/condescending_00315_man-sieht-sofort-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:06.051338+00:00"
+    },
+    "condescending/condescending_00316_das-mag-aus-ihrer-pe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:13.430601+00:00"
+    },
+    "condescending/condescending_00317_lassen-sie-mich-ihne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:18.547875+00:00"
+    },
+    "condescending/condescending_00319_es-ist-kein-vorwurf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:23.057547+00:00"
+    },
+    "condescending/condescending_00320_das-ist-in-der-theor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:28.730975+00:00"
+    },
+    "condescending/condescending_00321_ich-schaetze-ihre-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:33.734278+00:00"
+    },
+    "condescending/condescending_00322_mit-etwas-mehr-wisse.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:37.813510+00:00"
+    },
+    "condescending/condescending_00323_das-argument-hatte-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:42.640116+00:00"
+    },
+    "condescending/condescending_00324_auf-den-ersten-blick.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:48.053143+00:00"
+    },
+    "condescending/condescending_00325_es-waere-hilfreich-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:27:57.834705+00:00"
+    },
+    "condescending/condescending_00326_sie-machen-sich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:09.277046+00:00"
+    },
+    "condescending/condescending_00327_das-zeigt-mir-dass-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:13.521705+00:00"
+    },
+    "condescending/condescending_00328_ich-verstehe-die-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:25.078974+00:00"
+    },
+    "condescending/condescending_00329_goennen-sie-sich-etw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:30.637379+00:00"
+    },
+    "condescending/condescending_00330_ja-das-ist-ein-versu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:36.180653+00:00"
+    },
+    "condescending/condescending_00331_das-ist-tatsaechlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:40.927499+00:00"
+    },
+    "condescending/condescending_00332_das-braucht-zeit-um.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:28:47.137089+00:00"
+    },
+    "condescending/condescending_00333_mal-sehen-wenn-ich-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:51.848612+00:00"
+    },
+    "condescending/condescending_00334_mit-mehr-erfahrung-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:28:55.865342+00:00"
+    },
+    "condescending/condescending_00335_das-klingt-mutig-in.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:29:01.723040+00:00"
+    },
+    "condescending/condescending_00336_ihre-einschaetzung-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:29:08.420978+00:00"
+    },
+    "condescending/condescending_00337_fuer-jemanden-ohne-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:29:18.705560+00:00"
+    },
+    "condescending/condescending_00338_das-ist-ihr-gutes-re.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:29:25.094398+00:00"
+    },
+    "condescending/condescending_00339_ihre-begeisterung-sc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:29:30.526996+00:00"
+    },
+    "condescending/condescending_00340_man-muss-das-feld-ve.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:29:42.680268+00:00"
+    },
+    "condescending/condescending_00341_das-klingt-nach-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:29:46.220812+00:00"
+    },
+    "condescending/condescending_00343_verstaendlich-dass-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:29:51.214101+00:00"
+    },
+    "condescending/condescending_00344_das-mag-sein-aber-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:04.332531+00:00"
+    },
+    "condescending/condescending_00345_ich-sehe-das-etwas-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:09.124310+00:00"
+    },
+    "condescending/condescending_00346_nun-ja-jeder-hat-sei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:12.843513+00:00"
+    },
+    "condescending/condescending_00347_schoen-dass-sie-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:17.743434+00:00"
+    },
+    "condescending/condescending_00348_mit-etwas-erfahrung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:21.861137+00:00"
+    },
+    "condescending/condescending_00349_ich-sage-das-ohne-je.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:30:27.789468+00:00"
+    },
+    "condescending/condescending_00350_das-mag-fuer-laien-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:32.518506+00:00"
+    },
+    "condescending/condescending_00351_gut-gemeint-ist-manc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:37.136216+00:00"
+    },
+    "condescending/condescending_00352_interessanter-ansatz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:42.575486+00:00"
+    },
+    "condescending/condescending_00353_das-ist-der-weg-den.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:30:51.859648+00:00"
+    },
+    "condescending/condescending_00354_kein-angriff-nur-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:00.418146+00:00"
+    },
+    "condescending/condescending_00355_ich-sage-ihnen-was-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:06.520183+00:00"
+    },
+    "condescending/condescending_00356_mit-verlaub-das-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:11.177604+00:00"
+    },
+    "condescending/condescending_00357_wenn-ich-das-komment.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:15.971577+00:00"
+    },
+    "condescending/condescending_00358_man-hoert-oefter-sol.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:21.176200+00:00"
+    },
+    "condescending/condescending_00359_natuerlich-kann-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:26.270407+00:00"
+    },
+    "condescending/condescending_00360_ich-empfehle-dazu-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:31.140675+00:00"
+    },
+    "condescending/condescending_00361_das-ist-kein-einfach.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:31:35.016513+00:00"
+    },
+    "condescending/condescending_00362_das-mag-komplex-wirk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:41.309954+00:00"
+    },
+    "condescending/condescending_00363_entschuldigen-sie-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:49.932417+00:00"
+    },
+    "condescending/condescending_00364_ihre-annahme-ist-wei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:31:58.010974+00:00"
+    },
+    "condescending/condescending_00366_das-ist-eine-vereinf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:06.388579+00:00"
+    },
+    "condescending/condescending_00368_gut-dass-wir-das-bes.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:11.530663+00:00"
+    },
+    "condescending/condescending_00369_was-sie-sagen-klingt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:22.876470+00:00"
+    },
+    "condescending/condescending_00370_ich-sage-das-ohne-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:28.356703+00:00"
+    },
+    "condescending/condescending_00372_mit-mehr-kontext-wue.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:32.659592+00:00"
+    },
+    "condescending/condescending_00373_ich-erklaere-gern-no.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:37.104222+00:00"
+    },
+    "condescending/condescending_00374_ihre-frage-zeigt-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:41.112951+00:00"
+    },
+    "condescending/condescending_00375_das-ist-ein-haeufige.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:45.945921+00:00"
+    },
+    "condescending/condescending_00376_das-ist-aus-meiner-p.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:51.368618+00:00"
+    },
+    "condescending/condescending_00377_kein-widerspruch-aus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:32:58.218047+00:00"
+    },
+    "condescending/condescending_00378_sie-arbeiten-mit-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:02.011395+00:00"
+    },
+    "condescending/condescending_00379_verstehen-sie-mich-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:06.280590+00:00"
+    },
+    "condescending/condescending_00381_das-waere-mein-ansat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:12.906440+00:00"
+    },
+    "condescending/condescending_00382_das-ist-kein-schlech.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:22.814359+00:00"
+    },
+    "condescending/condescending_00383_das-haben-kluegere-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:28.618536+00:00"
+    },
+    "condescending/condescending_00384_ich-sage-das-mit-res.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:33.036804+00:00"
+    },
+    "condescending/condescending_00385_es-gibt-einen-grund.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:41.481691+00:00"
+    },
+    "condescending/condescending_00386_ihre-sichtweise-ist.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:33:52.801506+00:00"
+    },
+    "condescending/condescending_00387_das-macht-in-ihrer-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:33:56.886373+00:00"
+    },
+    "condescending/condescending_00388_ich-korrigiere-das-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:00.722677+00:00"
+    },
+    "condescending/condescending_00390_das-vertrauen-in-die.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:34:05.567582+00:00"
+    },
+    "condescending/condescending_00391_ich-empfehle-ihnen-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:10.383287+00:00"
+    },
+    "condescending/condescending_00392_das-klingt-nach-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:18.335474+00:00"
+    },
+    "condescending/condescending_00393_ihr-ansatz-hat-charm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:23.684401+00:00"
+    },
+    "condescending/condescending_00394_lassen-sie-mich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:32.689025+00:00"
+    },
+    "condescending/condescending_00395_wenn-sie-mal-laenger.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:37.562282+00:00"
+    },
+    "condescending/condescending_00398_man-lernt-mit-den-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:40.798684+00:00"
+    },
+    "condescending/condescending_00399_das-nehme-ich-ihnen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:45.913867+00:00"
+    },
+    "condescending/condescending_00400_ihre-einschaetzung-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:34:59.308476+00:00"
+    },
+    "condescending/condescending_00401_das-zeugt-von-begren.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:35:08.912669+00:00"
+    },
+    "condescending/condescending_00402_bitte-verstehen-sie.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:35:19.611052+00:00"
+    },
+    "condescending/condescending_00403_ja-das-ist-ein-versu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:35:26.381293+00:00"
+    },
+    "condescending/condescending_00404_was-sie-beschreiben.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:35:45.686030+00:00"
+    },
+    "condescending/condescending_00405_ich-fuehre-das-mal-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:35:52.927671+00:00"
+    },
+    "condescending/condescending_00406_das-ist-sicher-gut-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:36:07.908572+00:00"
+    },
+    "condescending/condescending_00407_erlauben-sie-mir-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:36:11.976675+00:00"
+    },
+    "condescending/condescending_00408_das-thema-ist-tiefer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:36:16.545523+00:00"
+    },
+    "condescending/condescending_00409_man-koennte-meinen-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:36:22.066088+00:00"
+    },
+    "condescending/condescending_00411_das-ist-die-antwort.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:36:32.090082+00:00"
+    },
+    "condescending/condescending_00412_das-ist-in-ihrem-kon.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:36:38.393102+00:00"
+    },
+    "condescending/condescending_00413_das-sollten-sie-uebe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:36:43.103261+00:00"
+    },
+    "condescending/condescending_00414_man-kann-da-anderer.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:37:01.555258+00:00"
+    },
+    "condescending/condescending_00415_das-klingt-nach-jema.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:37:06.485594+00:00"
+    },
+    "condescending/condescending_00416_das-entspricht-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:39:27.034442+00:00"
+    },
+    "condescending/condescending_00417_ich-wuerde-vorschlag.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:39:35.228505+00:00"
+    },
+    "condescending/condescending_00418_das-ist-eine-annahme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:39:41.983997+00:00"
+    },
+    "condescending/condescending_00419_ich-sage-das-weil-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:39:48.193122+00:00"
+    },
+    "condescending/condescending_00420_das-haben-wir-in-fac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:39:53.716474+00:00"
+    },
+    "condescending/condescending_00421_gut-gemeint-reicht-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:39:58.429983+00:00"
+    },
+    "condescending/condescending_00422_das-ist-die-sichtwei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:03.665464+00:00"
+    },
+    "condescending/condescending_00423_ich-sage-mit-allem-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:10.034301+00:00"
+    },
+    "condescending/condescending_00424_sehr-gewagt-das-so-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:14.164373+00:00"
+    },
+    "condescending/condescending_00425_mit-ihrem-kenntnisst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:19.166367+00:00"
+    },
+    "condescending/condescending_00426_das-ist-der-klassike.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:40:30.816881+00:00"
+    },
+    "condescending/condescending_00427_ich-fuehre-das-nochm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:35.905088+00:00"
+    },
+    "condescending/condescending_00428_das-ist-keine-boshei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:42.016928+00:00"
+    },
+    "condescending/condescending_00429_sie-sollten-mehr-fra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:47.136803+00:00"
+    },
+    "condescending/condescending_00430_kein-kommentar-den-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:52.821497+00:00"
+    },
+    "condescending/condescending_00431_ihr-ernst-das-ist-ih.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:40:57.995851+00:00"
+    },
+    "condescending/condescending_00432_damit-kommen-sie-hie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:03.099638+00:00"
+    },
+    "condescending/condescending_00433_das-ist-kein-argumen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:07.440222+00:00"
+    },
+    "condescending/condescending_00434_das-stellt-man-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:13.801787+00:00"
+    },
+    "condescending/condescending_00435_das-ist-eine-antwort.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:18.374754+00:00"
+    },
+    "condescending/condescending_00436_ich-sage-das-sachlic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:23.141853+00:00"
+    },
+    "condescending/condescending_00437_so-sehen-das-mensche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:29.144793+00:00"
+    },
+    "condescending/condescending_00438_das-klingt-sicher-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:33.012935+00:00"
+    },
+    "condescending/condescending_00439_das-hat-niveau-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:37.280970+00:00"
+    },
+    "condescending/condescending_00440_das-waere-ein-ansatz.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:41:42.136579+00:00"
+    },
+    "condescending/condescending_00441_ich-bitte-um-entschu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:46.748033+00:00"
+    },
+    "condescending/condescending_00442_kein-vorwurf-aber-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:41:52.645969+00:00"
+    },
+    "condescending/condescending_00443_mit-verlaub-sie-mach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:42:01.887220+00:00"
+    },
+    "condescending/condescending_00444_das-ist-eine-gute-fr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:42:06.881994+00:00"
+    },
+    "condescending/condescending_00446_interessant-dass-sie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:42:13.372465+00:00"
+    },
+    "condescending/condescending_00447_das-ist-ein-nachvoll.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:42:19.645305+00:00"
+    },
+    "condescending/condescending_00448_ich-bewundere-den-mu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:42:28.968456+00:00"
+    },
+    "condescending/condescending_00449_das-ist-eine-theorie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:42:34.282030+00:00"
+    },
+    "condescending/condescending_00450_das-haben-sie-sicher.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:42:38.504521+00:00"
+    },
+    "condescending/condescending_00451_erlauben-sie-mir-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:42:42.992636+00:00"
+    },
+    "condescending/condescending_00452_was-sie-sagen-klingt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:42:55.734384+00:00"
+    },
+    "condescending/condescending_00453_das-nehme-ich-gerne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:43:07.871553+00:00"
+    },
+    "condescending/condescending_00454_ihre-aussage-sagt-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:43:13.720536+00:00"
+    },
+    "condescending/condescending_00455_das-waere-richtig-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:43:19.660065+00:00"
+    },
+    "condescending/condescending_00456_das-ist-nahezu-das-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:46:10.048004+00:00"
+    },
+    "condescending/condescending_00457_lass-mich-dir-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:15.083565+00:00"
+    },
+    "condescending/condescending_00459_ich-verstehe-dass-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:19.401918+00:00"
+    },
+    "condescending/condescending_00461_das-ist-in-deiner.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:23.748410+00:00"
+    },
+    "condescending/condescending_00462_ich-sage-das-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:28.093763+00:00"
+    },
+    "condescending/condescending_00463_wenn-du-mehr-lesen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:31.976762+00:00"
+    },
+    "condescending/condescending_00465_ich-erkläre-das-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:36.597743+00:00"
+    },
+    "condescending/condescending_00466_du-wirst-das-mit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:44.183417+00:00"
+    },
+    "condescending/condescending_00467_es-ist-nicht-deine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:49.296948+00:00"
+    },
+    "condescending/condescending_00468_lass-die-experten-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:46:54.145967+00:00"
+    },
+    "condescending/condescending_00469_das-ist-eigentlich-ganz.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-05-30T10:47:03.802847+00:00"
+    },
+    "condescending/condescending_00470_ich-wundere-mich-immer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:47:08.165499+00:00"
+    },
+    "condescending/condescending_00471_fuer-jemanden-auf-deinem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:47:14.593337+00:00"
+    },
+    "condescending/condescending_00472_ich-erklaere-es-dir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:47:19.794426+00:00"
+    },
+    "condescending/condescending_00473_schoen-dass-du-mitdenkst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-05-30T10:47:25.394560+00:00"
     }
   }
 }
