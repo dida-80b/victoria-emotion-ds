@@ -120,7 +120,7 @@ button.sync:disabled{opacity:.4;cursor:default}
 <body>
 <div id="sidebar">
   <div id="filters">
-    <select id="fEmotion"><option value="all">Emotion: alle</option></select>
+    <select id="fEmotion"><option value="all">Filter: alle</option></select>
     <select id="fDecision">
       <option value="all">Status: alle</option>
       <option value="unreviewed">unreviewed</option>
@@ -497,9 +497,8 @@ def normalize_clips(raw: list[dict]) -> list[dict]:
         if "text" not in c:
             c["text"] = c.get("transcription") or c.get("transcript") or c.get("sentence") or ""
         if "emotion" not in c:
-            # derive from folder name if possible
-            fn = c.get("file_name", "")
-            c["emotion"] = Path(fn).parent.name if fn else ""
+            # derive from metadata or folder name
+            c["emotion"] = c.get("speaker") or c.get("speaker_id") or (Path(c.get("file_name", "")).parent.name if c.get("file_name") else "")
         if not c.get("file_name"):
             continue
         clips.append({k: c[k] for k in ("file_name", "text", "emotion") if k in c})
