@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-01T17:31:20.211533+00:00",
+  "updated_at": "2026-06-02T15:47:43.126182+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -8505,6 +8505,118 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
+    },
+    "annoyed/annoyed_00430_kannst-du-nicht-einfach-mal-pü.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:43:27.059979+00:00"
+    },
+    "annoyed/annoyed_00431_jetzt-liegt-der-müll-schon-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:43:39.066756+00:00"
+    },
+    "annoyed/annoyed_00432_warum-muss-ich-jedes-mal-erst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:43:53.347291+00:00"
+    },
+    "annoyed/annoyed_00433_könnt-ihr-nicht-einfach-mal-be.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:44:02.347095+00:00"
+    },
+    "annoyed/annoyed_00434_immer-diese-halbleeren-gläser.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:44:08.635496+00:00"
+    },
+    "annoyed/annoyed_00435_muss-ich-jetzt-wirklich-extra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:44:13.706096+00:00"
+    },
+    "annoyed/annoyed_00436_warum-steht-die-kaffeemaschine.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:44:26.243603+00:00"
+    },
+    "annoyed/annoyed_00437_kannst-du-nicht-einfach-mal-de.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:45:34.683668+00:00"
+    },
+    "annoyed/annoyed_00438_jetzt-piept-schon-wieder-der-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:45:40.713274+00:00"
+    },
+    "annoyed/annoyed_00440_warum-liegt-die-fernbedienung.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:45:42.737037+00:00"
+    },
+    "annoyed/annoyed_00441_könnt-ihr-nicht-einfach-mal-di.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:45:48.058419+00:00"
+    },
+    "annoyed/annoyed_00442_muss-ich-jetzt-wirklich-extra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:45:53.016297+00:00"
+    },
+    "annoyed/annoyed_00443_warum-steht-die-butter-schon-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:46:07.868670+00:00"
+    },
+    "annoyed/annoyed_00444_immer-diese-halbgaren-antworte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:46:17.326999+00:00"
+    },
+    "annoyed/annoyed_00445_kannst-du-nicht-einfach-mal-di.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:46:19.289117+00:00"
+    },
+    "annoyed/annoyed_00446_jetzt-ist-schon-wieder-die-gan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:46:23.682143+00:00"
+    },
+    "annoyed/annoyed_00447_warum-muss-ich-jedes-mal-erst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:46:28.679141+00:00"
+    },
+    "annoyed/annoyed_00448_könnt-ihr-nicht-einfach-mal-eu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:46:40.049213+00:00"
+    },
+    "annoyed/annoyed_00449_immer-diese-diskussionen-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:46:52.304848+00:00"
+    },
+    "annoyed/annoyed_00450_muss-ich-jetzt-wirklich-extra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:46:57.615730+00:00"
+    },
+    "annoyed/annoyed_00451_warum-liegt-schon-wieder-die-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:47:02.033960+00:00"
+    },
+    "annoyed/annoyed_00452_jetzt-ist-schon-wieder-die-gan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:47:06.462112+00:00"
+    },
+    "annoyed/annoyed_00453_warum-muss-ich-jedes-mal-erst.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:47:12.865263+00:00"
+    },
+    "annoyed/annoyed_00454_immer-diese-halben-sachen-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:47:20.411184+00:00"
+    },
+    "annoyed/annoyed_00455_könnt-ihr-nicht-einfach-mal-be.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:47:24.040971+00:00"
+    },
+    "annoyed/annoyed_00456_muss-ich-jetzt-wirklich-extra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:47:29.224449+00:00"
+    },
+    "annoyed/annoyed_00457_kannst-du-bitte-mal-aufhören-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:47:34.141300+00:00"
+    },
+    "annoyed/annoyed_00458_muss-ich-jetzt-echt-nochmal-lo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:47:43.126133+00:00"
     }
   }
 }
