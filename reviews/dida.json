@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-02T16:30:58.564995+00:00",
+  "updated_at": "2026-06-02T16:52:25.574321+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -8748,7 +8748,7 @@
     },
     "desperate/desperate_00116_kein-laut-dringt-meh.wav": {
       "decision": "rerender",
-      "reviewed_at": "2026-06-02T16:00:22.654324+00:00"
+      "reviewed_at": "2026-06-02T16:38:47.455030+00:00"
     },
     "desperate/desperate_00117_die-kälte-kriecht-mi.wav": {
       "decision": "keep",
@@ -9497,6 +9497,478 @@
     "desperate/desperate_00376_ich-kann-nicht-mehr-ich-will-n.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-02T16:30:58.564944+00:00"
+    },
+    "desperate/desperate_00377_alles-ist-zu-viel-ich-breche-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:36:06.450537+00:00"
+    },
+    "desperate/desperate_00378_ich-will-nur-noch-dass-jemand.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:36:08.609809+00:00"
+    },
+    "desperate/desperate_00380_alles-ist-falsch-und-ich-weiß.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:36:13.158670+00:00"
+    },
+    "desperate/desperate_00382_warum-fühlt-sich-alles-so-auss.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:36:22.692106+00:00"
+    },
+    "desperate/desperate_00383_ich-halte-mich-fest-aber-es-re.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:36:26.684278+00:00"
+    },
+    "desperate/desperate_00384_alles-tut-weh-und-ich-kann-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:36:32.268922+00:00"
+    },
+    "desperate/desperate_00386_alles-ist-zu-viel-ich-halte-da.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:36:41.113535+00:00"
+    },
+    "desperate/desperate_00387_ich-will-nur-noch-schlafen-für.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:36:43.184089+00:00"
+    },
+    "desperate/desperate_00388_ich-breche-zusammen-und-keiner.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:36:48.521550+00:00"
+    },
+    "desperate/desperate_00389_alles-ist-dunkel-und-ich-finde.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:36:52.694706+00:00"
+    },
+    "desperate/desperate_00390_ich-will-nicht-mehr-ich-kann-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:36:56.318154+00:00"
+    },
+    "desperate/desperate_00391_ich-halte-mich-fest-aber-es-gi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:36:58.095676+00:00"
+    },
+    "desperate/desperate_00392_alles-brennt-und-ich-kann-nich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:37:02.194969+00:00"
+    },
+    "desperate/desperate_00393_alles-ist-zu-viel-ich-ersticke.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:37:05.814157+00:00"
+    },
+    "desperate/desperate_00394_ich-will-nur-noch-weg-irgendwo.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:37:09.345729+00:00"
+    },
+    "desperate/desperate_00395_warum-sieht-mich-keiner-wirkli.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:37:13.895511+00:00"
+    },
+    "disgusted/disgusted_00001_igitt-das-sieht-ja-e.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:43:38.552490+00:00"
+    },
+    "disgusted/disgusted_00002_wer-isst-denn-so-etw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:43:17.280868+00:00"
+    },
+    "disgusted/disgusted_00003_das-riecht-ja-als-hä.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:43:20.139546+00:00"
+    },
+    "disgusted/disgusted_00004_ich-kann-diesen-gest.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:43:24.261235+00:00"
+    },
+    "disgusted/disgusted_00005_das-ist-doch-einfach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:43:28.076199+00:00"
+    },
+    "disgusted/disgusted_00006_wie-kann-man-nur-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:43:44.520657+00:00"
+    },
+    "disgusted/disgusted_00007_das-fühlt-sich-an-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:43:48.804125+00:00"
+    },
+    "disgusted/disgusted_00009_das-schmeckt-als-hät.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:43:53.720986+00:00"
+    },
+    "disgusted/disgusted_00010_wer-lässt-denn-so-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:43:57.407417+00:00"
+    },
+    "disgusted/disgusted_00011_das-ist-ja-widerlich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:44:00.310284+00:00"
+    },
+    "disgusted/disgusted_00013_das-klebt-ja-an-den.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:04.064457+00:00"
+    },
+    "disgusted/disgusted_00014_wer-würde-so-etwas-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:07.759158+00:00"
+    },
+    "disgusted/disgusted_00015_das-sieht-aus-als-hä.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:11.618360+00:00"
+    },
+    "disgusted/disgusted_00017_das-ist-ja-ekliger-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:44:20.431213+00:00"
+    },
+    "disgusted/disgusted_00021_das-schmeckt-als-wär.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:44:30.631638+00:00"
+    },
+    "disgusted/disgusted_00022_das-ist-ja-einfach-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:36.496087+00:00"
+    },
+    "disgusted/disgusted_00023_wer-würde-so-etwas-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:39.971877+00:00"
+    },
+    "disgusted/disgusted_00024_das-sieht-aus-wie-et.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:44:43.255068+00:00"
+    },
+    "disgusted/disgusted_00026_das-riecht-als-hätte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:47.309944+00:00"
+    },
+    "disgusted/disgusted_00027_das-ist-ja-ekelhaft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:51.215272+00:00"
+    },
+    "disgusted/disgusted_00028_wer-isst-denn-so-etw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:54.705570+00:00"
+    },
+    "disgusted/disgusted_00030_ich-kann-diesen-anbl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:44:58.932910+00:00"
+    },
+    "disgusted/disgusted_00031_das-ist-ja-einfach-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:45:07.089407+00:00"
+    },
+    "disgusted/disgusted_00032_wer-lässt-denn-so-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:16.007640+00:00"
+    },
+    "disgusted/disgusted_00036_das-ist-ja-widerlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:19.758607+00:00"
+    },
+    "disgusted/disgusted_00039_ich-hasse-diesen-ges.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:43.742843+00:00"
+    },
+    "disgusted/disgusted_00040_das-riecht-als-hätte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:44.793565+00:00"
+    },
+    "disgusted/disgusted_00042_wer-macht-denn-so-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:47.672246+00:00"
+    },
+    "disgusted/disgusted_00043_das-sieht-aus-wie-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:51.467552+00:00"
+    },
+    "disgusted/disgusted_00046_das-ist-ja-abstoßend.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:55.936056+00:00"
+    },
+    "disgusted/disgusted_00049_ich-kann-diesen-geru.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:45:59.522492+00:00"
+    },
+    "disgusted/disgusted_00054_das-riecht-als-wäre.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:46:07.116392+00:00"
+    },
+    "disgusted/disgusted_00055_das-ist-ja-ekelhaft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:46:11.457831+00:00"
+    },
+    "disgusted/disgusted_00063_ich-hasse-diesen-anb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:46:24.242482+00:00"
+    },
+    "disgusted/disgusted_00075_das-ist-ja-abstoßend.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:46:25.850931+00:00"
+    },
+    "disgusted/disgusted_00079_diese-pfütze-sieht-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:46:32.185186+00:00"
+    },
+    "disgusted/disgusted_00080_allein-der-gedanke-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:46:35.794490+00:00"
+    },
+    "disgusted/disgusted_00081_wer-lässt-denn-seine.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:46:45.484270+00:00"
+    },
+    "disgusted/disgusted_00082_das-zeug-klebt-an-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:46:50.483711+00:00"
+    },
+    "disgusted/disgusted_00083_ich-würde-nicht-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:46:54.757152+00:00"
+    },
+    "disgusted/disgusted_00085_wer-isst-denn-freiwi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:47:07.881352+00:00"
+    },
+    "disgusted/disgusted_00086_dieser-geruch-erinne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:12.995634+00:00"
+    },
+    "disgusted/disgusted_00087_ich-muss-hier-weg-be.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:16.921522+00:00"
+    },
+    "disgusted/disgusted_00088_das-fühlt-sich-an-al.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:22.516879+00:00"
+    },
+    "disgusted/disgusted_00091_ich-kann-nicht-glaub.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:27.418952+00:00"
+    },
+    "disgusted/disgusted_00092_allein-der-anblick-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:33.022317+00:00"
+    },
+    "disgusted/disgusted_00093_ich-kann-diesen-anbl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:37.456071+00:00"
+    },
+    "disgusted/disgusted_00094_wer-lässt-denn-seine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:41.379131+00:00"
+    },
+    "disgusted/disgusted_00099_dieser-geruch-brennt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:47:46.816098+00:00"
+    },
+    "disgusted/disgusted_00100_ich-muss-mich-abwend.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:47:51.341368+00:00"
+    },
+    "disgusted/disgusted_00101_das-fühlt-sich-an-al.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:47:56.526208+00:00"
+    },
+    "disgusted/disgusted_00105_allein-der-gedanke-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:48:08.402361+00:00"
+    },
+    "disgusted/disgusted_00109_ich-muss-hier-raus-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:48:12.290558+00:00"
+    },
+    "disgusted/disgusted_00116_ich-kann-nicht-atmen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:48:22.437670+00:00"
+    },
+    "disgusted/disgusted_00124_ich-muss-mich-abwend.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:48:26.556787+00:00"
+    },
+    "disgusted/disgusted_00129_dieser-geruch-brennt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:48:31.177301+00:00"
+    },
+    "disgusted/disgusted_00138_allein-der-gedanke-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:48:34.085444+00:00"
+    },
+    "disgusted/disgusted_00153_ich-kann-diesen-gesc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:48:37.702268+00:00"
+    },
+    "disgusted/disgusted_00156_ich-kann-diesen-geru.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:48:42.081698+00:00"
+    },
+    "disgusted/disgusted_00172_allein-der-gedanke-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:48:45.968736+00:00"
+    },
+    "disgusted/disgusted_00177_diese-soße-sieht-aus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:49:03.535925+00:00"
+    },
+    "disgusted/disgusted_00178_wer-lässt-denn-seine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:49:08.597502+00:00"
+    },
+    "disgusted/disgusted_00179_das-zeug-auf-dem-tel.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:49:14.601984+00:00"
+    },
+    "disgusted/disgusted_00180_ich-will-gar-nicht-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:49:25.676371+00:00"
+    },
+    "disgusted/disgusted_00181_dieser-geruch-kommt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:49:29.863346+00:00"
+    },
+    "disgusted/disgusted_00185_diese-flüssigkeit-si.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:49:35.163209+00:00"
+    },
+    "disgusted/disgusted_00188_ich-muss-sofort-hier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:49:40.106250+00:00"
+    },
+    "disgusted/disgusted_00189_diese-textur-erinner.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:49:45.731571+00:00"
+    },
+    "disgusted/disgusted_00193_dieser-geruch-kriech.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:49:49.285232+00:00"
+    },
+    "disgusted/disgusted_00195_wer-isst-denn-schimm.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:49:51.074353+00:00"
+    },
+    "disgusted/disgusted_00196_diese-farbe-sieht-au.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:49:55.007542+00:00"
+    },
+    "disgusted/disgusted_00199_wer-lässt-denn-seine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:49:59.615036+00:00"
+    },
+    "disgusted/disgusted_00200_diese-konsistenz-eri.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:50:06.135208+00:00"
+    },
+    "disgusted/disgusted_00201_ich-will-gar-nicht-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:50:09.985866+00:00"
+    },
+    "disgusted/disgusted_00203_wer-isst-denn-fleisc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:50:14.455073+00:00"
+    },
+    "disgusted/disgusted_00205_diese-flüssigkeit-si.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:50:18.892031+00:00"
+    },
+    "disgusted/disgusted_00210_ich-will-nicht-mal-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:50:23.155866+00:00"
+    },
+    "disgusted/disgusted_00211_dieser-geruch-ist-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:50:31.401763+00:00"
+    },
+    "disgusted/disgusted_00212_wer-isst-denn-obst-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:50:35.742210+00:00"
+    },
+    "disgusted/disgusted_00214_diese-farbe-sieht-au.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:50:39.079676+00:00"
+    },
+    "disgusted/disgusted_00218_diese-konsistenz-eri.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:50:44.539323+00:00"
+    },
+    "disgusted/disgusted_00221_wer-isst-denn-brot-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:50:48.957062+00:00"
+    },
+    "disgusted/disgusted_00228_dieser-geruch-ist-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:50:53.704947+00:00"
+    },
+    "disgusted/disgusted_00229_wer-isst-denn-gemüse.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:50:57.592138+00:00"
+    },
+    "disgusted/disgusted_00238_wer-isst-denn-nudeln.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:02.068781+00:00"
+    },
+    "disgusted/disgusted_00247_wer-isst-denn-käse-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:51:05.895277+00:00"
+    },
+    "disgusted/disgusted_00248_ich-kann-kaum-hinseh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:10.509272+00:00"
+    },
+    "disgusted/disgusted_00249_mein-magen-dreht-sic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:14.902608+00:00"
+    },
+    "disgusted/disgusted_00250_wer-macht-denn-sowas.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:18.971966+00:00"
+    },
+    "disgusted/disgusted_00251_davon-halte-ich-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:22.877037+00:00"
+    },
+    "disgusted/disgusted_00252_widerwillen-pur-ande.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:27.991722+00:00"
+    },
+    "disgusted/disgusted_00253_ich-wende-mich-ab-ic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:51:38.271497+00:00"
+    },
+    "disgusted/disgusted_00254_das-ist-ja-das-ekelh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:47.045777+00:00"
+    },
+    "disgusted/disgusted_00255_stell-das-weg-ich-bi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:50.857036+00:00"
+    },
+    "disgusted/disgusted_00256_allein-der-geruch-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:55.135889+00:00"
+    },
+    "disgusted/disgusted_00257_mir-dreht-sich-alles.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:51:59.129667+00:00"
+    },
+    "disgusted/disgusted_00258_kein-hunger-mehr-nac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:52:02.554343+00:00"
+    },
+    "disgusted/disgusted_00259_ich-haette-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:52:07.067868+00:00"
+    },
+    "disgusted/disgusted_00260_wie-kann-man-das-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:52:11.214645+00:00"
+    },
+    "disgusted/disgusted_00262_ich-gehe-da-nicht-hi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:52:17.109141+00:00"
+    },
+    "disgusted/disgusted_00264_mir-fehlen-die-worte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:52:21.888478+00:00"
+    },
+    "disgusted/disgusted_00265_ich-stelle-mir-das-v.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:52:25.574257+00:00"
     }
   }
 }
