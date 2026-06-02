@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-02T16:02:05.928471+00:00",
+  "updated_at": "2026-06-02T16:14:05.778955+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -8825,6 +8825,326 @@
     "desperate/desperate_00139_ich-will-mich-verste.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-02T16:02:05.928412+00:00"
+    },
+    "desperate/desperate_00140_warum-fühlt-sich-all.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:05:31.619064+00:00"
+    },
+    "desperate/desperate_00142_ich-presse-die-hände.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:05:38.529349+00:00"
+    },
+    "desperate/desperate_00143_die-welt-draußen-geh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:05:43.553245+00:00"
+    },
+    "desperate/desperate_00144_ich-will-schlafen-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:05:48.205546+00:00"
+    },
+    "desperate/desperate_00145_warum-fühlt-sich-jed.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:05:55.950600+00:00"
+    },
+    "desperate/desperate_00147_ich-starre-auf-mein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:00.983892+00:00"
+    },
+    "desperate/desperate_00148_die-hoffnung-ist-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:05.812183+00:00"
+    },
+    "desperate/desperate_00150_warum-fühlt-sich-all.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:11.782959+00:00"
+    },
+    "desperate/desperate_00151_meine-gedanken-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:16.650781+00:00"
+    },
+    "desperate/desperate_00152_ich-will-mich-festha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:27.928467+00:00"
+    },
+    "desperate/desperate_00155_ich-will-mich-fallen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:39.858993+00:00"
+    },
+    "desperate/desperate_00156_die-worte-anderer-pr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:45.443126+00:00"
+    },
+    "desperate/desperate_00157_ich-will-mich-erinne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:06:51.148873+00:00"
+    },
+    "desperate/desperate_00159_ich-will-mich-befrei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:02.790190+00:00"
+    },
+    "desperate/desperate_00160_die-stille-um-mich-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:08.585801+00:00"
+    },
+    "desperate/desperate_00161_ich-will-schreien-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:13.632822+00:00"
+    },
+    "desperate/desperate_00164_ich-will-anhalten-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:18.166934+00:00"
+    },
+    "desperate/desperate_00165_die-welt-um-mich-her.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:24.562595+00:00"
+    },
+    "desperate/desperate_00166_ich-will-mich-verkri.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:29.762806+00:00"
+    },
+    "desperate/desperate_00168_meine-hände-zittern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:35.555655+00:00"
+    },
+    "desperate/desperate_00169_ich-will-mich-beruhi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:40.423107+00:00"
+    },
+    "desperate/desperate_00170_die-erinnerungen-kom.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:07:56.966059+00:00"
+    },
+    "desperate/desperate_00171_ich-will-fliehen-abe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:08:08.645792+00:00"
+    },
+    "desperate/desperate_00173_meine-gedanken-sind.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:08:12.108110+00:00"
+    },
+    "desperate/desperate_00174_ich-will-mich-befrei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:08:21.785087+00:00"
+    },
+    "desperate/desperate_00175_die-welt-draußen-ist.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:08:26.265898+00:00"
+    },
+    "desperate/desperate_00176_ich-will-atmen-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:08:31.646032+00:00"
+    },
+    "desperate/desperate_00178_meine-stimme-ist-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:08:36.940329+00:00"
+    },
+    "desperate/desperate_00179_ich-will-mich-verste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:08:52.066773+00:00"
+    },
+    "desperate/desperate_00183_ich-will-mich-festha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:08:57.984971+00:00"
+    },
+    "desperate/desperate_00184_die-stille-um-mich-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:02.958521+00:00"
+    },
+    "desperate/desperate_00187_meine-hände-sind-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:07.675488+00:00"
+    },
+    "desperate/desperate_00188_ich-will-mich-bewege.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:09:11.871040+00:00"
+    },
+    "desperate/desperate_00189_die-welt-dreht-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:16.170973+00:00"
+    },
+    "desperate/desperate_00193_ich-will-atmen-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:20.480438+00:00"
+    },
+    "desperate/desperate_00195_ich-will-fliehen-abe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:09:30.620187+00:00"
+    },
+    "desperate/desperate_00198_meine-hände-zittern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:36.723619+00:00"
+    },
+    "desperate/desperate_00199_ich-will-mich-beruhi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:41.334698+00:00"
+    },
+    "desperate/desperate_00201_ich-will-schlafen-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:47.055861+00:00"
+    },
+    "desperate/desperate_00205_die-welt-draußen-ist.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:09:49.193495+00:00"
+    },
+    "desperate/desperate_00206_niemand-versteht-wie.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:09:53.568242+00:00"
+    },
+    "desperate/desperate_00210_die-kälte-in-mir-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:09:58.351321+00:00"
+    },
+    "desperate/desperate_00230_meine-finger-krallen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:10:08.954606+00:00"
+    },
+    "desperate/desperate_00231_jeder-atemzug-brennt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:10:31.269080+00:00"
+    },
+    "desperate/desperate_00232_ich-starre-die-leere.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:10:43.225664+00:00"
+    },
+    "desperate/desperate_00233_mein-herz-schlägt-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:10:49.029937+00:00"
+    },
+    "desperate/desperate_00234_die-tränen-sind-vers.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:10:54.518509+00:00"
+    },
+    "desperate/desperate_00235_ich-würde-alles-gebe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:11:02.757626+00:00"
+    },
+    "desperate/desperate_00238_die-decke-ist-zu-sch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:11:08.090609+00:00"
+    },
+    "desperate/desperate_00239_jeder-schritt-fühlt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:11:14.663014+00:00"
+    },
+    "desperate/desperate_00241_meine-hände-sind-eis.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:11:21.569818+00:00"
+    },
+    "desperate/desperate_00242_ich-zähle-die-risse.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:11:27.353864+00:00"
+    },
+    "desperate/desperate_00243_die-tabletten-liegen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:11:34.102740+00:00"
+    },
+    "desperate/desperate_00244_jemand-lacht-und-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:11:36.323615+00:00"
+    },
+    "desperate/desperate_00245_ich-habe-aufgehört-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:11:41.335273+00:00"
+    },
+    "desperate/desperate_00246_die-erinnerungen-kom.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:11:54.034948+00:00"
+    },
+    "desperate/desperate_00247_ich-will-die-tür-abs.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:01.246378+00:00"
+    },
+    "desperate/desperate_00248_die-dunkelheit-umarm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:08.120673+00:00"
+    },
+    "desperate/desperate_00249_meine-beine-geben-na.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:12:10.091304+00:00"
+    },
+    "desperate/desperate_00251_jemand-muss-mir-helf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:14.863198+00:00"
+    },
+    "desperate/desperate_00253_sag-mir-was-ich-tun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:19.422079+00:00"
+    },
+    "desperate/desperate_00254_kein-ausweg-keine-ho.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:25.795288+00:00"
+    },
+    "desperate/desperate_00255_ich-weiss-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:30.124763+00:00"
+    },
+    "desperate/desperate_00256_wenn-du-mir-jetzt-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:34.995182+00:00"
+    },
+    "desperate/desperate_00257_ich-fluestere-weil-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:12:36.639727+00:00"
+    },
+    "desperate/desperate_00258_jede-nacht-wache-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:12:41.790929+00:00"
+    },
+    "desperate/desperate_00259_mein-koerper-macht-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:12:46.828227+00:00"
+    },
+    "desperate/desperate_00260_nur-ein-kleines-zeic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:12:53.782710+00:00"
+    },
+    "desperate/desperate_00262_ich-brauche-nur-jema.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:12:57.501158+00:00"
+    },
+    "desperate/desperate_00263_nichts-was-ich-versu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:13:00.419525+00:00"
+    },
+    "desperate/desperate_00264_ich-schreie-innerlic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:13:03.983983+00:00"
+    },
+    "desperate/desperate_00265_bitte-ueberlass-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:13:08.593860+00:00"
+    },
+    "desperate/desperate_00266_ich-hab-so-oft-um-hi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:13:18.369456+00:00"
+    },
+    "desperate/desperate_00267_wozu-das-alles-noch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:13:33.151023+00:00"
+    },
+    "desperate/desperate_00268_ich-tue-alles-richti.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:13:38.181534+00:00"
+    },
+    "desperate/desperate_00269_meine-letzte-reserve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:13:42.934965+00:00"
+    },
+    "desperate/desperate_00270_jemand-muss-mir-sage.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:13:44.474018+00:00"
+    },
+    "desperate/desperate_00271_ich-spuere-keinen-bo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:13:56.706974+00:00"
+    },
+    "desperate/desperate_00272_hilf-mir-bitte-ich-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:14:01.003185+00:00"
+    },
+    "desperate/desperate_00273_nicht-mehr-die-kraft.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:14:05.778897+00:00"
     }
   }
 }
