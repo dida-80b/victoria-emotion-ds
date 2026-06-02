@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-02T15:47:43.126182+00:00",
+  "updated_at": "2026-06-02T16:02:05.928471+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -6529,8 +6529,8 @@
       "reviewed_at": "2026-05-30T10:49:38.342417+00:00"
     },
     "confident/confident_00021_du-kannst-mir-glaube.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T10:49:42.255109+00:00"
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:58:54.509808+00:00"
     },
     "confident/confident_00022_meine-stimme-ist-kla.wav": {
       "decision": "keep",
@@ -8617,6 +8617,214 @@
     "annoyed/annoyed_00458_muss-ich-jetzt-echt-nochmal-lo.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-02T15:47:43.126133+00:00"
+    },
+    "apologetic/apologetic_00339_es-tut-mir-wirklich-leid-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:48:15.307044+00:00"
+    },
+    "apologetic/apologetic_00340_ich-hätte-besser-aufpassen-müs.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:48:20.461993+00:00"
+    },
+    "apologetic/apologetic_00341_das-war-total-daneben-von-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:48:24.370627+00:00"
+    },
+    "apologetic/apologetic_00342_ich-schäme-mich-richtig-für-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:48:28.819157+00:00"
+    },
+    "apologetic/apologetic_00343_ich-wollte-dich-nicht-verletze.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:48:38.411137+00:00"
+    },
+    "apologetic/apologetic_00344_das-ist-mir-echt-unangenehm-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:48:43.872096+00:00"
+    },
+    "apologetic/apologetic_00345_ich-hätte-dich-vorher-fragen-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:48:48.512805+00:00"
+    },
+    "apologetic/apologetic_00346_mir-ist-klar-dass-ich-mist-geb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:48:54.444813+00:00"
+    },
+    "apologetic/apologetic_00347_ich-weiß-das-war-nicht-in-ordn.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:49:00.202641+00:00"
+    },
+    "apologetic/apologetic_00348_das-hätte-nicht-passieren-dürf.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:49:07.630292+00:00"
+    },
+    "apologetic/apologetic_00349_ich-hätte-früher-bescheid-sage.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:49:12.263826+00:00"
+    },
+    "apologetic/apologetic_00350_mir-ist-das-peinlich-ich-hätte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:49:16.628615+00:00"
+    },
+    "apologetic/apologetic_00351_ich-verstehe-wenn-du-sauer-bis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:49:21.955536+00:00"
+    },
+    "apologetic/apologetic_00352_das-war-gedankenlos-von-mir-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:49:27.330825+00:00"
+    },
+    "apologetic/apologetic_00353_ich-hätte-dich-nicht-so-anfahr.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:49:38.301136+00:00"
+    },
+    "apologetic/apologetic_00354_mir-ist-bewusst-dass-ich-dich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:49:43.586361+00:00"
+    },
+    "apologetic/apologetic_00355_ich-hätte-mehr-rücksicht-nehme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:49:48.235380+00:00"
+    },
+    "apologetic/apologetic_00356_das-war-nicht-meine-beste-seit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:49:59.255954+00:00"
+    },
+    "condescending/condescending_00475_natürlich-ich-erkläre-es-dir-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:56:58.193698+00:00"
+    },
+    "condescending/condescending_00476_deine-lösung-ist-ja-süß-aber-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:57:05.425476+00:00"
+    },
+    "confident/confident_00319_das-schaff-ich-mit-links-kein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:57:16.737760+00:00"
+    },
+    "confident/confident_00320_bin-vorbereitet-also-kann-nich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:57:21.701406+00:00"
+    },
+    "confident/confident_00321_die-sache-läuft-ich-habs-im-gr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:57:27.063394+00:00"
+    },
+    "confident/confident_00322_kein-grund-zur-panik-ich-weiß.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:58:00.289905+00:00"
+    },
+    "confident/confident_00323_die-lösung-liegt-auf-der-hand.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:57:35.423015+00:00"
+    },
+    "desperate/desperate_00094_ich-breche-innerlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:59:44.981259+00:00"
+    },
+    "desperate/desperate_00103_es-ist-alles-umsonst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T15:59:49.255052+00:00"
+    },
+    "desperate/desperate_00109_die-tür-fällt-ins-sc.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T15:59:55.311973+00:00"
+    },
+    "desperate/desperate_00110_jeder-atemzug-schmec.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:00.057867+00:00"
+    },
+    "desperate/desperate_00111_die-uhr-tickt-aber-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:06.385769+00:00"
+    },
+    "desperate/desperate_00113_warum-fühlt-sich-mei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:12.237280+00:00"
+    },
+    "desperate/desperate_00114_die-decke-drückt-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:16.664845+00:00"
+    },
+    "desperate/desperate_00116_kein-laut-dringt-meh.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:00:22.654324+00:00"
+    },
+    "desperate/desperate_00117_die-kälte-kriecht-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:27.543730+00:00"
+    },
+    "desperate/desperate_00118_ich-würde-alles-gebe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:32.845557+00:00"
+    },
+    "desperate/desperate_00119_die-worte-bleiben-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:37.006771+00:00"
+    },
+    "desperate/desperate_00120_meine-tränen-sind-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:43.539426+00:00"
+    },
+    "desperate/desperate_00123_warum-fühlt-sich-jed.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:50.330876+00:00"
+    },
+    "desperate/desperate_00124_ich-will-schreien-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:00:55.972536+00:00"
+    },
+    "desperate/desperate_00125_die-erinnerungen-kom.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:00.968254+00:00"
+    },
+    "desperate/desperate_00126_ich-zünde-ein-streic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:06.970606+00:00"
+    },
+    "desperate/desperate_00127_nichts-ergibt-mehr-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:11.581626+00:00"
+    },
+    "desperate/desperate_00128_meine-gedanken-rasen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:17.589426+00:00"
+    },
+    "desperate/desperate_00129_die-stille-im-raum-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:22.963219+00:00"
+    },
+    "desperate/desperate_00131_die-schatten-an-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:28.238474+00:00"
+    },
+    "desperate/desperate_00132_meine-hände-sind-lee.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:34.267794+00:00"
+    },
+    "desperate/desperate_00133_warum-fühlt-sich-mei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:01:41.233918+00:00"
+    },
+    "desperate/desperate_00134_ich-will-mich-bewege.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:45.977547+00:00"
+    },
+    "desperate/desperate_00136_ich-starre-auf-die-l.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-02T16:01:50.853073+00:00"
+    },
+    "desperate/desperate_00137_jeder-versuch-mich-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:01:55.450417+00:00"
+    },
+    "desperate/desperate_00138_die-zeit-dehnt-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:02:01.031381+00:00"
+    },
+    "desperate/desperate_00139_ich-will-mich-verste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-02T16:02:05.928412+00:00"
     }
   }
 }
