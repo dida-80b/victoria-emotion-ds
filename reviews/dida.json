@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-03T11:38:51.551356+00:00",
+  "updated_at": "2026-06-03T11:44:40.397088+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -53,10 +53,6 @@
     "angry/angry_00014_h-r-auf-mich-wie-e.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:06:49.520788+00:00"
-    },
-    "angry/angry_00015_ich-bin-es-leid-st.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:06:54.704764+00:00"
     },
     "angry/angry_00017_das-ist-einfach-nu.wav": {
       "decision": "keep",
@@ -134,10 +130,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:08:22.554911+00:00"
     },
-    "angry/angry_00052_was-bildest-du-dir.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:08:26.188840+00:00"
-    },
     "angry/angry_00057_warum-h-rst-du-mir.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -161,10 +153,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "angry/angry_00071_ich-bin-fertig-mit.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:08:56.797904+00:00"
-    },
     "angry/angry_00072_das-reicht-jetzt-e.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -173,14 +161,6 @@
     "angry/angry_00074_ich-habe-die-nase-.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:09:07.547481+00:00"
-    },
-    "angry/angry_00075_h-r-auf-mich-st-nd.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:09:13.243437+00:00"
-    },
-    "angry/angry_00076_was-f-llt-dir-eige.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:09:16.532323+00:00"
     },
     "angry/angry_00077_du-machst-alles-ka.wav": {
       "decision": "keep",
@@ -194,54 +174,10 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:09:26.981255+00:00"
     },
-    "angry/angry_00081_halt-endlich-den-m.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:09:29.504209+00:00"
-    },
-    "angry/angry_00082_du-bringst-mich-no.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:09:32.395194+00:00"
-    },
-    "angry/angry_00083_was-hast-du-dir-da.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:09:35.231469+00:00"
-    },
-    "angry/angry_00084_ich-hasse-es-wenn-.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:09:38.232585+00:00"
-    },
     "angry/angry_00087_kannst-du-nicht-ei.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "angry/angry_00090_warum-l-gst-du-mic.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:09:52.096285+00:00"
-    },
-    "angry/angry_00092_du-machst-mich-wah.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:09:57.234552+00:00"
-    },
-    "angry/angry_00097_ich-kann-dich-nich.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:10:17.349135+00:00"
-    },
-    "angry/angry_00099_ich-will-keine-dis.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:10:20.249686+00:00"
-    },
-    "angry/angry_00100_das-geht-so-nicht-.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:10:23.378718+00:00"
-    },
-    "angry/angry_00102_du-bringst-mich-zu.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:10:33.056367+00:00"
-    },
-    "angry/angry_00105_du-hast-alles-ruin.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:10:35.732822+00:00"
     },
     "angry/angry_00106_verschwinde-aus-me.wav": {
       "decision": "keep",
@@ -291,10 +227,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:11:41.283396+00:00"
     },
-    "angry/angry_00143_das-war-das-allerl.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:11:46.842654+00:00"
-    },
     "angry/angry_00146_ich-will-dass-du-m.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -303,10 +235,6 @@
     "angry/angry_00148_du-h-rst-mir-jetzt.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:12:01.821826+00:00"
-    },
-    "angry/angry_00149_das-reicht-jetzt-i.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:12:04.257846+00:00"
     },
     "angry/angry_00164_das-war-das-letzte.wav": {
       "decision": "keep",
@@ -357,22 +285,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:13:24.932925+00:00"
     },
-    "angry/angry_00208_r-um-endlich-dein-.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:13:34.664934+00:00"
-    },
-    "angry/angry_00209_was-soll-der-schei.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:13:37.433759+00:00"
-    },
-    "angry/angry_00213_mach-das-nie-wiede.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:13:43.005090+00:00"
-    },
-    "angry/angry_00216_das-ist-einfach-nu.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:13:45.785765+00:00"
-    },
     "angry/angry_00217_das-ist-nicht-dein.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -386,14 +298,6 @@
     "angry/angry_00220_h-r-auf-mich-zu-ne.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:14:00.499925+00:00"
-    },
-    "angry/angry_00221_das-geht-gar-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:14:03.469284+00:00"
-    },
-    "angry/angry_00222_das-war-das-allerl.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:14:06.406067+00:00"
     },
     "angry/angry_00226_ich-kann-deine-ign.wav": {
       "decision": "keep",
@@ -424,10 +328,6 @@
     "angry/angry_00238_wenn-du-das-noch-e.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:14:43.586544+00:00"
-    },
-    "angry/angry_00245_was-soll-das-jetzt.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:14:47.117628+00:00"
     },
     "angry/angry_00248_wie-kannst-du-es-w.wav": {
       "decision": "keep",
@@ -475,21 +375,9 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:16:07.535017+00:00"
     },
-    "angry/angry_00262_du-machst-mich-fer.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:16:11.268600+00:00"
-    },
     "angry/angry_00262_h-r-auf-mich-zu-ig.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:16:15.441741+00:00"
-    },
-    "angry/angry_00264_lass-mich-in-fried.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:16:18.580275+00:00"
-    },
-    "angry/angry_00264_was-f-llt-dir-ein-.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:16:23.863054+00:00"
     },
     "angry/angry_00266_das-ist-absolut-in.wav": {
       "decision": "keep",
@@ -531,10 +419,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:17:05.858649+00:00"
     },
-    "angry/angry_00280_ich-will-das-nie-w.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:17:09.154859+00:00"
-    },
     "angry/angry_00281_ich-bin-so-w-tend-.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -549,14 +433,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "angry/angry_00286_du-hast-kein-recht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:17:28.116073+00:00"
-    },
-    "angry/angry_00294_ich-bin-nicht-dein.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:17:31.845469+00:00"
-    },
     "angry/angry_00301_du-hast-alles-ruin.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:17:36.842547+00:00"
@@ -564,10 +440,6 @@
     "angry/angry_00306_h-r-auf-dich-wie-e.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:17:40.218805+00:00"
-    },
-    "angry/angry_00315_warum-l-gst-du-mic.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:17:44.384183+00:00"
     },
     "angry/angry_00316_du-hast-mein-vertr.wav": {
       "decision": "keep",
@@ -577,10 +449,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:17:51.238142+00:00"
     },
-    "angry/angry_00322_was-hast-du-dir-da.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:17:54.683536+00:00"
-    },
     "angry/angry_00334_ich-warne-dich-das.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:17:59.825683+00:00"
@@ -589,26 +457,14 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:18:04.493433+00:00"
     },
-    "angry/angry_00342_das-ist-kein-spiel.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:18:07.742064+00:00"
-    },
     "angry/angry_00343_h-r-auf-zu-heulen-.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "angry/angry_00347_das-ist-doch-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:18:18.760462+00:00"
-    },
     "angry/angry_00355_ich-warne-dich-mac.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:18:22.240452+00:00"
-    },
-    "angry/angry_00356_was-hast-du-dir-nu.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:18:25.034673+00:00"
     },
     "angry/angry_00359_was-bildest-du-dir.wav": {
       "decision": "keep",
@@ -678,38 +534,14 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:20:14.785141+00:00"
     },
-    "angry/angry_00410_raus-hier-sofort.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:20:17.016807+00:00"
-    },
-    "angry/angry_00413_kannst-du-nicht-ei.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:20:19.974450+00:00"
-    },
-    "angry/angry_00414_du-hast-kein-herz-.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:20:21.950076+00:00"
-    },
     "angry/angry_00419_r-um-endlich-dein-.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "angry/angry_00421_h-r-auf-mir-st-ndi.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:20:28.059486+00:00"
-    },
-    "angry/angry_00422_du-gehst-mir-gewal.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:20:31.074182+00:00"
-    },
     "angry/angry_00423_ich-bin-es-satt-mi.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:20:40.409622+00:00"
-    },
-    "angry/angry_00424_was-soll-der-mist-.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:20:47.242129+00:00"
     },
     "angry/angry_00425_warum-h-rst-du-nie.wav": {
       "decision": "keep",
@@ -730,10 +562,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:21:01.501010+00:00"
     },
-    "angry/angry_00443_wie-kannst-du-nur-.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:21:04.516467+00:00"
-    },
     "angry/angry_00456_ich-habe-genug-von.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -743,10 +571,6 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "angry/angry_00461_du-hast-kein-r-ckg.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:21:17.743689+00:00"
     },
     "angry/angry_00463_du-hast-mich-belog.wav": {
       "decision": "keep",
@@ -785,10 +609,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "angry/angry_00501_verschwinde-von-hi.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:21:53.196142+00:00"
-    },
     "angry/angry_00507_lass-mich-endlich-.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:21:58.799404+00:00"
@@ -797,10 +617,6 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "angry/angry_00511_ich-habe-keine-lus.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:22:10.055940+00:00"
     },
     "angry/angry_00514_das-ist-jetzt-wirk.wav": {
       "decision": "keep",
@@ -815,14 +631,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "angry/angry_00534_h-r-auf-mich-zu-be.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:22:30.945412+00:00"
-    },
-    "angry/angry_00537_lass-mich-endlich-.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:22:33.740303+00:00"
-    },
     "angry/angry_00540_ich-will-nie-wiede.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -832,21 +640,9 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:22:39.043139+00:00"
     },
-    "angry/angry_00551_schluss-mit-den-au.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:22:41.485462+00:00"
-    },
     "angry/angry_00564_du-hast-mich-betro.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T10:22:51.843844+00:00"
-    },
-    "angry/angry_00566_ich-hasse-dich-daf.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:22:54.597095+00:00"
-    },
-    "angry/angry_00567_du-bist-einfach-nu.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:22:56.252384+00:00"
     },
     "angry/angry_00568_du-hast-alles-kapu.wav": {
       "decision": "keep",
@@ -870,30 +666,6 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "angry/angry_01544_das-war-das-letzte-h-rst-du-mi.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:23:17.986938+00:00"
-    },
-    "angry/angry_01545_wie-konntest-du-das-nur-tun.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:23:21.446433+00:00"
-    },
-    "angry/angry_01546_ich-koche-innerlich-vor-wut.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T10:23:24.049236+00:00"
-    },
-    "angry/angry_01547_das-werde-ich-dir-nicht-verges.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:23:45.699288+00:00"
-    },
-    "angry/angry_01548_du-hast-mich-tief-verletzt-und.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:23:30.519928+00:00"
-    },
-    "angry/angry_01549_mit-dir-rede-ich-nic.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T10:23:36.074187+00:00"
     },
     "angry/angry_01551_so-kannst-du-mit-mir.wav": {
       "decision": "keep",
@@ -1066,270 +838,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T13:43:19.236487+00:00"
     },
-    "angry/angry_anchor_0001.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:43:24.312118+00:00"
-    },
-    "angry/angry_anchor_0002.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:43:29.384205+00:00"
-    },
-    "angry/angry_anchor_0003.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:43:31.901754+00:00"
-    },
-    "angry/angry_anchor_0004.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:43:33.655647+00:00"
-    },
-    "angry/angry_anchor_0005.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:43:35.846788+00:00"
-    },
-    "angry/angry_anchor_0006.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:43:37.667368+00:00"
-    },
-    "angry/angry_anchor_0007.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:43:41.152593+00:00"
-    },
-    "angry/angry_anchor_0008.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:43:49.679599+00:00"
-    },
-    "angry/angry_anchor_0009.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:43:53.295868+00:00"
-    },
-    "angry/angry_anchor_0010.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:43:55.221797+00:00"
-    },
-    "angry/angry_anchor_0011.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:43:57.768794+00:00"
-    },
-    "angry/angry_anchor_0012.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:04.122036+00:00"
-    },
-    "angry/angry_anchor_0013.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:44:05.738187+00:00"
-    },
-    "angry/angry_anchor_0014.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:09.003896+00:00"
-    },
-    "angry/angry_anchor_0015.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:12.965961+00:00"
-    },
-    "angry/angry_anchor_0016.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:18.072483+00:00"
-    },
-    "angry/angry_anchor_0019.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:22.540445+00:00"
-    },
-    "angry/angry_anchor_0020.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:25.703884+00:00"
-    },
-    "angry/angry_anchor_0021.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:44:27.192351+00:00"
-    },
-    "angry/angry_anchor_0022.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:44:28.476193+00:00"
-    },
-    "angry/angry_anchor_0023.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:34.588346+00:00"
-    },
-    "angry/angry_anchor_0024.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:44:37.149290+00:00"
-    },
-    "angry/angry_anchor_0025.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:40.904519+00:00"
-    },
-    "angry/angry_anchor_0026.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:44:42.275129+00:00"
-    },
-    "angry/angry_anchor_0027.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:48.267560+00:00"
-    },
-    "angry/angry_anchor_0028.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:44:51.209099+00:00"
-    },
-    "angry/angry_anchor_0029.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:44:58.468079+00:00"
-    },
-    "angry/angry_anchor_0030.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:45:01.266298+00:00"
-    },
-    "angry/angry_anchor_0031.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:02.929700+00:00"
-    },
-    "angry/angry_anchor_0032.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:09.985821+00:00"
-    },
-    "angry/angry_anchor_0033.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:45:13.334818+00:00"
-    },
-    "angry/angry_anchor_0034.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:45:18.339462+00:00"
-    },
-    "angry/angry_anchor_0035.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:45:22.622189+00:00"
-    },
-    "angry/angry_anchor_0036.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:24.463131+00:00"
-    },
-    "angry/angry_anchor_0037.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:29.981796+00:00"
-    },
-    "angry/angry_anchor_0038.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:45:32.860991+00:00"
-    },
-    "angry/angry_anchor_0039.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:34.440455+00:00"
-    },
-    "angry/angry_anchor_0040.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:35.683579+00:00"
-    },
-    "angry/angry_anchor_0041.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:37.196171+00:00"
-    },
-    "angry/angry_anchor_0043.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:38.596912+00:00"
-    },
-    "angry/angry_anchor_0044.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:45:41.995152+00:00"
-    },
-    "angry/angry_anchor_0045.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:43.299999+00:00"
-    },
-    "angry/angry_anchor_0046.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:45.881799+00:00"
-    },
-    "angry/angry_anchor_0047.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:48.196655+00:00"
-    },
-    "angry/angry_anchor_0048.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:45:51.520942+00:00"
-    },
-    "angry/angry_anchor_0049.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:45:54.946561+00:00"
-    },
-    "angry/angry_anchor_0050.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:46:00.525489+00:00"
-    },
-    "angry/angry_universal_0001.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:04.187690+00:00"
-    },
-    "angry/angry_universal_0002.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:46:09.764572+00:00"
-    },
-    "angry/angry_universal_0003.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:12.283521+00:00"
-    },
-    "angry/angry_universal_0004.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:46:18.097623+00:00"
-    },
-    "angry/angry_universal_0005.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:19.437267+00:00"
-    },
-    "angry/angry_universal_0006.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:22.118613+00:00"
-    },
-    "angry/angry_universal_0007.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:23.659945+00:00"
-    },
-    "angry/angry_universal_0008.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:25.968466+00:00"
-    },
-    "angry/angry_universal_0009.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:33.307821+00:00"
-    },
-    "angry/angry_universal_0010.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:35.248478+00:00"
-    },
-    "angry/angry_universal_0011.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:36.719778+00:00"
-    },
-    "angry/angry_universal_0012.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:39.358658+00:00"
-    },
-    "angry/angry_universal_0013.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:46:44.433725+00:00"
-    },
-    "angry/angry_universal_0014.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:46:46.040609+00:00"
-    },
-    "angry/angry_universal_0015.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:46:54.219011+00:00"
-    },
-    "angry/angry_universal_0016.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:47:01.591789+00:00"
-    },
-    "angry/angry_universal_0017.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:47:06.570522+00:00"
-    },
-    "angry/angry_universal_0018.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T13:47:10.233832+00:00"
-    },
-    "angry/angry_universal_0019.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T13:47:17.095966+00:00"
-    },
     "annoyed/annoyed_00001_muss-das-jetzt-wirkl.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:38:38.531575+00:00"
@@ -1370,10 +878,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "annoyed/annoyed_00018_ich-bin-es-leid-stän.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:39:40.601561+00:00"
-    },
     "annoyed/annoyed_00019_das-ist-doch-kein-zu.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:39:44.221633+00:00"
@@ -1386,10 +890,6 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "annoyed/annoyed_00023_das-ist-jetzt-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:40:00.302903+00:00"
     },
     "annoyed/annoyed_00024_ich-glaub-ich-spinne.wav": {
       "decision": "keep",
@@ -1409,18 +909,10 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:40:22.946952+00:00"
     },
-    "annoyed/annoyed_00036_ich-hab-langsam-die.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:40:31.235399+00:00"
-    },
     "annoyed/annoyed_00037_das-ist-doch-kein-le.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "annoyed/annoyed_00039_ich-glaub-ich-hör-ni.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:40:39.122968+00:00"
     },
     "annoyed/annoyed_00042_ich-hab-keine-lust-m.wav": {
       "decision": "keep",
@@ -1558,10 +1050,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0002.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:52:14.276249+00:00"
-    },
     "neutral/neutral_new_0003.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -1572,22 +1060,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0006.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:52:30.254717+00:00"
-    },
-    "neutral/neutral_new_0007.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:52:36.409700+00:00"
-    },
-    "neutral/neutral_new_0008.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:52:39.177654+00:00"
-    },
-    "neutral/neutral_new_0009.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:52:42.583660+00:00"
-    },
     "neutral/neutral_new_0010.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -1596,14 +1068,6 @@
     "neutral/neutral_new_0011.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:52:54.841339+00:00"
-    },
-    "neutral/neutral_new_0012.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:52:58.234840+00:00"
-    },
-    "neutral/neutral_new_0013.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:53:01.531979+00:00"
     },
     "neutral/neutral_new_0014.wav": {
       "decision": "keep",
@@ -1614,71 +1078,23 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0017.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:53:26.366522+00:00"
-    },
-    "neutral/neutral_new_0018.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:53:32.591620+00:00"
-    },
     "neutral/neutral_new_0019.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:53:36.420019+00:00"
     },
-    "neutral/neutral_new_0020.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:53:38.212417+00:00"
-    },
-    "neutral/neutral_new_0021.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:53:41.451840+00:00"
-    },
-    "neutral/neutral_new_0022.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:53:44.732523+00:00"
-    },
     "neutral/neutral_new_0023.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:53:52.821390+00:00"
-    },
-    "neutral/neutral_new_0024.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:53:59.202311+00:00"
     },
     "neutral/neutral_new_0025.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0026.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:54:04.830122+00:00"
-    },
-    "neutral/neutral_new_0027.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:54:09.815525+00:00"
-    },
-    "neutral/neutral_new_0028.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:54:15.073902+00:00"
-    },
     "neutral/neutral_new_0029.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0030.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:54:26.768947+00:00"
-    },
-    "neutral/neutral_new_0031.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:54:31.605243+00:00"
-    },
-    "neutral/neutral_new_0032.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:54:35.735186+00:00"
     },
     "neutral/neutral_new_0033.wav": {
       "decision": "keep",
@@ -1695,22 +1111,6 @@
     "neutral/neutral_new_0036.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:54:51.115896+00:00"
-    },
-    "neutral/neutral_new_0037.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:54:54.130874+00:00"
-    },
-    "neutral/neutral_new_0038.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:55:02.983142+00:00"
-    },
-    "neutral/neutral_new_0039.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:55:07.868963+00:00"
-    },
-    "neutral/neutral_new_0040.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:55:10.123183+00:00"
     },
     "neutral/neutral_new_0041.wav": {
       "decision": "keep",
@@ -1734,25 +1134,9 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:55:35.226200+00:00"
     },
-    "neutral/neutral_new_0047.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:55:38.237057+00:00"
-    },
     "neutral/neutral_new_0048.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:55:41.642179+00:00"
-    },
-    "neutral/neutral_new_0049.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:55:44.454339+00:00"
-    },
-    "neutral/neutral_new_0050.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:55:49.617407+00:00"
-    },
-    "neutral/neutral_new_0051.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:55:52.495371+00:00"
     },
     "neutral/neutral_new_0052.wav": {
       "decision": "keep",
@@ -1767,18 +1151,10 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:56:12.136003+00:00"
     },
-    "neutral/neutral_new_0055.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:56:15.303565+00:00"
-    },
     "neutral/neutral_new_0056.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0057.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:56:25.329720+00:00"
     },
     "neutral/neutral_new_0058.wav": {
       "decision": "keep",
@@ -1793,17 +1169,9 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0061.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:56:43.090829+00:00"
-    },
     "neutral/neutral_new_0062.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:56:47.660167+00:00"
-    },
-    "neutral/neutral_new_0063.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:56:50.717107+00:00"
     },
     "neutral/neutral_new_0064.wav": {
       "decision": "keep",
@@ -1817,10 +1185,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:57:18.924202+00:00"
     },
-    "neutral/neutral_new_0067.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:57:21.753043+00:00"
-    },
     "neutral/neutral_new_0068.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -1830,29 +1194,9 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:57:35.263641+00:00"
     },
-    "neutral/neutral_new_0070.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:57:41.931612+00:00"
-    },
-    "neutral/neutral_new_0071.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:57:45.037565+00:00"
-    },
-    "neutral/neutral_new_0072.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:57:51.059355+00:00"
-    },
     "neutral/neutral_new_0073.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:57:55.586447+00:00"
-    },
-    "neutral/neutral_new_0074.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:58:00.296134+00:00"
-    },
-    "neutral/neutral_new_0075.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:58:08.345650+00:00"
     },
     "neutral/neutral_new_0076.wav": {
       "decision": "keep",
@@ -1868,14 +1212,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0079.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:58:24.207414+00:00"
-    },
-    "neutral/neutral_new_0080.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:58:28.072046+00:00"
-    },
     "neutral/neutral_new_0081.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:58:31.910746+00:00"
@@ -1889,42 +1225,10 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:58:37.083953+00:00"
     },
-    "neutral/neutral_new_0085.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:58:38.241449+00:00"
-    },
-    "neutral/neutral_new_0086.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:58:44.761382+00:00"
-    },
     "neutral/neutral_new_0087.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0088.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:58:47.504560+00:00"
-    },
-    "neutral/neutral_new_0089.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:58:50.536557+00:00"
-    },
-    "neutral/neutral_new_0090.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:58:56.471166+00:00"
-    },
-    "neutral/neutral_new_0091.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:59:02.772444+00:00"
-    },
-    "neutral/neutral_new_0092.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T15:59:05.007651+00:00"
-    },
-    "neutral/neutral_new_0093.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T15:59:07.706678+00:00"
     },
     "neutral/neutral_new_0094.wav": {
       "decision": "keep",
@@ -1934,45 +1238,9 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T15:59:21.368457+00:00"
     },
-    "neutral/neutral_new_0096.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:06:14.343425+00:00"
-    },
-    "neutral/neutral_new_0097.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:06:19.127641+00:00"
-    },
-    "neutral/neutral_new_0098.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:26:22.640939+00:00"
-    },
     "neutral/neutral_new_0099.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:06:25.917132+00:00"
-    },
-    "neutral/neutral_new_0100.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:06:32.920414+00:00"
-    },
-    "neutral/neutral_new_0101.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:06:36.167923+00:00"
-    },
-    "neutral/neutral_new_0102.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:06:38.738394+00:00"
-    },
-    "neutral/neutral_new_0103.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:06:41.547904+00:00"
-    },
-    "neutral/neutral_new_0104.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:06:44.593696+00:00"
-    },
-    "neutral/neutral_new_0105.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:06:47.325999+00:00"
     },
     "neutral/neutral_new_0106.wav": {
       "decision": "keep",
@@ -1984,34 +1252,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0108.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:00.193976+00:00"
-    },
-    "neutral/neutral_new_0109.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:03.345721+00:00"
-    },
-    "neutral/neutral_new_0110.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:08.952056+00:00"
-    },
-    "neutral/neutral_new_0111.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:11.874670+00:00"
-    },
-    "neutral/neutral_new_0112.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:14.618151+00:00"
-    },
-    "neutral/neutral_new_0113.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:17.602191+00:00"
-    },
-    "neutral/neutral_new_0114.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:20.719734+00:00"
-    },
     "neutral/neutral_new_0115.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:07:24.100856+00:00"
@@ -2021,34 +1261,10 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0117.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:07:29.284414+00:00"
-    },
-    "neutral/neutral_new_0118.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:32.495109+00:00"
-    },
-    "neutral/neutral_new_0119.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:35.711074+00:00"
-    },
-    "neutral/neutral_new_0120.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:38.524123+00:00"
-    },
     "neutral/neutral_new_0121.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0122.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:07:45.484688+00:00"
-    },
-    "neutral/neutral_new_0123.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:07:50.571647+00:00"
     },
     "neutral/neutral_new_0124.wav": {
       "decision": "keep",
@@ -2060,21 +1276,9 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0126.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:08:08.724845+00:00"
-    },
-    "neutral/neutral_new_0127.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:08:12.165280+00:00"
-    },
     "neutral/neutral_new_0128.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:08:15.425556+00:00"
-    },
-    "neutral/neutral_new_0129.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:08:18.238480+00:00"
     },
     "neutral/neutral_new_0130.wav": {
       "decision": "keep",
@@ -2094,25 +1298,9 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:08:30.636243+00:00"
     },
-    "neutral/neutral_new_0134.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:08:34.119714+00:00"
-    },
-    "neutral/neutral_new_0135.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:08:37.018790+00:00"
-    },
-    "neutral/neutral_new_0136.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:08:39.967992+00:00"
-    },
     "neutral/neutral_new_0137.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:08:43.725373+00:00"
-    },
-    "neutral/neutral_new_0138.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:08:45.940287+00:00"
     },
     "neutral/neutral_new_0139.wav": {
       "decision": "keep",
@@ -2127,18 +1315,6 @@
     "neutral/neutral_new_0141.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:08:53.263020+00:00"
-    },
-    "neutral/neutral_new_0142.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:08:56.020272+00:00"
-    },
-    "neutral/neutral_new_0143.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:08:59.327015+00:00"
-    },
-    "neutral/neutral_new_0144.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:09:03.855754+00:00"
     },
     "neutral/neutral_new_0145.wav": {
       "decision": "keep",
@@ -2155,26 +1331,14 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0148.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:09:22.269551+00:00"
-    },
     "neutral/neutral_new_0149.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:09:28.575709+00:00"
-    },
-    "neutral/neutral_new_0150.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:09:34.306894+00:00"
     },
     "neutral/neutral_new_0151.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0152.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:09:41.275458+00:00"
     },
     "neutral/neutral_new_0153.wav": {
       "decision": "keep",
@@ -2184,14 +1348,6 @@
     "neutral/neutral_new_0154.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:09:46.365406+00:00"
-    },
-    "neutral/neutral_new_0155.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:09:54.641110+00:00"
-    },
-    "neutral/neutral_new_0156.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:10:10.082430+00:00"
     },
     "neutral/neutral_new_0157.wav": {
       "decision": "keep",
@@ -2205,60 +1361,20 @@
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:10:24.048852+00:00"
     },
-    "neutral/neutral_new_0160.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:10:25.728034+00:00"
-    },
     "neutral/neutral_new_0161.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0162.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:10:32.001054+00:00"
-    },
-    "neutral/neutral_new_0163.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:10:35.024311+00:00"
     },
     "neutral/neutral_new_0164.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0165.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:10:39.293472+00:00"
-    },
-    "neutral/neutral_new_0166.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:10:40.935731+00:00"
-    },
-    "neutral/neutral_new_0167.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:10:43.692208+00:00"
-    },
     "neutral/neutral_new_0168.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0169.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:10:50.080742+00:00"
-    },
-    "neutral/neutral_new_0170.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:10:55.890258+00:00"
-    },
-    "neutral/neutral_new_0171.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:07.266544+00:00"
-    },
-    "neutral/neutral_new_0172.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:11:11.878480+00:00"
     },
     "neutral/neutral_new_0173.wav": {
       "decision": "keep",
@@ -2269,116 +1385,28 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0175.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:11:23.561312+00:00"
-    },
-    "neutral/neutral_new_0176.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:26.435612+00:00"
-    },
-    "neutral/neutral_new_0177.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:29.085643+00:00"
-    },
-    "neutral/neutral_new_0178.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:31.806990+00:00"
-    },
-    "neutral/neutral_new_0179.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:11:33.221887+00:00"
-    },
-    "neutral/neutral_new_0180.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:37.452684+00:00"
-    },
-    "neutral/neutral_new_0181.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:43.310279+00:00"
-    },
     "neutral/neutral_new_0182.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:11:46.577074+00:00"
-    },
-    "neutral/neutral_new_0183.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:49.367335+00:00"
     },
     "neutral/neutral_new_0184.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0186.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:11:53.561214+00:00"
-    },
     "neutral/neutral_new_0187.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:11:56.820076+00:00"
-    },
-    "neutral/neutral_new_0188.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:11:58.394215+00:00"
-    },
-    "neutral/neutral_new_0189.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:02.869410+00:00"
     },
     "neutral/neutral_new_0190.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "neutral/neutral_new_0191.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:12:09.032697+00:00"
-    },
     "neutral/neutral_new_0192.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_new_0193.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:22.877116+00:00"
-    },
-    "neutral/neutral_new_0194.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:32.685064+00:00"
-    },
-    "neutral/neutral_new_0195.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:39.191412+00:00"
-    },
-    "neutral/neutral_new_0196.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:12:41.776132+00:00"
-    },
-    "neutral/neutral_new_0197.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:44.180068+00:00"
-    },
-    "neutral/neutral_new_0198.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:47.219409+00:00"
-    },
-    "neutral/neutral_new_0199.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:50.217872+00:00"
-    },
-    "neutral/neutral_new_0200.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:12:51.759823+00:00"
-    },
-    "neutral/neutral_new_0201.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:12:58.811787+00:00"
-    },
-    "neutral/neutral_new_0202.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:13:01.067040+00:00"
     },
     "neutral/neutral_new_0203.wav": {
       "decision": "keep",
@@ -2387,18 +1415,6 @@
     "neutral/neutral_new_0204.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-26T16:13:13.731488+00:00"
-    },
-    "neutral/neutral_new_0205.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:13:17.772055+00:00"
-    },
-    "neutral/neutral_new_0206.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:13:20.284672+00:00"
-    },
-    "neutral/neutral_new_0207.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-26T16:13:23.632690+00:00"
     },
     "neutral/neutral_topup_0001.wav": {
       "decision": "keep",
@@ -2438,10 +1454,6 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "neutral/neutral_topup_0011.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-26T16:14:33.439821+00:00"
     },
     "neutral/neutral_topup_0013.wav": {
       "decision": "keep",
@@ -2592,10 +1604,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:27:22.511613+00:00"
     },
-    "annoyed/annoyed_00159_ich-bin-es-so-leid-d.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:27:30.002939+00:00"
-    },
     "annoyed/annoyed_00161_es-macht-mich-wahnsi.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:27:35.920895+00:00"
@@ -2603,10 +1611,6 @@
     "annoyed/annoyed_00163_ich-verstehe-nicht-w.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:27:44.059161+00:00"
-    },
-    "annoyed/annoyed_00165_es-ist-nicht-zu-fass.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:27:49.860519+00:00"
     },
     "annoyed/annoyed_00168_warum-denkst-du-nie.wav": {
       "decision": "keep",
@@ -2672,10 +1676,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "annoyed/annoyed_00242_warum-wird-hier-nie.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:29:30.091469+00:00"
-    },
     "annoyed/annoyed_00247_warum-wird-hier-nie.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -2684,14 +1684,6 @@
     "annoyed/annoyed_00248_das-ist-doch-nur-noc.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:29:38.579614+00:00"
-    },
-    "annoyed/annoyed_00251_jetzt-reicht-es-mir-aber-wirkl.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:29:41.795679+00:00"
-    },
-    "annoyed/annoyed_00252_muss-das-denn-immer-so-sein.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:29:45.241872+00:00"
     },
     "annoyed/annoyed_00253_das-nervt-mich-mehr-als-du-den.wav": {
       "decision": "keep",
@@ -2703,14 +1695,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "annoyed/annoyed_00256_das-ist-echt-nicht-zum-aushalt.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:29:56.272857+00:00"
-    },
-    "annoyed/annoyed_00257_ich-habe-keine-geduld-mehr-daf.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:29:59.931418+00:00"
-    },
     "annoyed/annoyed_00258_warum-f-llt-dir-das-so-schwer.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:30:07.872272+00:00"
@@ -2719,118 +1703,26 @@
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:30:12.383155+00:00"
     },
-    "annoyed/annoyed_00260_bitte-tu-das-nicht-nochmal.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:15.382662+00:00"
-    },
-    "annoyed/annoyed_00261_h-r-mir-doch-einfach-mal-zu.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:18.412230+00:00"
-    },
-    "annoyed/annoyed_00262_das-ist-so-unn-tig.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:21.134111+00:00"
-    },
-    "annoyed/annoyed_00263_ich-bin-es-wirklich-leid.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:23.807478+00:00"
-    },
-    "annoyed/annoyed_00264_so-kann-das-nicht-weitergehen.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:26.399267+00:00"
-    },
     "annoyed/annoyed_00265_ich-brauche-jetzt-einfach-ruhe.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:30:29.994735+00:00"
-    },
-    "annoyed/annoyed_00266_das-war-wieder-typisch.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:32.729987+00:00"
-    },
-    "annoyed/annoyed_00267_muss-ich-das-wirklich-erkl-ren.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:35.979026+00:00"
-    },
-    "annoyed/annoyed_00268_ich-fasse-es-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:38.126871+00:00"
-    },
-    "annoyed/annoyed_00269_das-ist-doch-keine-art.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:40.902030+00:00"
-    },
-    "annoyed/annoyed_00270_ich-war-heute-schon-genervt-ge.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:44.929196+00:00"
-    },
-    "annoyed/annoyed_00271_stell-dich-nicht-so-an.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:47.271308+00:00"
-    },
-    "annoyed/annoyed_00272_das-macht-mich-fertig.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-28T08:30:50.788999+00:00"
-    },
-    "annoyed/annoyed_00273_ich-m-chte-das-jetzt-nicht-dis.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:30:53.824662+00:00"
     },
     "annoyed/annoyed_00274_bitte-denk-kurz-nach-bevor-du.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:31:03.308943+00:00"
     },
-    "annoyed/annoyed_00275_das-h-tte-sich-vermeiden-lasse.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:06.636566+00:00"
-    },
-    "annoyed/annoyed_00276_jetzt-komm-mir-nicht-damit.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:09.605536+00:00"
-    },
-    "annoyed/annoyed_00277_das-zieht-mich-runter.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:12.103943+00:00"
-    },
-    "annoyed/annoyed_00278_wir-hatten-das-schon.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:14.297831+00:00"
-    },
-    "annoyed/annoyed_00279_du-wei-t-genau-was-mich-st-rt.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:17.123115+00:00"
-    },
-    "annoyed/annoyed_00280_ich-brauche-das-nicht-heute.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:20.043370+00:00"
-    },
-    "annoyed/annoyed_00282_das-ist-wieder-dein-ernst.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-28T08:31:23.401282+00:00"
-    },
     "annoyed/annoyed_00283_du-machst-das-absichtlich-oder.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:31:26.720394+00:00"
-    },
-    "annoyed/annoyed_00285_ich-bitte-dich-das-zu-unterlas.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:35.792122+00:00"
     },
     "annoyed/annoyed_00286_das-geht-mir-auf-die-nerven-se.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T08:31:39.259306+00:00"
     },
-    "annoyed/annoyed_00287_ich-habe-andere-sorgen-als-das.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T08:31:42.239876+00:00"
-    },
     "annoyed/annoyed_00288_tu-mir-bitte-den-gefallen.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "annoyed/annoyed_00290_ich-glaube-ich-muss-kurz-raus.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-28T08:31:53.208010+00:00"
     },
     "annoyed/annoyed_00292_noch-einmal-und-ich-drehe-durc.wav": {
       "decision": "keep",
@@ -2929,10 +1821,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-28T18:42:41.328922+00:00"
     },
-    "annoyed/annoyed_00316_das-ist-ja-wie-gegen.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T18:42:44.040940+00:00"
-    },
     "annoyed/annoyed_00317_waerst-du-heute-mal.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T18:42:48.578572+00:00"
@@ -2995,10 +1883,6 @@
     "annoyed/annoyed_00331_das-thema-nervt-mich.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T19:45:51.666686+00:00"
-    },
-    "annoyed/annoyed_00332_ich-muss-mich-gerade.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T19:45:54.786263+00:00"
     },
     "annoyed/annoyed_00333_wenn-stille-meine-an.wav": {
       "decision": "keep",
@@ -3073,10 +1957,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-28T19:47:36.511980+00:00"
     },
-    "annoyed/annoyed_00351_gern-waere-ich-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T19:47:42.080789+00:00"
-    },
     "annoyed/annoyed_00352_kurz-vor-dem-punkt-w.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -3139,10 +2019,6 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "annoyed/annoyed_00366_eine-runde-ignoriere.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T19:49:23.878670+00:00"
     },
     "annoyed/annoyed_00367_heute-ist-das-einfac.wav": {
       "decision": "keep",
@@ -3214,10 +2090,6 @@
     "annoyed/annoyed_00382_am-liebsten-wuerde-i.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-28T19:50:32.015825+00:00"
-    },
-    "annoyed/annoyed_00383_man-muss-nicht-auf-a.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-28T19:50:36.055584+00:00"
     },
     "annoyed/annoyed_00384_mit-wuerde-drueber-h.wav": {
       "decision": "keep",
@@ -3330,10 +2202,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-29T08:52:41.525235+00:00"
     },
-    "apologetic/apologetic_00031_ich-fühle-mich-so-sc.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:52:44.400619+00:00"
-    },
     "apologetic/apologetic_00032_das-war-wirklich-unf.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -3360,14 +2228,6 @@
     "apologetic/apologetic_00041_ich-schäme-mich-für.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T08:53:07.335455+00:00"
-    },
-    "apologetic/apologetic_00043_ich-hätte-die-wahrhe.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:53:13.848049+00:00"
-    },
-    "apologetic/apologetic_00047_das-war-wirklich-dum.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:53:17.729843+00:00"
     },
     "apologetic/apologetic_00048_ich-bereue-es-dass-i.wav": {
       "decision": "keep",
@@ -3405,10 +2265,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-29T08:53:44.460510+00:00"
     },
-    "apologetic/apologetic_00063_das-war-wirklich-ged.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:53:47.414986+00:00"
-    },
     "apologetic/apologetic_00066_ich-hätte-mehr-verst.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T08:53:52.329063+00:00"
@@ -3418,25 +2274,9 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "apologetic/apologetic_00070_das-war-wirklich-rüc.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:53:58.702634+00:00"
-    },
-    "apologetic/apologetic_00074_ich-hätte-dir-vertra.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:54:01.427463+00:00"
-    },
     "apologetic/apologetic_00076_ich-hätte-mehr-rücks.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T08:54:04.407993+00:00"
-    },
-    "apologetic/apologetic_00077_das-war-absolut-unnö.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:54:33.190409+00:00"
-    },
-    "apologetic/apologetic_00078_das-war-wirklich-dum.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:54:35.824917+00:00"
     },
     "apologetic/apologetic_00080_ich-hätte-die-situat.wav": {
       "decision": "keep",
@@ -3446,18 +2286,6 @@
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "apologetic/apologetic_00086_ich-hätte-dir-helfen.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:54:45.848584+00:00"
-    },
-    "apologetic/apologetic_00087_das-war-ein-großer-f.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-29T08:54:58.535209+00:00"
-    },
-    "apologetic/apologetic_00089_das-war-wirklich-unf.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-29T08:55:08.953005+00:00"
     },
     "apologetic/apologetic_00091_ich-bereue-es-zutief.wav": {
       "decision": "keep",
@@ -3601,10 +2429,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "apologetic/apologetic_00130_bitte-lass-mich-das.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:58:05.591515+00:00"
-    },
     "apologetic/apologetic_00131_ich-war-ungerecht-zu.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T08:58:11.320294+00:00"
@@ -3666,17 +2490,9 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "apologetic/apologetic_00151_bitte-vergib-mir-mei.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:59:43.449398+00:00"
-    },
     "apologetic/apologetic_00152_ich-stehe-zu-meinem.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T08:59:47.716753+00:00"
-    },
-    "apologetic/apologetic_00153_es-war-falsch-von-mi.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T08:59:52.091730+00:00"
     },
     "apologetic/apologetic_00154_ich-bedauere-mein-ve.wav": {
       "decision": "keep",
@@ -3742,10 +2558,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:01:03.052907+00:00"
     },
-    "apologetic/apologetic_00173_tut-mir-leid-für-all.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T09:01:06.971366+00:00"
-    },
     "apologetic/apologetic_00175_das-war-rücksichtslo.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:01:11.223525+00:00"
@@ -3804,10 +2616,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:02:14.079756+00:00"
     },
-    "apologetic/apologetic_00200_bitte-vergib-mir-mei.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T09:02:17.602826+00:00"
-    },
     "apologetic/apologetic_00201_ich-bereue-mein-verh.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:02:22.279866+00:00"
@@ -3849,10 +2657,6 @@
     "apologetic/apologetic_00214_ich-bedauere-was-ich.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:03:07.615824+00:00"
-    },
-    "apologetic/apologetic_00216_ich-war-blind-und-da.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T09:03:11.040754+00:00"
     },
     "apologetic/apologetic_00217_das-war-ein-fehler-d.wav": {
       "decision": "keep",
@@ -4033,10 +2837,6 @@
     "apologetic/apologetic_00278_das-war-nicht-die-person-die-i.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:08:38.630092+00:00"
-    },
-    "apologetic/apologetic_00279_ich-h-tte-auf-dich-h-ren-solle.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T09:08:41.465364+00:00"
     },
     "apologetic/apologetic_00280_das-war-leichtsinnig-und-du-ha.wav": {
       "decision": "keep",
@@ -4403,10 +3203,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:20:04.402604+00:00"
     },
-    "bitter/bitter_00093_warum-musstest-du-mi.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T09:20:09.438456+00:00"
-    },
     "bitter/bitter_00094_die-stille-zwischen.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:20:15.135747+00:00"
@@ -4516,10 +3312,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:23:08.554816+00:00"
     },
-    "bitter/bitter_00160_es-tut-weh-zu-wissen.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-29T09:23:13.759047+00:00"
-    },
     "bitter/bitter_00164_deine-worte-waren-wi.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-29T09:23:19.688280+00:00"
@@ -4624,10 +3416,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T00:08:27.315268+00:00"
     },
-    "annoyed/annoyed_00394_ich-verbiege-mich-ge.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T00:08:41.923148+00:00"
-    },
     "annoyed/annoyed_00396_ich-nicke-aber-inner.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T00:08:49.354021+00:00"
@@ -4649,10 +3437,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T00:09:17.016526+00:00"
     },
-    "annoyed/annoyed_00402_das-war-doch-schon-a.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T00:09:21.008180+00:00"
-    },
     "annoyed/annoyed_00403_ich-will-nicht-nacht.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -4670,10 +3454,6 @@
     "annoyed/annoyed_00405_schon-wieder-dieselb.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T00:09:46.583178+00:00"
-    },
-    "annoyed/annoyed_00406_staendig-muss-ich-hi.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T00:09:51.310025+00:00"
     },
     "annoyed/annoyed_00409_schon-wieder-vergess.wav": {
       "decision": "keep",
@@ -5075,11 +3855,6 @@
     "bitter/bitter_00324_ich-schlucke-die-bit.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T09:23:26.316579+00:00"
-    },
-    "bitter/bitter_00325_alles-was-uebrig-geb.wav": {
-      "decision": "delete",
-      "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
-      "source": "removed_from_dataset_after_rerender_review"
     },
     "bitter/bitter_00326_was-ich-einst-fuer-s.wav": {
       "decision": "keep",
@@ -5954,10 +4729,6 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "condescending/condescending_00341_das-klingt-nach-eine.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T10:29:46.220812+00:00"
-    },
     "condescending/condescending_00343_verstaendlich-dass-s.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:29:51.214101+00:00"
@@ -6154,10 +4925,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:34:37.562282+00:00"
     },
-    "condescending/condescending_00398_man-lernt-mit-den-ja.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T10:34:40.798684+00:00"
-    },
     "condescending/condescending_00399_das-nehme-ich-ihnen.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:34:45.913867+00:00"
@@ -6252,10 +5019,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:39:58.429983+00:00"
     },
-    "condescending/condescending_00422_das-ist-die-sichtwei.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T10:40:03.665464+00:00"
-    },
     "condescending/condescending_00423_ich-sage-mit-allem-r.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:40:10.034301+00:00"
@@ -6292,10 +5055,6 @@
     "condescending/condescending_00431_ihr-ernst-das-ist-ih.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:40:57.995851+00:00"
-    },
-    "condescending/condescending_00432_damit-kommen-sie-hie.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T10:41:03.099638+00:00"
     },
     "condescending/condescending_00433_das-ist-kein-argumen.wav": {
       "decision": "keep",
@@ -6536,10 +5295,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:49:47.170321+00:00"
     },
-    "confident/confident_00023_ich-lasse-mich-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T10:49:50.039150+00:00"
-    },
     "confident/confident_00024_das-ist-genau-das-wa.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:49:53.954678+00:00"
@@ -6555,10 +5310,6 @@
     "confident/confident_00027_ich-stehe-hinter-dem.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:50:10.707042+00:00"
-    },
-    "confident/confident_00028_das-ergebnis-wird-fü.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T10:50:22.892893+00:00"
     },
     "confident/confident_00029_ich-bin-nicht-nervös.wav": {
       "decision": "keep",
@@ -6599,10 +5350,6 @@
     "confident/confident_00039_ich-handle-mit-bedac.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T10:51:04.251506+00:00"
-    },
-    "confident/confident_00040_das-wird-funktionier.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T10:51:07.651090+00:00"
     },
     "confident/confident_00042_meine-position-ist-k.wav": {
       "decision": "keep",
@@ -6881,10 +5628,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:08:56.567452+00:00"
     },
-    "confident/confident_00227_ich-habe-keine-zeit.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T11:09:04.275943+00:00"
-    },
     "confident/confident_00228_mein-führungsstil-is.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -6982,10 +5725,6 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:11:47.986768+00:00"
     },
-    "confident/confident_00259_scheitern-kommt-mir.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T11:11:52.431714+00:00"
-    },
     "confident/confident_00260_ich-habe-diesen-mome.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
@@ -7003,10 +5742,6 @@
     "confident/confident_00264_wer-mich-unterschaet.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:12:21.628363+00:00"
-    },
-    "confident/confident_00265_ich-zeige-euch-wie-d.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:12:24.798138+00:00"
     },
     "confident/confident_00266_schwierigkeiten-sind.wav": {
       "decision": "keep",
@@ -7443,38 +6178,10 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:21:54.089152+00:00"
     },
-    "desperate/desperate_00001_ich-halte-das-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:28:28.308514+00:00"
-    },
-    "desperate/desperate_00002_warum-hört-das-nie-a.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:28:31.507982+00:00"
-    },
     "desperate/desperate_00003_es-gibt-keinen-auswe.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "desperate/desperate_00004_ich-kann-nicht-mehr.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:28:39.417130+00:00"
-    },
-    "desperate/desperate_00005_alles-ist-verloren.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:28:42.099052+00:00"
-    },
-    "desperate/desperate_00006_niemand-versteht-mic.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:28:44.205283+00:00"
-    },
-    "desperate/desperate_00007_ich-will-nur-noch-sc.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T11:28:48.612211+00:00"
-    },
-    "desperate/desperate_00008_meine-hände-zittern.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:28:51.763027+00:00"
     },
     "desperate/desperate_00009_es-tut-so-weh-immer.wav": {
       "decision": "keep",
@@ -7485,39 +6192,15 @@
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "desperate/desperate_00011_warum-hilft-mir-kein.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:09.430856+00:00"
-    },
-    "desperate/desperate_00012_ich-bin-so-müde.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T11:29:16.083396+00:00"
-    },
-    "desperate/desperate_00013_alles-bricht-zusamme.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:18.776429+00:00"
-    },
     "desperate/desperate_00014_ich-schaffe-das-nich.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
     },
-    "desperate/desperate_00015_es-ist-zu-spät.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T11:29:26.372438+00:00"
-    },
-    "desperate/desperate_00016_meine-stimme-versagt.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:29.220341+00:00"
-    },
     "desperate/desperate_00017_ich-habe-alles-versu.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-01T17:31:20.211533+00:00",
       "source": "integrated_rerender_manifest"
-    },
-    "desperate/desperate_00019_ich-will-einfach-ver.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:37.478236+00:00"
     },
     "desperate/desperate_00020_es-fühlt-sich-an-wie.wav": {
       "decision": "keep",
@@ -7527,37 +6210,9 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:29:43.884602+00:00"
     },
-    "desperate/desperate_00022_warum-passiert-das-i.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:47.241910+00:00"
-    },
-    "desperate/desperate_00024_alles-ist-sinnlos.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:49.505144+00:00"
-    },
     "desperate/desperate_00025_ich-will-nur-noch-ru.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:29:52.665612+00:00"
-    },
-    "desperate/desperate_00026_es-wird-nie-besser-w.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:55.553779+00:00"
-    },
-    "desperate/desperate_00027_ich-bin-am-ende.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:29:57.846783+00:00"
-    },
-    "desperate/desperate_00028_niemand-hört-mich.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:00.209480+00:00"
-    },
-    "desperate/desperate_00029_ich-kann-nicht-mehr.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:03.234037+00:00"
-    },
-    "desperate/desperate_00030_es-ist-alles-umsonst.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:05.775348+00:00"
     },
     "desperate/desperate_00032_warum-lässt-mich-all.wav": {
       "decision": "keep",
@@ -7571,161 +6226,29 @@
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:30:15.639620+00:00"
     },
-    "desperate/desperate_00036_alles-ist-dunkel.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:18.333342+00:00"
-    },
-    "desperate/desperate_00037_ich-will-nicht-mehr.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:20.933490+00:00"
-    },
     "desperate/desperate_00038_warum-antwortet-kein.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:30:24.306250+00:00"
-    },
-    "desperate/desperate_00039_ich-bin-so-allein.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:27.035057+00:00"
     },
     "desperate/desperate_00040_es-gibt-nichts-mehr.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:30:30.666644+00:00"
     },
-    "desperate/desperate_00041_ich-will-einfach-auf.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:36.172137+00:00"
-    },
-    "desperate/desperate_00042_niemand-nimmt-mich-e.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:39.114436+00:00"
-    },
-    "desperate/desperate_00043_ich-halte-das-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:41.488453+00:00"
-    },
     "desperate/desperate_00044_es-fühlt-sich-an-wie.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:30:45.622675+00:00"
-    },
-    "desperate/desperate_00046_warum-hört-das-nicht.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:48.074697+00:00"
-    },
-    "desperate/desperate_00047_ich-habe-keine-träne.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:56.564617+00:00"
-    },
-    "desperate/desperate_00048_alles-ist-kaputt.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:30:59.502666+00:00"
-    },
-    "desperate/desperate_00049_ich-kann-nicht-mehr.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:02.269814+00:00"
-    },
-    "desperate/desperate_00050_es-ist-zu-viel.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:04.573483+00:00"
-    },
-    "desperate/desperate_00051_ich-will-nicht-mehr.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:07.510852+00:00"
-    },
-    "desperate/desperate_00053_ich-bin-verloren.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:10.008576+00:00"
-    },
-    "desperate/desperate_00054_es-gibt-keine-rettun.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:12.604756+00:00"
-    },
-    "desperate/desperate_00055_ich-will-einfach-nur.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:15.685881+00:00"
-    },
-    "desperate/desperate_00056_niemand-versteht-wie.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:19.159199+00:00"
-    },
-    "desperate/desperate_00057_ich-breche-zusammen.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:21.715414+00:00"
-    },
-    "desperate/desperate_00059_ich-habe-keine-worte.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:24.764556+00:00"
-    },
-    "desperate/desperate_00060_warum-lässt-mich-all.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:27.661006+00:00"
-    },
-    "desperate/desperate_00061_ich-bin-am-ende-mein.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:30.350034+00:00"
-    },
-    "desperate/desperate_00062_es-ist-alles-aus.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:32.894016+00:00"
-    },
-    "desperate/desperate_00064_niemand-ist-für-mich.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:35.792261+00:00"
-    },
-    "desperate/desperate_00068_ich-habe-alles-gegeb.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:38.634573+00:00"
     },
     "desperate/desperate_00069_es-ist-zu-spät-für-a.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:31:41.685807+00:00"
     },
-    "desperate/desperate_00071_niemand-hört-meine-s.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:44.368806+00:00"
-    },
-    "desperate/desperate_00072_ich-bin-so-leer.wav": {
-      "decision": "rerender",
-      "reviewed_at": "2026-05-30T11:31:47.685069+00:00"
-    },
-    "desperate/desperate_00073_es-gibt-keine-lösung.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:50.155729+00:00"
-    },
-    "desperate/desperate_00074_ich-will-einfach-nur.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:53.030169+00:00"
-    },
-    "desperate/desperate_00077_alles-ist-egal.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:31:56.318383+00:00"
-    },
     "desperate/desperate_00079_es-tut-so-weh-jeden.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:31:59.377022+00:00"
     },
-    "desperate/desperate_00080_ich-habe-keine-energ.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:32:05.085197+00:00"
-    },
-    "desperate/desperate_00082_ich-bin-so-verzweife.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:32:07.687293+00:00"
-    },
     "desperate/desperate_00083_es-gibt-keinen-grund.wav": {
       "decision": "keep",
       "reviewed_at": "2026-05-30T11:32:11.324276+00:00"
-    },
-    "desperate/desperate_00085_niemand-nimmt-mich-w.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:32:14.714016+00:00"
-    },
-    "desperate/desperate_00087_es-ist-alles-verlore.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:32:18.411516+00:00"
-    },
-    "desperate/desperate_00091_alles-ist-so-schwer.wav": {
-      "decision": "keep",
-      "reviewed_at": "2026-05-30T11:32:23.343663+00:00"
     },
     "angry/angry_01591_verdammt-noch-mal-jetzt-reicht.wav": {
       "decision": "keep",
