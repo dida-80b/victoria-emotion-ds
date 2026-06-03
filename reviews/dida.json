@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-02T18:01:28.941140+00:00",
+  "updated_at": "2026-06-03T10:32:52.544342+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -10517,6 +10517,934 @@
     "disgusted/disgusted_00421_der-geruch-hier-klebt-wie-nass.wav": {
       "decision": "rerender",
       "reviewed_at": "2026-06-02T18:01:28.941073+00:00"
+    },
+    "enraged/enraged_00001_ich-könnte-dich-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:58:14.690116+00:00"
+    },
+    "enraged/enraged_00003_wenn-ich-dich-in-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:58:19.503762+00:00"
+    },
+    "enraged/enraged_00005_ich-schlag-dich-wind.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T05:58:28.212081+00:00"
+    },
+    "enraged/enraged_00006_dein-gesicht-macht-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T05:58:33.317071+00:00"
+    },
+    "enraged/enraged_00007_ich-zertrümmere-alle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:58:37.707077+00:00"
+    },
+    "enraged/enraged_00009_ich-könnte-schreien.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T05:58:43.064028+00:00"
+    },
+    "enraged/enraged_00010_das-ist-nicht-mehr-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:58:47.864049+00:00"
+    },
+    "enraged/enraged_00011_wie-konntest-du-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:58:53.380105+00:00"
+    },
+    "enraged/enraged_00012_ich-reiße-dir-den-ko.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:58:57.385500+00:00"
+    },
+    "enraged/enraged_00013_deine-stimme-geht-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:01.839870+00:00"
+    },
+    "enraged/enraged_00015_das-war-der-tropfen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:05.837947+00:00"
+    },
+    "enraged/enraged_00016_ich-schmeiß-dich-ach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:10.533952+00:00"
+    },
+    "enraged/enraged_00017_deine-anwesenheit-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:15.428255+00:00"
+    },
+    "enraged/enraged_00019_das-ist-so-unfassbar.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T05:59:20.233305+00:00"
+    },
+    "enraged/enraged_00021_ich-zerfetze-dich-in.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:25.100070+00:00"
+    },
+    "enraged/enraged_00022_deine-frechheit-kenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:29.513255+00:00"
+    },
+    "enraged/enraged_00023_ich-könnte-kotzen-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:33.474316+00:00"
+    },
+    "enraged/enraged_00025_ich-hau-dir-eine-rei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:38.601162+00:00"
+    },
+    "enraged/enraged_00026_deine-stimme-macht-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:43.215770+00:00"
+    },
+    "enraged/enraged_00027_ich-schlag-alles-kur.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T05:59:48.038452+00:00"
+    },
+    "enraged/enraged_00028_du-hast-mein-leben-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:51.972413+00:00"
+    },
+    "enraged/enraged_00029_ich-könnte-schreien.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T05:59:53.666404+00:00"
+    },
+    "enraged/enraged_00030_das-ist-das-allerlet.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T05:59:54.904499+00:00"
+    },
+    "enraged/enraged_00031_ich-reiß-dir-die-zun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T05:59:58.893683+00:00"
+    },
+    "enraged/enraged_00033_ich-könnte-die-ganze.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:00:04.217056+00:00"
+    },
+    "enraged/enraged_00034_wie-kannst-du-nur-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:00:08.773473+00:00"
+    },
+    "enraged/enraged_00035_ich-schlag-dich-zu-b.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:00:12.850432+00:00"
+    },
+    "enraged/enraged_00036_das-ist-so-widerlich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:00:18.502770+00:00"
+    },
+    "enraged/enraged_00038_deine-existenz-ist-e.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:00:25.016166+00:00"
+    },
+    "enraged/enraged_00039_ich-könnte-vor-wut-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:00:30.316117+00:00"
+    },
+    "enraged/enraged_00040_das-ist-so-unglaubli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:00:37.228195+00:00"
+    },
+    "enraged/enraged_00042_ich-hau-dir-eine-rei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:00:40.598470+00:00"
+    },
+    "enraged/enraged_00043_deine-stimme-geht-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:00:45.412260+00:00"
+    },
+    "enraged/enraged_00044_ich-schmeiß-dich-rau.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:00:49.556930+00:00"
+    },
+    "enraged/enraged_00045_das-ist-so-unfair-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:00:53.292400+00:00"
+    },
+    "enraged/enraged_00046_ich-zertrümmere-alle.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:00:57.871151+00:00"
+    },
+    "enraged/enraged_00050_ich-reiß-dir-den-kop.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:14.408577+00:00"
+    },
+    "enraged/enraged_00051_deine-anwesenheit-is.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:01:20.623128+00:00"
+    },
+    "enraged/enraged_00052_ich-schlag-dich-wind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:25.652219+00:00"
+    },
+    "enraged/enraged_00053_das-ist-so-widerlich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:01:27.151185+00:00"
+    },
+    "enraged/enraged_00054_ich-zerfetze-dich-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:35.413203+00:00"
+    },
+    "enraged/enraged_00055_du-hast-mein-leben-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:40.290843+00:00"
+    },
+    "enraged/enraged_00058_ich-schlag-dich-zu-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:44.961866+00:00"
+    },
+    "enraged/enraged_00059_das-ist-so-ungerecht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:50.187390+00:00"
+    },
+    "enraged/enraged_00061_deine-fresse-macht-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:54.817278+00:00"
+    },
+    "enraged/enraged_00062_ich-könnte-die-wände.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:01:59.030758+00:00"
+    },
+    "enraged/enraged_00066_ich-schmeiß-dich-rau.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:02:03.817237+00:00"
+    },
+    "enraged/enraged_00068_ich-reiß-dir-die-zun.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:02:07.512744+00:00"
+    },
+    "enraged/enraged_00069_deine-existenz-ist-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:12.531167+00:00"
+    },
+    "enraged/enraged_00070_ich-schlag-dich-bis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:17.465948+00:00"
+    },
+    "enraged/enraged_00071_das-ist-so-dreist-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:21.850243+00:00"
+    },
+    "enraged/enraged_00075_das-war-der-absolute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:26.269295+00:00"
+    },
+    "enraged/enraged_00076_ich-reiß-dir-den-kop.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:02:30.007377+00:00"
+    },
+    "enraged/enraged_00091_deine-stimme-macht-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:34.466065+00:00"
+    },
+    "enraged/enraged_00096_ich-schlag-dich-bis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:38.610943+00:00"
+    },
+    "enraged/enraged_00097_das-ist-so-dreist-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:44.168352+00:00"
+    },
+    "enraged/enraged_00101_das-war-der-absolute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:03:10.246585+00:00"
+    },
+    "enraged/enraged_00106_ich-zerfetze-dich-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:02:55.963374+00:00"
+    },
+    "enraged/enraged_00108_du-elendes-stück-sch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:03:00.360176+00:00"
+    },
+    "enraged/enraged_00109_ich-würde-dir-am-lie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:03:18.756243+00:00"
+    },
+    "enraged/enraged_00110_dieser-verrat-brennt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:03:24.460215+00:00"
+    },
+    "enraged/enraged_00111_das-ist-so-unfair-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:03:34.646327+00:00"
+    },
+    "enraged/enraged_00112_deine-bloße-existenz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:03:40.883520+00:00"
+    },
+    "enraged/enraged_00113_ich-könnte-dir-die-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:03:51.491846+00:00"
+    },
+    "enraged/enraged_00114_jedes-wort-aus-deine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:04:21.829941+00:00"
+    },
+    "enraged/enraged_00115_ich-würde-dich-mit-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:04:01.508430+00:00"
+    },
+    "enraged/enraged_00116_dein-lachen-macht-mi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:04:11.635574+00:00"
+    },
+    "enraged/enraged_00117_ich-schwöre-dir-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:04:29.787131+00:00"
+    },
+    "enraged/enraged_00120_dein-anblick-lässt-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:04:36.014944+00:00"
+    },
+    "enraged/enraged_00121_ich-würde-dir-die-kn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:04:40.424390+00:00"
+    },
+    "enraged/enraged_00122_jeder-atemzug-von-di.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:04:42.015392+00:00"
+    },
+    "enraged/enraged_00123_ich-könnte-dich-mit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:04:46.923674+00:00"
+    },
+    "enraged/enraged_00124_deine-stimme-ist-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:04:52.528957+00:00"
+    },
+    "enraged/enraged_00124_ich-zertrümmere-alle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:04:57.440173+00:00"
+    },
+    "enraged/enraged_00125_ich-würde-alles-kurz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:01.841076+00:00"
+    },
+    "enraged/enraged_00126_du-hast-gerade-den-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:06.953903+00:00"
+    },
+    "enraged/enraged_00127_ich-könnte-dich-mit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:11.944293+00:00"
+    },
+    "enraged/enraged_00128_deine-anwesenheit-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:17.595393+00:00"
+    },
+    "enraged/enraged_00129_ich-würde-dich-an-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:21.897847+00:00"
+    },
+    "enraged/enraged_00130_jeder-blick-von-dir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:26.342604+00:00"
+    },
+    "enraged/enraged_00131_ich-könnte-dich-in-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:31.073274+00:00"
+    },
+    "enraged/enraged_00132_deine-frechheit-über.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:05:35.350207+00:00"
+    },
+    "enraged/enraged_00133_ich-würde-dich-mit-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:40.336842+00:00"
+    },
+    "enraged/enraged_00134_du-hast-gerade-mein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:47.159526+00:00"
+    },
+    "enraged/enraged_00136_dein-grinsen-macht-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:52.721604+00:00"
+    },
+    "enraged/enraged_00137_ich-würde-dich-leben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:05:58.349539+00:00"
+    },
+    "enraged/enraged_00138_jeder-schritt-den-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:03.048882+00:00"
+    },
+    "enraged/enraged_00140_deine-worte-sind-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:08.480908+00:00"
+    },
+    "enraged/enraged_00141_ich-würde-dich-an-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:12.631413+00:00"
+    },
+    "enraged/enraged_00142_du-hast-gerade-mein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:19.251798+00:00"
+    },
+    "enraged/enraged_00144_deine-stimme-ist-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:24.037491+00:00"
+    },
+    "enraged/enraged_00146_jeder-atemzug-den-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:30.596630+00:00"
+    },
+    "enraged/enraged_00148_deine-bloße-existenz.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:06:35.257719+00:00"
+    },
+    "enraged/enraged_00150_dein-anblick-lässt-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:40.408532+00:00"
+    },
+    "enraged/enraged_00152_jeder-gedanke-an-dic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:44.514190+00:00"
+    },
+    "enraged/enraged_00156_jeder-schritt-den-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:49.616715+00:00"
+    },
+    "enraged/enraged_00158_dein-grinsen-ist-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:06:54.851486+00:00"
+    },
+    "enraged/enraged_00160_jeder-atemzug-von-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:00.303680+00:00"
+    },
+    "enraged/enraged_00162_deine-worte-sind-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:05.210359+00:00"
+    },
+    "enraged/enraged_00164_jeder-blick-von-dir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:09.620737+00:00"
+    },
+    "enraged/enraged_00166_dein-lachen-ist-wie.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:07:10.912838+00:00"
+    },
+    "enraged/enraged_00172_jeder-gedanke-an-dic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:15.268764+00:00"
+    },
+    "enraged/enraged_00174_dein-anblick-ist-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:19.444637+00:00"
+    },
+    "enraged/enraged_00177_dein-grinsen-ist-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:23.828478+00:00"
+    },
+    "enraged/enraged_00190_ich-reiße-dir-die-zu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:07:32.708525+00:00"
+    },
+    "enraged/enraged_00192_ich-schlag-dich-so-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:37.817543+00:00"
+    },
+    "enraged/enraged_00194_ich-trete-dir-die-tü.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:07:46.117415+00:00"
+    },
+    "enraged/enraged_00195_dein-grinsen-macht-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:52.345775+00:00"
+    },
+    "enraged/enraged_00197_wenn-ich-dich-erwisc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:07:57.411304+00:00"
+    },
+    "enraged/enraged_00198_deine-stimme-klingt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:07:58.770714+00:00"
+    },
+    "enraged/enraged_00200_du-hast-mein-vertrau.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:10.948045+00:00"
+    },
+    "enraged/enraged_00201_ich-schneid-dir-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:17.857009+00:00"
+    },
+    "enraged/enraged_00202_dein-anblick-allein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:08:23.178690+00:00"
+    },
+    "enraged/enraged_00203_ich-brech-dir-jeden.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:29.073771+00:00"
+    },
+    "enraged/enraged_00205_ich-schlag-dich-so-o.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:33.538478+00:00"
+    },
+    "enraged/enraged_00206_deine-worte-sind-gif.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:08:36.327133+00:00"
+    },
+    "enraged/enraged_00207_ich-zerleg-dein-gesi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:08:38.749258+00:00"
+    },
+    "enraged/enraged_00208_wenn-ich-dich-sehe-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:43.853404+00:00"
+    },
+    "enraged/enraged_00212_ich-tret-dich-so-lan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:48.024387+00:00"
+    },
+    "enraged/enraged_00214_ich-schlag-dich-bewu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:52.747557+00:00"
+    },
+    "enraged/enraged_00217_deine-lügen-machen-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:08:57.059209+00:00"
+    },
+    "enraged/enraged_00219_wenn-ich-dich-in-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:10.803804+00:00"
+    },
+    "enraged/enraged_00220_deine-frechheit-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:24.274239+00:00"
+    },
+    "enraged/enraged_00221_ich-zertrümmere-dein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:29.133414+00:00"
+    },
+    "enraged/enraged_00227_ich-tret-dich-bis-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:32.897523+00:00"
+    },
+    "enraged/enraged_00230_wenn-ich-dich-sehe-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:37.523656+00:00"
+    },
+    "enraged/enraged_00236_ich-tret-dich-bis-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:42.301503+00:00"
+    },
+    "enraged/enraged_00239_deine-lügen-sind-une.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:09:47.639519+00:00"
+    },
+    "enraged/enraged_00241_wenn-ich-dich-erwisc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:51.991811+00:00"
+    },
+    "enraged/enraged_00245_ich-schlag-dich-bewu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:09:56.048138+00:00"
+    },
+    "enraged/enraged_00246_ich-raste-aus-ich-ka.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T06:09:58.141315+00:00"
+    },
+    "enraged/enraged_00247_mit-mir-ist-nicht-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:10:03.519867+00:00"
+    },
+    "enraged/enraged_00249_ich-schreie-jetzt-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:10:07.991408+00:00"
+    },
+    "enraged/enraged_00250_mein-blut-kocht-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:10:12.742382+00:00"
+    },
+    "enraged/enraged_00251_du-bringst-mich-zum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T06:10:16.645672+00:00"
+    },
+    "enraged/enraged_00253_hoer-mir-zu-oder-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:24:30.208345+00:00"
+    },
+    "enraged/enraged_00254_dieses-ausmass-an-dr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:24:36.599164+00:00"
+    },
+    "enraged/enraged_00255_ich-schaeume-vor-wut.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:24:40.331037+00:00"
+    },
+    "enraged/enraged_00256_ich-zittere-vor-wut.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:24:44.256192+00:00"
+    },
+    "enraged/enraged_00258_ich-habe-selten-so-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:24:48.776863+00:00"
+    },
+    "enraged/enraged_00259_dieser-moment-hat-al.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:24:52.841885+00:00"
+    },
+    "enraged/enraged_00260_ich-stehe-kurz-davor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:24:57.650733+00:00"
+    },
+    "enraged/enraged_00261_das-war-das-schlimms.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:25:01.860695+00:00"
+    },
+    "enraged/enraged_00262_rasend-vor-wut-so-be.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:25:06.622023+00:00"
+    },
+    "enraged/enraged_00264_so-ein-verrat-das-ma.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:25:11.338426+00:00"
+    },
+    "enraged/enraged_00265_ich-bin-nicht-mehr-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:25:16.814903+00:00"
+    },
+    "enraged/enraged_00266_explodieren-waere-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:25:22.160507+00:00"
+    },
+    "enraged/enraged_00267_kein-mensch-hat-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:25:35.473696+00:00"
+    },
+    "enraged/enraged_00268_die-fassung-verloren.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:25:37.153992+00:00"
+    },
+    "enraged/enraged_00269_ich-weiss-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:25:41.894278+00:00"
+    },
+    "enraged/enraged_00270_mir-platzt-gleich-de.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:25:43.641577+00:00"
+    },
+    "enraged/enraged_00271_was-du-getan-hast-is.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:25:48.851595+00:00"
+    },
+    "enraged/enraged_00273_ich-kenne-mich-vor-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:25:52.979116+00:00"
+    },
+    "enraged/enraged_00274_ein-schlag-mitten-in.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:25:57.380305+00:00"
+    },
+    "enraged/enraged_00275_wer-denkt-er-ist-sow.wav": {
+      "decision": "delete",
+      "reviewed_at": "2026-06-03T10:26:06.843217+00:00"
+    },
+    "enraged/enraged_00276_grenzenlose-dreistig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:11.516875+00:00"
+    },
+    "enraged/enraged_00277_ich-stampfe-auf-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:17.474038+00:00"
+    },
+    "enraged/enraged_00278_dieser-verrat-brennt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:22.119788+00:00"
+    },
+    "enraged/enraged_00279_nichts-was-du-sagst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:26.759138+00:00"
+    },
+    "enraged/enraged_00281_lauter-und-deutliche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:26:29.105475+00:00"
+    },
+    "enraged/enraged_00282_jeden-meter-abstand.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:34.692221+00:00"
+    },
+    "enraged/enraged_00284_wenn-ich-jetzt-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:45.207102+00:00"
+    },
+    "enraged/enraged_00285_niemand-bringt-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:49.497115+00:00"
+    },
+    "enraged/enraged_00286_aufhoeren-mit-reden.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:53.306706+00:00"
+    },
+    "enraged/enraged_00287_mach-einen-schritt-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:26:58.162194+00:00"
+    },
+    "enraged/enraged_00288_raus-ich-brauche-dic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:27:12.976169+00:00"
+    },
+    "enraged/enraged_00289_das-war-das-letzte-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:17.309398+00:00"
+    },
+    "enraged/enraged_00290_ich-poche-auf-jede-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:21.536872+00:00"
+    },
+    "enraged/enraged_00291_keine-entschuldigung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:25.395968+00:00"
+    },
+    "enraged/enraged_00293_kein-wort-waere-maec.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:30.561070+00:00"
+    },
+    "enraged/enraged_00294_ich-bin-jenseits-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:36.521694+00:00"
+    },
+    "enraged/enraged_00295_ich-drehe-durch-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:41.712984+00:00"
+    },
+    "enraged/enraged_00297_mein-ganzer-koerper.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:46.646012+00:00"
+    },
+    "enraged/enraged_00298_nicht-mal-schreien-h.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:27:52.569670+00:00"
+    },
+    "enraged/enraged_00299_alles-in-mir-schreit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:27:56.602490+00:00"
+    },
+    "enraged/enraged_00300_kein-ruhiges-wort-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:28:02.259793+00:00"
+    },
+    "enraged/enraged_00301_wenn-ich-erst-beruhi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:28:11.806871+00:00"
+    },
+    "enraged/enraged_00302_von-mir-aus-kann-all.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:28:18.219585+00:00"
+    },
+    "enraged/enraged_00304_mit-mir-ist-jetzt-de.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:28:24.692202+00:00"
+    },
+    "enraged/enraged_00305_ich-trete-gleich-irg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:28:29.849888+00:00"
+    },
+    "enraged/enraged_00307_drei-schritte-zuruec.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:28:31.644767+00:00"
+    },
+    "enraged/enraged_00308_gebissen-in-die-hand.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:28:35.657262+00:00"
+    },
+    "enraged/enraged_00309_der-schmerz-treibt-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:28:40.583317+00:00"
+    },
+    "enraged/enraged_00311_jetzt-gehe-ich-raus.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:28:45.607172+00:00"
+    },
+    "enraged/enraged_00313_kein-zurueck-kein-ve.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:28:55.099331+00:00"
+    },
+    "enraged/enraged_00314_kein-wort-kommt-ruhi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:28:59.800746+00:00"
+    },
+    "enraged/enraged_00315_lauter-alarm-in-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:04.311765+00:00"
+    },
+    "enraged/enraged_00316_ich-bin-diese-situat.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:29:08.125335+00:00"
+    },
+    "enraged/enraged_00317_meine-haende-zittern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:15.876712+00:00"
+    },
+    "enraged/enraged_00318_nicht-sprechen-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:21.011506+00:00"
+    },
+    "enraged/enraged_00319_ausser-mir-restlos-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:26.004784+00:00"
+    },
+    "enraged/enraged_00320_niemand-stellt-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:30.866968+00:00"
+    },
+    "enraged/enraged_00322_mit-einem-aufschrei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:29:32.146909+00:00"
+    },
+    "enraged/enraged_00323_wut-ohne-grenze-zorn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:36.755654+00:00"
+    },
+    "enraged/enraged_00324_ich-reiss-alles-nied.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:42.239565+00:00"
+    },
+    "enraged/enraged_00325_ich-werfe-alles-hin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:46.175832+00:00"
+    },
+    "enraged/enraged_00326_keine-grenzen-mehr-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:50.448939+00:00"
+    },
+    "enraged/enraged_00327_abstand-sofort-denn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:29:58.630088+00:00"
+    },
+    "enraged/enraged_00328_nur-wut-nichts-als-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:02.236050+00:00"
+    },
+    "enraged/enraged_00330_schrei-ich-oder-flue.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:30:07.784189+00:00"
+    },
+    "enraged/enraged_00331_nicht-die-worte-fehl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:13.294263+00:00"
+    },
+    "enraged/enraged_00332_ich-trage-eine-wut-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:17.326668+00:00"
+    },
+    "enraged/enraged_00333_lauter-als-meine-wor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:25.993218+00:00"
+    },
+    "enraged/enraged_00334_nie-war-ich-so-nah-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:32.137006+00:00"
+    },
+    "enraged/enraged_00335_dieser-moment-zersto.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:37.048093+00:00"
+    },
+    "enraged/enraged_00336_alle-daemme-gebroche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:30:41.413774+00:00"
+    },
+    "enraged/enraged_00338_kein-aufhalten-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:45.769726+00:00"
+    },
+    "enraged/enraged_00339_mein-blut-kocht-so-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:50.044583+00:00"
+    },
+    "enraged/enraged_00340_der-laerm-in-meinem.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:30:53.656989+00:00"
+    },
+    "enraged/enraged_00341_ich-verliere-die-kon.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:30:57.991375+00:00"
+    },
+    "enraged/enraged_00342_explodiert-zersplitt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:02.987666+00:00"
+    },
+    "enraged/enraged_00343_lass-mich-raus-bevor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:09.125034+00:00"
+    },
+    "enraged/enraged_00344_mein-inneres-feuer-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:13.684503+00:00"
+    },
+    "enraged/enraged_00345_mit-mir-ist-ab-sofor.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:31:18.163106+00:00"
+    },
+    "enraged/enraged_00346_meine-geduld-hat-ihr.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:31:22.584792+00:00"
+    },
+    "enraged/enraged_00347_reizueberflutet-ausg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:27.615924+00:00"
+    },
+    "enraged/enraged_00349_alles-in-mir-kocht-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:37.056008+00:00"
+    },
+    "enraged/enraged_00350_diese-frechheit-uebe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:42.555019+00:00"
+    },
+    "enraged/enraged_00351_jetzt-hoert-das-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:49.812304+00:00"
+    },
+    "enraged/enraged_00352_kein-einziges-mal-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:31:54.448878+00:00"
+    },
+    "enraged/enraged_00354_mit-mir-nicht-hoerst.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:31:56.373419+00:00"
+    },
+    "enraged/enraged_00355_was-faellt-dir-eigen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:32:00.843931+00:00"
+    },
+    "enraged/enraged_00356_raus-hier-verschwind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:06.529204+00:00"
+    },
+    "enraged/enraged_00357_so-eine-unverschaemt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:11.940295+00:00"
+    },
+    "enraged/enraged_00359_ich-bin-so-außer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:16.727361+00:00"
+    },
+    "enraged/enraged_00361_ich-schreie-gleich-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:20.546571+00:00"
+    },
+    "enraged/enraged_00363_ich-zittere-vor-wut.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:32:24.817108+00:00"
+    },
+    "enraged/enraged_00364_jetzt-reicht-es-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:34.157534+00:00"
+    },
+    "enraged/enraged_00365_du-hast-mein-vertrauen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:39.096659+00:00"
+    },
+    "enraged/enraged_00366_wer-hat-hier-schon-wieder-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:44.154464+00:00"
+    },
+    "enraged/enraged_00367_ich-schwörs-dir-wenn-du-das-no.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-03T10:32:47.573750+00:00"
+    },
+    "enraged/enraged_00368_das-ist-doch-nicht-dein-ernst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-03T10:32:52.544286+00:00"
     }
   }
 }
