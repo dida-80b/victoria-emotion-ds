@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-04T18:09:41.950689+00:00",
+  "updated_at": "2026-06-05T08:04:57.845402+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -14673,6 +14673,1646 @@
     "flirtatious/flirtatious_00403_wenn-ich-jetzt-sage-du-hast-sc.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-04T18:09:41.950631+00:00"
+    },
+    "frustrated/frustrated_00001_warum-muss-das-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:21:32.636134+00:00"
+    },
+    "frustrated/frustrated_00002_ich-habe-wirklich-al.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:21:38.570995+00:00"
+    },
+    "frustrated/frustrated_00005_ich-gebe-mir-solche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:21:43.253100+00:00"
+    },
+    "frustrated/frustrated_00007_es-ist-zum-verzweife.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:21:46.675737+00:00"
+    },
+    "frustrated/frustrated_00011_immer-wieder-dasselb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:21:51.031715+00:00"
+    },
+    "frustrated/frustrated_00012_ich-will-nur-dass-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:21:54.271824+00:00"
+    },
+    "frustrated/frustrated_00013_warum-muss-alles-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:21:58.086218+00:00"
+    },
+    "frustrated/frustrated_00016_ich-dachte-diesmal-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:01.253997+00:00"
+    },
+    "frustrated/frustrated_00018_ich-bin-so-genervt-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:05.088703+00:00"
+    },
+    "frustrated/frustrated_00019_manchmal-fühlt-es-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:09.454013+00:00"
+    },
+    "frustrated/frustrated_00020_ich-will-nicht-aufge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:14.773489+00:00"
+    },
+    "frustrated/frustrated_00022_ich-habe-keine-ahnun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:18.764155+00:00"
+    },
+    "frustrated/frustrated_00023_es-ist-als-würde-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:22.436348+00:00"
+    },
+    "frustrated/frustrated_00024_ich-bin-so-frustrier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:25.845187+00:00"
+    },
+    "frustrated/frustrated_00026_ich-habe-alles-richt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:30.590627+00:00"
+    },
+    "frustrated/frustrated_00027_es-ist-zum-heulen-eh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:35.100540+00:00"
+    },
+    "frustrated/frustrated_00030_ich-gebe-mir-die-grö.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:39.408257+00:00"
+    },
+    "frustrated/frustrated_00035_es-ist-als-würde-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:43.710790+00:00"
+    },
+    "frustrated/frustrated_00036_ich-habe-keine-kraft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:47.684367+00:00"
+    },
+    "frustrated/frustrated_00037_warum-kann-nichts-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:51.996648+00:00"
+    },
+    "frustrated/frustrated_00039_manchmal-will-ich-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:22:56.163604+00:00"
+    },
+    "frustrated/frustrated_00041_ich-habe-alles-gegeb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:00.223368+00:00"
+    },
+    "frustrated/frustrated_00044_warum-fühlt-es-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:05.871859+00:00"
+    },
+    "frustrated/frustrated_00045_ich-bin-so-enttäusch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:09.807646+00:00"
+    },
+    "frustrated/frustrated_00051_ich-bin-so-genervt-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:14.763865+00:00"
+    },
+    "frustrated/frustrated_00052_warum-kann-ich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:19.123662+00:00"
+    },
+    "frustrated/frustrated_00053_ich-habe-alles-versu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:23.628838+00:00"
+    },
+    "frustrated/frustrated_00057_ich-bin-so-frustrier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:29.118112+00:00"
+    },
+    "frustrated/frustrated_00060_warum-kann-ich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:33.670248+00:00"
+    },
+    "frustrated/frustrated_00061_ich-bin-so-wütend-au.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:38.168882+00:00"
+    },
+    "frustrated/frustrated_00062_manchmal-will-ich-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:41.381058+00:00"
+    },
+    "frustrated/frustrated_00064_ich-habe-alles-probi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:46.306882+00:00"
+    },
+    "frustrated/frustrated_00068_ich-bin-so-enttäusch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:49.826809+00:00"
+    },
+    "frustrated/frustrated_00074_ich-bin-so-genervt-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:23:53.851309+00:00"
+    },
+    "frustrated/frustrated_00075_warum-kann-nichts-ei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:23:59.286305+00:00"
+    },
+    "frustrated/frustrated_00087_ich-habe-alles-versu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:24:04.602682+00:00"
+    },
+    "frustrated/frustrated_00091_ich-bin-so-enttäusch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:09.055486+00:00"
+    },
+    "frustrated/frustrated_00099_ich-habe-alles-probi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:14.948195+00:00"
+    },
+    "frustrated/frustrated_00105_ich-habe-keine-energ.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:18.430295+00:00"
+    },
+    "frustrated/frustrated_00114_ich-bin-so-enttäusch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:23.222017+00:00"
+    },
+    "frustrated/frustrated_00129_warum-muss-ausgerech.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:29.864650+00:00"
+    },
+    "frustrated/frustrated_00130_ich-habe-stundenlang.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:35.344690+00:00"
+    },
+    "frustrated/frustrated_00131_egal-wie-oft-ich-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:40.918695+00:00"
+    },
+    "frustrated/frustrated_00134_es-ist-zum-kotzen-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:44.786408+00:00"
+    },
+    "frustrated/frustrated_00134_warum-hört-mir-eigen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:24:50.273799+00:00"
+    },
+    "frustrated/frustrated_00138_ich-will-nicht-jamme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:55.767824+00:00"
+    },
+    "frustrated/frustrated_00139_warum-funktioniert-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:24:59.553470+00:00"
+    },
+    "frustrated/frustrated_00143_manchmal-hasse-ich-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:04.140586+00:00"
+    },
+    "frustrated/frustrated_00145_warum-wird-meine-arb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:07.993673+00:00"
+    },
+    "frustrated/frustrated_00146_es-fühlt-sich-an-als.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:12.697659+00:00"
+    },
+    "frustrated/frustrated_00158_es-ist-zum-ausrasten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:16.498662+00:00"
+    },
+    "frustrated/frustrated_00177_es-ist-zum-ausrasten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:21.741835+00:00"
+    },
+    "frustrated/frustrated_00227_ich-stehe-schon-wied.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:28.503788+00:00"
+    },
+    "frustrated/frustrated_00228_mein-kopf-brummt-wei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:35.594046+00:00"
+    },
+    "frustrated/frustrated_00229_warum-muss-ausgerech.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:42.657941+00:00"
+    },
+    "frustrated/frustrated_00230_ich-habe-mir-solche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:25:48.524186+00:00"
+    },
+    "frustrated/frustrated_00232_es-fühlt-sich-an-als.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:25:56.487168+00:00"
+    },
+    "frustrated/frustrated_00233_ich-könnte-heulen-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:26:02.850421+00:00"
+    },
+    "frustrated/frustrated_00234_warum-funktioniert-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:26:07.466184+00:00"
+    },
+    "frustrated/frustrated_00235_ich-habe-alles-doppe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:26:13.172244+00:00"
+    },
+    "frustrated/frustrated_00237_mein-akku-ist-leer-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:26:27.489698+00:00"
+    },
+    "frustrated/frustrated_00238_ich-habe-mir-extra-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:26:32.987721+00:00"
+    },
+    "frustrated/frustrated_00241_ich-wollte-doch-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:26:38.852402+00:00"
+    },
+    "frustrated/frustrated_00242_mein-gehirn-fühlt-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:26:45.250041+00:00"
+    },
+    "frustrated/frustrated_00243_warum-klappt-das-bei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:26:58.674513+00:00"
+    },
+    "frustrated/frustrated_00244_ich-habe-mir-extra-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:04.086672+00:00"
+    },
+    "frustrated/frustrated_00246_ich-könnte-die-wand.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:27:05.819187+00:00"
+    },
+    "frustrated/frustrated_00250_immer-dieselbe-leier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:09.915602+00:00"
+    },
+    "frustrated/frustrated_00252_gegen-eine-wand-rede.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:14.535818+00:00"
+    },
+    "frustrated/frustrated_00253_stunden-arbeit-umson.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:27:18.213862+00:00"
+    },
+    "frustrated/frustrated_00254_was-fuer-ein-endlose.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:27:25.754971+00:00"
+    },
+    "frustrated/frustrated_00255_niemand-nimmt-sich-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:29.870957+00:00"
+    },
+    "frustrated/frustrated_00256_ich-gebe-mein-bestes.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:33.684025+00:00"
+    },
+    "frustrated/frustrated_00257_mit-beiden-haenden-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:38.777555+00:00"
+    },
+    "frustrated/frustrated_00258_kaum-zu-glauben-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:43.331456+00:00"
+    },
+    "frustrated/frustrated_00259_ich-tue-das-richtig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:49.367860+00:00"
+    },
+    "frustrated/frustrated_00261_was-muss-ich-noch-tu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:53.451015+00:00"
+    },
+    "frustrated/frustrated_00262_keine-anerkennung-ke.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:27:59.150509+00:00"
+    },
+    "frustrated/frustrated_00263_ich-stelle-meine-eig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:28:06.554486+00:00"
+    },
+    "frustrated/frustrated_00264_das-problem-liegt-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:28:16.080707+00:00"
+    },
+    "frustrated/frustrated_00266_alles-aufwendig-vorb.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:28:34.748966+00:00"
+    },
+    "frustrated/frustrated_00267_nicht-aufgeben-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:28:39.876961+00:00"
+    },
+    "frustrated/frustrated_00268_ich-trete-auf-der-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:28:44.793481+00:00"
+    },
+    "frustrated/frustrated_00270_meine-geduld-hat-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:28:49.558286+00:00"
+    },
+    "frustrated/frustrated_00271_was-ich-mir-vorgeste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:28:56.981656+00:00"
+    },
+    "frustrated/frustrated_00272_jemand-erklaere-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:29:01.703503+00:00"
+    },
+    "frustrated/frustrated_00273_ich-mache-schritt-fu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:29:09.071971+00:00"
+    },
+    "frustrated/frustrated_00274_endloser-aufwand-fue.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:29:17.440076+00:00"
+    },
+    "frustrated/frustrated_00275_man-hoert-einem-zu-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:29:22.687229+00:00"
+    },
+    "frustrated/frustrated_00276_nicht-nur-frustriere.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:29:28.411184+00:00"
+    },
+    "frustrated/frustrated_00277_warum-so-viel-kraft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:29:33.453312+00:00"
+    },
+    "frustrated/frustrated_00278_das-ergebnis-steht-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:29:38.783475+00:00"
+    },
+    "frustrated/frustrated_00279_wieder-ein-tag-mit-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:29:43.356235+00:00"
+    },
+    "frustrated/frustrated_00280_zaehne-zusammenbeiss.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:29:45.729171+00:00"
+    },
+    "frustrated/frustrated_00281_das-klappt-bei-ander.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:29:51.075304+00:00"
+    },
+    "frustrated/frustrated_00282_ich-fange-nochmal-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:29:56.454318+00:00"
+    },
+    "frustrated/frustrated_00283_kein-feedback-keine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:30:32.182708+00:00"
+    },
+    "frustrated/frustrated_00284_ich-bin-kurz-davor-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:30:36.112773+00:00"
+    },
+    "frustrated/frustrated_00285_jeden-tag-dasselbe-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:30:41.748288+00:00"
+    },
+    "frustrated/frustrated_00286_wenigstens-ein-forts.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:30:46.151662+00:00"
+    },
+    "frustrated/frustrated_00287_mit-zusammengebissen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:30:51.504738+00:00"
+    },
+    "frustrated/frustrated_00288_stunden-fuer-etwas-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:30:56.852045+00:00"
+    },
+    "frustrated/frustrated_00289_ich-wiederhole-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:02.716300+00:00"
+    },
+    "frustrated/frustrated_00290_niemand-versteht-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:06.643301+00:00"
+    },
+    "frustrated/frustrated_00291_das-gute-an-frustrat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:12.256409+00:00"
+    },
+    "frustrated/frustrated_00293_nochmal-von-vorne-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:17.473809+00:00"
+    },
+    "frustrated/frustrated_00294_meine-energie-schwin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:21.757918+00:00"
+    },
+    "frustrated/frustrated_00295_sinnlos-kaempfen-ers.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:26.475991+00:00"
+    },
+    "frustrated/frustrated_00296_keiner-der-hier-sitz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:31.127155+00:00"
+    },
+    "frustrated/frustrated_00297_ich-fuehle-mich-wie.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:31:37.336384+00:00"
+    },
+    "frustrated/frustrated_00298_aufraeumen-wieder-ze.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:45.021295+00:00"
+    },
+    "frustrated/frustrated_00299_enttaeuscht-von-dem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:48.652030+00:00"
+    },
+    "frustrated/frustrated_00300_manche-tage-muss-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:52.598572+00:00"
+    },
+    "frustrated/frustrated_00301_ich-strecke-die-sege.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:31:57.302664+00:00"
+    },
+    "frustrated/frustrated_00303_selbst-kleine-schrit.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:31:58.916561+00:00"
+    },
+    "frustrated/frustrated_00305_schoen-wenn-man-imme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:03.504371+00:00"
+    },
+    "frustrated/frustrated_00307_dieser-tag-hat-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:07.432505+00:00"
+    },
+    "frustrated/frustrated_00308_heute-ist-kein-guter.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:32:12.610749+00:00"
+    },
+    "frustrated/frustrated_00309_kurz-davor-zu-kapitu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:17.319674+00:00"
+    },
+    "frustrated/frustrated_00310_ich-behalte-die-fass.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:32:18.826112+00:00"
+    },
+    "frustrated/frustrated_00311_ich-lasse-die-arbeit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:23.283572+00:00"
+    },
+    "frustrated/frustrated_00312_nicht-hilfreich-nich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:28.084512+00:00"
+    },
+    "frustrated/frustrated_00313_zum-dritten-mal-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:33.171927+00:00"
+    },
+    "frustrated/frustrated_00314_was-sich-wie-fortsch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:37.499675+00:00"
+    },
+    "frustrated/frustrated_00316_die-anforderungen-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:44.139975+00:00"
+    },
+    "frustrated/frustrated_00317_kein-ende-in-sicht-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:49.318236+00:00"
+    },
+    "frustrated/frustrated_00318_ich-bitte-inzwischen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:53.330793+00:00"
+    },
+    "frustrated/frustrated_00321_was-immer-noetig-wae.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:32:58.702328+00:00"
+    },
+    "frustrated/frustrated_00322_warum-ich-mir-das-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:04.392589+00:00"
+    },
+    "frustrated/frustrated_00323_mit-anlauf-gegen-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:09.664267+00:00"
+    },
+    "frustrated/frustrated_00324_sicher-gibt-es-einen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:14.348950+00:00"
+    },
+    "frustrated/frustrated_00325_ich-wuensche-mir-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:20.425890+00:00"
+    },
+    "frustrated/frustrated_00326_wenn-wenigstens-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:25.619137+00:00"
+    },
+    "frustrated/frustrated_00327_ich-werfe-das-handtu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:30.393874+00:00"
+    },
+    "frustrated/frustrated_00328_tiefer-atemzug-und-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:36.239464+00:00"
+    },
+    "frustrated/frustrated_00329_das-ding-laeuft-seit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:42.212073+00:00"
+    },
+    "frustrated/frustrated_00330_aufwand-ohne-ertrag.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:46.223579+00:00"
+    },
+    "frustrated/frustrated_00331_ich-verliere-den-gla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:50.401799+00:00"
+    },
+    "frustrated/frustrated_00332_nicht-aufgeben-ist-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:33:55.217911+00:00"
+    },
+    "frustrated/frustrated_00333_fuer-heute-reicht-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:03.190828+00:00"
+    },
+    "frustrated/frustrated_00334_nicht-ich-bin-das-pr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:07.972490+00:00"
+    },
+    "frustrated/frustrated_00335_kein-erfolg-aber-auc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:14.516479+00:00"
+    },
+    "frustrated/frustrated_00336_wer-sagt-dass-ausdau.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:19.835466+00:00"
+    },
+    "frustrated/frustrated_00337_was-ich-hier-treibe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:25.395627+00:00"
+    },
+    "frustrated/frustrated_00338_alles-nochmal-anpack.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:31.475000+00:00"
+    },
+    "frustrated/frustrated_00340_ich-frage-mich-ernst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:36.668869+00:00"
+    },
+    "frustrated/frustrated_00341_runde-nach-runde-ohn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:43.090067+00:00"
+    },
+    "frustrated/frustrated_00342_dass-das-immer-so-la.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:46.597811+00:00"
+    },
+    "frustrated/frustrated_00343_man-investiert-und-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:51.794917+00:00"
+    },
+    "frustrated/frustrated_00345_ich-gehe-schritt-fue.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:58.932852+00:00"
+    },
+    "frustrated/frustrated_00346_heute-ist-nicht-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:34:59.116955+00:00"
+    },
+    "frustrated/frustrated_00347_frustriert-zu-sein-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:05.043341+00:00"
+    },
+    "frustrated/frustrated_00348_kein-trost-kein-ausw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:11.429520+00:00"
+    },
+    "frustrated/frustrated_00350_ich-drehe-mich-im-kr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:15.390447+00:00"
+    },
+    "frustrated/frustrated_00351_was-fuer-ein-zeitauf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:19.073112+00:00"
+    },
+    "frustrated/frustrated_00352_der-abend-kommt-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:23.698333+00:00"
+    },
+    "frustrated/frustrated_00353_wenn-die-loesung-doc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:29.025754+00:00"
+    },
+    "frustrated/frustrated_00354_ich-kenne-das-gefueh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:33.867271+00:00"
+    },
+    "frustrated/frustrated_00355_manchmal-muss-man-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:38.553398+00:00"
+    },
+    "frustrated/frustrated_00357_ich-verdiene-heute-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:42.339378+00:00"
+    },
+    "frustrated/frustrated_00358_kein-fortschritt-tro.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:46.062101+00:00"
+    },
+    "frustrated/frustrated_00359_ich-gebe-mehr-als-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:50.624269+00:00"
+    },
+    "frustrated/frustrated_00361_wer-frustriert-ist-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:35:55.616342+00:00"
+    },
+    "frustrated/frustrated_00362_ja-aufgeben-waere-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:00.890642+00:00"
+    },
+    "frustrated/frustrated_00363_ich-wuenschte-jemand.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:05.968932+00:00"
+    },
+    "frustrated/frustrated_00364_nicht-jammern-nur-eh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:11.690093+00:00"
+    },
+    "frustrated/frustrated_00365_nichts-stimmt-und-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:16.618769+00:00"
+    },
+    "frustrated/frustrated_00366_alles-angestrengt-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:21.632845+00:00"
+    },
+    "frustrated/frustrated_00367_wenn-der-wille-da-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:25.609095+00:00"
+    },
+    "frustrated/frustrated_00368_das-ergebnis-steht-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:29.870070+00:00"
+    },
+    "frustrated/frustrated_00369_ich-schaue-auf-das-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:33.866893+00:00"
+    },
+    "frustrated/frustrated_00370_morgen-vielleicht-he.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:36:39.840594+00:00"
+    },
+    "frustrated/frustrated_00373_das-einzige-was-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:44.547794+00:00"
+    },
+    "frustrated/frustrated_00374_vollstaendig-ausgebr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:50.072338+00:00"
+    },
+    "frustrated/frustrated_00375_was-fuer-eine-vergeu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:54.128405+00:00"
+    },
+    "frustrated/frustrated_00376_ich-habe-echte-muehe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:36:58.906257+00:00"
+    },
+    "frustrated/frustrated_00377_noch-ein-versuchlose.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:03.265118+00:00"
+    },
+    "frustrated/frustrated_00378_was-faengt-man-damit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:06.769913+00:00"
+    },
+    "frustrated/frustrated_00379_kein-ende-zu-sehen-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:11.321028+00:00"
+    },
+    "frustrated/frustrated_00380_nicht-mein-staerkste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:14.803299+00:00"
+    },
+    "frustrated/frustrated_00382_seufzen-weitermachen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:19.688469+00:00"
+    },
+    "frustrated/frustrated_00383_immer-wieder-das-gle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:23.608198+00:00"
+    },
+    "frustrated/frustrated_00384_manchmal-ist-scheite.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:28.395971+00:00"
+    },
+    "frustrated/frustrated_00385_kein-durchkommen-kei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:34.545121+00:00"
+    },
+    "frustrated/frustrated_00386_was-haette-denn-klap.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:37:38.147244+00:00"
+    },
+    "frustrated/frustrated_00387_waere-nett-wenn-es-e.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:38:04.421655+00:00"
+    },
+    "frustrated/frustrated_00389_der-abend-wirft-sein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:13.945999+00:00"
+    },
+    "frustrated/frustrated_00390_ich-sage-es-noch-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:17.801055+00:00"
+    },
+    "frustrated/frustrated_00391_kein-einziger-rat-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:22.677488+00:00"
+    },
+    "frustrated/frustrated_00392_warum-dauert-das-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:22.730116+00:00"
+    },
+    "frustrated/frustrated_00393_stundenlang-gewartet.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:27.656888+00:00"
+    },
+    "frustrated/frustrated_00394_niemand-hoert-zu-ega.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:32.891504+00:00"
+    },
+    "frustrated/frustrated_00395_kaum-macht-man-einen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:37.098233+00:00"
+    },
+    "frustrated/frustrated_00396_wer-hat-schon-wieder.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:38:43.793531+00:00"
+    },
+    "frustrated/frustrated_00397_kein-plan-funktionie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:47.999020+00:00"
+    },
+    "frustrated/frustrated_00398_dabei-war-das-doch-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:53.772167+00:00"
+    },
+    "frustrated/frustrated_00399_schon-wieder-das-gle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:38:59.338574+00:00"
+    },
+    "frustrated/frustrated_00400_wofuer-mache-ich-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:39:08.018127+00:00"
+    },
+    "frustrated/frustrated_00401_zum-dritten-mal-dies.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:13.514547+00:00"
+    },
+    "frustrated/frustrated_00402_nicht-einmal-die-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:18.151663+00:00"
+    },
+    "frustrated/frustrated_00403_mit-absicht-scheint.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:22.781494+00:00"
+    },
+    "frustrated/frustrated_00404_gruendlich-arbeiten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:29.531167+00:00"
+    },
+    "frustrated/frustrated_00405_statt-vorwaerts-zu-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:34.281897+00:00"
+    },
+    "frustrated/frustrated_00406_warum-klappt-ausgere.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:38.114256+00:00"
+    },
+    "frustrated/frustrated_00407_kein-einziges-mal-ge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:39:44.608085+00:00"
+    },
+    "frustrated/frustrated_00408_alle-haben-zugehoert.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:39:48.231590+00:00"
+    },
+    "frustrated/frustrated_00409_wozu-gibt-es-regeln.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:52.081463+00:00"
+    },
+    "frustrated/frustrated_00410_beim-naechsten-mal-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:39:56.402621+00:00"
+    },
+    "frustrated/frustrated_00411_wieder-zurueck-auf-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:00.962925+00:00"
+    },
+    "frustrated/frustrated_00413_dieses-projekt-treib.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:06.125239+00:00"
+    },
+    "frustrated/frustrated_00414_statt-zu-helfen-mach.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:40:11.306253+00:00"
+    },
+    "frustrated/frustrated_00415_zum-glueck-gibt-es-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:15.315073+00:00"
+    },
+    "frustrated/frustrated_00416_was-soll-ich-sagen-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:20.313858+00:00"
+    },
+    "frustrated/frustrated_00417_gerade-als-ich-ferti.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:25.574138+00:00"
+    },
+    "frustrated/frustrated_00419_wir-kommen-nicht-wei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:32.019836+00:00"
+    },
+    "frustrated/frustrated_00420_hinter-mir-liegt-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:45.001941+00:00"
+    },
+    "frustrated/frustrated_00421_seit-stunden-das-gle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:50.970991+00:00"
+    },
+    "frustrated/frustrated_00422_warum-laesst-man-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:40:56.712327+00:00"
+    },
+    "frustrated/frustrated_00424_ich-habe-das-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:01.093513+00:00"
+    },
+    "frustrated/frustrated_00425_warum-geht-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:05.606731+00:00"
+    },
+    "frustrated/frustrated_00426_ich-gebe-mir-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:09.618683+00:00"
+    },
+    "frustrated/frustrated_00428_ich-weiß-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:14.156436+00:00"
+    },
+    "frustrated/frustrated_00431_ich-habe-alles-richtig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:19.366000+00:00"
+    },
+    "frustrated/frustrated_00433_ich-verliere-langsam-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:23.503419+00:00"
+    },
+    "frustrated/frustrated_00434_wieso-versteht-das-niemand.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:26.977552+00:00"
+    },
+    "frustrated/frustrated_00436_ich-bin-kurz-davor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:30.965920+00:00"
+    },
+    "frustrated/frustrated_00437_es-reicht-ich-brauche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:38.281838+00:00"
+    },
+    "frustrated/frustrated_00439_ich-verstehe-nicht-warum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:42.243387+00:00"
+    },
+    "frustrated/frustrated_00441_ich-gebe-alles-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:46.480917+00:00"
+    },
+    "frustrated/frustrated_00442_so-kann-man-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:51.990515+00:00"
+    },
+    "frustrated/frustrated_00443_warum-muss-ausgerechnet-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:41:59.001784+00:00"
+    },
+    "frustrated/frustrated_00444_jedes-mal-wenn-ich-denke-ich-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:42:05.298244+00:00"
+    },
+    "frustrated/frustrated_00445_kann-der-nicht-einfach-mal-fün.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T06:42:07.621936+00:00"
+    },
+    "frustrated/frustrated_00446_kann-mir-mal-jemand-erklären-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:42:14.025415+00:00"
+    },
+    "frustrated/frustrated_00447_warum-muss-ausgerechnet-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:42:19.799386+00:00"
+    },
+    "frustrated/frustrated_00448_kann-der-typ-nicht-einfach-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T06:42:26.238532+00:00"
+    },
+    "guilty/guilty_00001_es-tut-mir-so-leid-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:30.838389+00:00"
+    },
+    "guilty/guilty_00002_ich-weiß-nicht-wie-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:35.298574+00:00"
+    },
+    "guilty/guilty_00003_warum-habe-ich-das-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:39.113734+00:00"
+    },
+    "guilty/guilty_00005_ich-hätte-besser-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:43.529061+00:00"
+    },
+    "guilty/guilty_00006_es-brennt-in-mir-wen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:47.533580+00:00"
+    },
+    "guilty/guilty_00008_mein-herz-ist-schwer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:51.778826+00:00"
+    },
+    "guilty/guilty_00009_ich-habe-versagt-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:55.582563+00:00"
+    },
+    "guilty/guilty_00010_es-war-egoistisch-vo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:48:59.188390+00:00"
+    },
+    "guilty/guilty_00011_ich-kann-mir-selbst.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T07:49:02.522291+00:00"
+    },
+    "guilty/guilty_00013_ich-hätte-es-wissen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:16.575290+00:00"
+    },
+    "guilty/guilty_00014_es-tut-weh-zu-wissen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:21.308124+00:00"
+    },
+    "guilty/guilty_00015_ich-fühle-mich-so-sc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:25.854009+00:00"
+    },
+    "guilty/guilty_00016_warum-habe-ich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:29.841055+00:00"
+    },
+    "guilty/guilty_00017_ich-hätte-dich-besch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:35.264740+00:00"
+    },
+    "guilty/guilty_00018_es-zerreißt-mich-inn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:39.049888+00:00"
+    },
+    "guilty/guilty_00019_ich-verdiene-keine-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:43.215832+00:00"
+    },
+    "guilty/guilty_00021_ich-hätte-besser-zuh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:47.547019+00:00"
+    },
+    "guilty/guilty_00022_es-war-so-falsch-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:51.080950+00:00"
+    },
+    "guilty/guilty_00023_ich-kann-die-schuld.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:55.419232+00:00"
+    },
+    "guilty/guilty_00026_ich-hasse-mich-dafür.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:49:59.582956+00:00"
+    },
+    "guilty/guilty_00027_warum-habe-ich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:03.884527+00:00"
+    },
+    "guilty/guilty_00029_ich-hätte-dich-warne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:08.580893+00:00"
+    },
+    "guilty/guilty_00033_ich-hätte-mehr-kämpf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:12.450083+00:00"
+    },
+    "guilty/guilty_00042_ich-hätte-nicht-so-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:15.796387+00:00"
+    },
+    "guilty/guilty_00049_ich-hätte-nicht-so-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:19.232535+00:00"
+    },
+    "guilty/guilty_00098_ich-habe-das-vertrau.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:27.845007+00:00"
+    },
+    "guilty/guilty_00099_die-rechnung-für-den.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:35.186199+00:00"
+    },
+    "guilty/guilty_00100_mein-bruder-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:41.763574+00:00"
+    },
+    "guilty/guilty_00101_ich-habe-die-pflanze.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:48.406268+00:00"
+    },
+    "guilty/guilty_00102_als-kind-habe-ich-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:50:55.038005+00:00"
+    },
+    "guilty/guilty_00103_ich-habe-die-bewerbu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T07:51:09.048074+00:00"
+    },
+    "guilty/guilty_00104_mein-lachen-damals-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:51:15.265042+00:00"
+    },
+    "guilty/guilty_00105_ich-habe-die-letzte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:51:23.086499+00:00"
+    },
+    "guilty/guilty_00106_mein-schweigen-hat-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:51:29.188646+00:00"
+    },
+    "guilty/guilty_00107_ich-habe-das-geschen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:51:34.613361+00:00"
+    },
+    "guilty/guilty_00109_ich-habe-die-prüfung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:51:41.359019+00:00"
+    },
+    "guilty/guilty_00110_mein-vater-hat-mir-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:51:56.657232+00:00"
+    },
+    "guilty/guilty_00112_mein-kollege-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:02.185517+00:00"
+    },
+    "guilty/guilty_00113_ich-habe-die-wohnung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:10.504664+00:00"
+    },
+    "guilty/guilty_00114_ich-habe-den-brief-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:16.804455+00:00"
+    },
+    "guilty/guilty_00115_mein-freund-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:22.980735+00:00"
+    },
+    "guilty/guilty_00116_ich-habe-die-einladu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:29.414021+00:00"
+    },
+    "guilty/guilty_00117_ich-habe-das-letzte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:35.184007+00:00"
+    },
+    "guilty/guilty_00118_mein-lehrer-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:41.270633+00:00"
+    },
+    "guilty/guilty_00119_ich-habe-die-blumen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:46.740752+00:00"
+    },
+    "guilty/guilty_00120_ich-habe-die-tür-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:54.287816+00:00"
+    },
+    "guilty/guilty_00121_mein-onkel-hat-mir-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:52:59.049853+00:00"
+    },
+    "guilty/guilty_00122_ich-habe-die-email-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:53:04.901033+00:00"
+    },
+    "guilty/guilty_00123_ich-habe-die-hausauf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:53:18.351094+00:00"
+    },
+    "guilty/guilty_00125_ich-habe-die-geburts.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:53:24.356756+00:00"
+    },
+    "guilty/guilty_00126_ich-habe-das-gespräc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:53:30.259229+00:00"
+    },
+    "guilty/guilty_00127_mein-bruder-hat-mir.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T07:53:42.525627+00:00"
+    },
+    "guilty/guilty_00128_ich-habe-die-rechnun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:53:49.439649+00:00"
+    },
+    "guilty/guilty_00129_ich-habe-die-pflaste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:53:55.749400+00:00"
+    },
+    "guilty/guilty_00130_mein-freund-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:01.794381+00:00"
+    },
+    "guilty/guilty_00131_ich-habe-die-warnung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:08.144762+00:00"
+    },
+    "guilty/guilty_00132_ich-habe-die-haustür.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:16.069404+00:00"
+    },
+    "guilty/guilty_00133_mein-kollege-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:21.083488+00:00"
+    },
+    "guilty/guilty_00134_ich-habe-die-geburts.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T07:54:27.912929+00:00"
+    },
+    "guilty/guilty_00135_ich-habe-die-rechnun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:32.907566+00:00"
+    },
+    "guilty/guilty_00136_mein-vater-hat-mir-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:40.229483+00:00"
+    },
+    "guilty/guilty_00137_ich-habe-die-katze-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:45.708974+00:00"
+    },
+    "guilty/guilty_00139_ich-habe-die-letzte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:51.616183+00:00"
+    },
+    "guilty/guilty_00140_ich-habe-die-einladu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:54:56.948711+00:00"
+    },
+    "guilty/guilty_00141_mein-lehrer-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:02.697163+00:00"
+    },
+    "guilty/guilty_00142_ich-habe-die-blumen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:08.336005+00:00"
+    },
+    "guilty/guilty_00143_ich-habe-die-tür-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:14.465739+00:00"
+    },
+    "guilty/guilty_00146_ich-habe-die-hausauf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:19.308563+00:00"
+    },
+    "guilty/guilty_00147_mein-nachbar-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:24.675994+00:00"
+    },
+    "guilty/guilty_00148_ich-habe-die-geburts.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:30.837482+00:00"
+    },
+    "guilty/guilty_00149_ich-habe-das-gespräc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:36.593415+00:00"
+    },
+    "guilty/guilty_00152_ich-habe-die-pflaste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:42.711766+00:00"
+    },
+    "guilty/guilty_00154_ich-habe-die-warnung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:48.228624+00:00"
+    },
+    "guilty/guilty_00155_ich-habe-die-haustür.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:53.664424+00:00"
+    },
+    "guilty/guilty_00160_ich-habe-den-hund-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:55:58.589157+00:00"
+    },
+    "guilty/guilty_00184_ich-habe-das-letzte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:09.553795+00:00"
+    },
+    "guilty/guilty_00195_ich-habe-den-hund-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:15.538226+00:00"
+    },
+    "guilty/guilty_00206_der-kuchen-ist-verbr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:20.462713+00:00"
+    },
+    "guilty/guilty_00207_ich-habe-deinen-gebu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:25.559739+00:00"
+    },
+    "guilty/guilty_00208_die-pflanze-ist-vert.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T07:56:29.056433+00:00"
+    },
+    "guilty/guilty_00209_ich-habe-das-geheimn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:34.148798+00:00"
+    },
+    "guilty/guilty_00210_der-brief-ist-nie-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:40.541076+00:00"
+    },
+    "guilty/guilty_00211_ich-habe-das-meeting.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:45.853428+00:00"
+    },
+    "guilty/guilty_00212_die-rechnung-ist-übe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T07:56:49.880885+00:00"
+    },
+    "guilty/guilty_00213_ich-habe-das-falsche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:56:55.917237+00:00"
+    },
+    "guilty/guilty_00214_der-schlüssel-ist-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:00.530517+00:00"
+    },
+    "guilty/guilty_00215_ich-habe-deine-einla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:05.926408+00:00"
+    },
+    "guilty/guilty_00216_die-wäsche-ist-schim.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:11.055201+00:00"
+    },
+    "guilty/guilty_00217_ich-habe-das-passwor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:15.755939+00:00"
+    },
+    "guilty/guilty_00218_der-kühlschrank-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:20.610950+00:00"
+    },
+    "guilty/guilty_00219_ich-habe-das-fenster.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:25.422759+00:00"
+    },
+    "guilty/guilty_00220_die-blumen-sind-verw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:30.793443+00:00"
+    },
+    "guilty/guilty_00221_ich-habe-das-verspre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:36.416699+00:00"
+    },
+    "guilty/guilty_00222_der-termin-beim-arzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:42.469570+00:00"
+    },
+    "guilty/guilty_00223_ich-habe-die-falsche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T07:57:46.464767+00:00"
+    },
+    "guilty/guilty_00224_die-email-war-voller.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:51.892843+00:00"
+    },
+    "guilty/guilty_00225_ich-habe-das-geld-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:57:57.880945+00:00"
+    },
+    "guilty/guilty_00226_der-hund-ist-weggela.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:04.350016+00:00"
+    },
+    "guilty/guilty_00227_ich-habe-das-projekt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:09.618880+00:00"
+    },
+    "guilty/guilty_00229_ich-habe-die-falsche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:15.113379+00:00"
+    },
+    "guilty/guilty_00230_der-akku-ist-leer-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:20.601577+00:00"
+    },
+    "guilty/guilty_00231_ich-habe-die-verabre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:26.419998+00:00"
+    },
+    "guilty/guilty_00232_die-suppe-ist-angebr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:31.654062+00:00"
+    },
+    "guilty/guilty_00233_ich-habe-das-ticket.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:36.981079+00:00"
+    },
+    "guilty/guilty_00234_der-müll-stinkt-weil.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:41.518042+00:00"
+    },
+    "guilty/guilty_00236_die-heizung-ist-ausg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:47.129014+00:00"
+    },
+    "guilty/guilty_00237_ich-habe-das-geschen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:52.722342+00:00"
+    },
+    "guilty/guilty_00238_der-computer-ist-abg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:58:57.521193+00:00"
+    },
+    "guilty/guilty_00240_die-milch-ist-sauer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:02.980459+00:00"
+    },
+    "guilty/guilty_00241_ich-habe-das-licht-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:07.902647+00:00"
+    },
+    "guilty/guilty_00242_der-kuchen-ist-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:12.896187+00:00"
+    },
+    "guilty/guilty_00243_ich-habe-das-treffen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:17.951455+00:00"
+    },
+    "guilty/guilty_00244_die-tür-ist-zugefall.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:23.198638+00:00"
+    },
+    "guilty/guilty_00246_der-garten-ist-verwi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:28.296484+00:00"
+    },
+    "guilty/guilty_00247_ich-habe-das-paket-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:33.431377+00:00"
+    },
+    "guilty/guilty_00248_die-batterien-sind-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:38.542567+00:00"
+    },
+    "guilty/guilty_00250_der-kühlschrank-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:43.038409+00:00"
+    },
+    "guilty/guilty_00252_was-ich-getan-habe-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:46.819461+00:00"
+    },
+    "guilty/guilty_00253_nicht-aus-schwaeche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:51.936219+00:00"
+    },
+    "guilty/guilty_00254_ich-haette-eingreife.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T07:59:58.191469+00:00"
+    },
+    "guilty/guilty_00255_der-gedanke-dass-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:02.649802+00:00"
+    },
+    "guilty/guilty_00256_wie-konnte-ich-so-bl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:07.524715+00:00"
+    },
+    "guilty/guilty_00257_ich-trage-das-schon.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:12.367431+00:00"
+    },
+    "guilty/guilty_00258_jeden-tag-frage-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:17.088784+00:00"
+    },
+    "guilty/guilty_00259_es-haette-dir-besser.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:21.790796+00:00"
+    },
+    "guilty/guilty_00261_innerlich-bin-ich-no.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:27.082143+00:00"
+    },
+    "guilty/guilty_00262_ich-habe-jemanden-im.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:31.946006+00:00"
+    },
+    "guilty/guilty_00263_das-gewissen-arbeite.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:37.018193+00:00"
+    },
+    "guilty/guilty_00264_nicht-nur-eine-entsc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:43.646647+00:00"
+    },
+    "guilty/guilty_00265_ich-hatte-die-moegli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:49.248157+00:00"
+    },
+    "guilty/guilty_00266_du-hast-mehr-unterst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:53.480358+00:00"
+    },
+    "guilty/guilty_00267_manchmal-traegt-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:00:57.921114+00:00"
+    },
+    "guilty/guilty_00268_wenn-ich-an-diesen-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:02.528718+00:00"
+    },
+    "guilty/guilty_00269_ich-haette-mehr-nach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:08.633678+00:00"
+    },
+    "guilty/guilty_00270_das-schlechte-gewiss.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:12.282203+00:00"
+    },
+    "guilty/guilty_00271_ich-habe-gesehen-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:17.415529+00:00"
+    },
+    "guilty/guilty_00273_verantwortung-uebern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:22.657190+00:00"
+    },
+    "guilty/guilty_00274_tiefes-bedauern-reic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:29.288843+00:00"
+    },
+    "guilty/guilty_00275_ich-habe-dich-damals.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:34.583536+00:00"
+    },
+    "guilty/guilty_00276_meine-gleichgueltigk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:40.393668+00:00"
+    },
+    "guilty/guilty_00277_mein-fehler-hat-dein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:51.179826+00:00"
+    },
+    "guilty/guilty_00278_dieser-moment-kommt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:01:56.037500+00:00"
+    },
+    "guilty/guilty_00279_was-haette-ich-tun-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:00.534293+00:00"
+    },
+    "guilty/guilty_00280_schuld-ist-manchmal.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T08:02:04.725535+00:00"
+    },
+    "guilty/guilty_00281_es-gibt-augenblicke.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:09.122178+00:00"
+    },
+    "guilty/guilty_00282_ich-habe-zu-lange-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:13.524047+00:00"
+    },
+    "guilty/guilty_00283_das-falsche-gesagt-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T08:02:20.595070+00:00"
+    },
+    "guilty/guilty_00284_ich-haette-nein-sage.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:24.907410+00:00"
+    },
+    "guilty/guilty_00285_mit-mehr-courage-hae.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:29.401056+00:00"
+    },
+    "guilty/guilty_00286_versagen-ist-eine-sa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:35.695603+00:00"
+    },
+    "guilty/guilty_00287_das-hier-waere-ander.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:40.514909+00:00"
+    },
+    "guilty/guilty_00288_stumm-dazustehen-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:02:47.894669+00:00"
+    },
+    "guilty/guilty_00289_nicht-direkt-aber-in.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T08:02:58.156355+00:00"
+    },
+    "guilty/guilty_00290_ich-war-dabei-und-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:02.703314+00:00"
+    },
+    "guilty/guilty_00292_nicht-schwaeche-sond.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:07.863497+00:00"
+    },
+    "guilty/guilty_00293_ich-habe-gewaehlt-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:11.695435+00:00"
+    },
+    "guilty/guilty_00294_lass-mich-nicht-davo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:16.571956+00:00"
+    },
+    "guilty/guilty_00295_manchmal-macht-man-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:21.580351+00:00"
+    },
+    "guilty/guilty_00296_wer-schuld-traegt-tr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:26.462848+00:00"
+    },
+    "guilty/guilty_00297_reuige-worte-kommen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:36.979811+00:00"
+    },
+    "guilty/guilty_00300_einer-der-schwersten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:41.721559+00:00"
+    },
+    "guilty/guilty_00301_ich-sass-in-der-erst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:46.998858+00:00"
+    },
+    "guilty/guilty_00302_jetzt-trage-ich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:51.758869+00:00"
+    },
+    "guilty/guilty_00303_wenn-man-weiss-was-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:03:57.692802+00:00"
+    },
+    "guilty/guilty_00305_ich-haette-dich-schu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:04.028337+00:00"
+    },
+    "guilty/guilty_00306_die-konsequenzen-mei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:11.222982+00:00"
+    },
+    "guilty/guilty_00307_nicht-unabsichtlichk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:16.946620+00:00"
+    },
+    "guilty/guilty_00308_fuer-diesen-einen-mo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:29.441423+00:00"
+    },
+    "guilty/guilty_00310_ich-stand-am-scheide.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:33.602239+00:00"
+    },
+    "guilty/guilty_00311_heute-nacht-schlafe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:38.536271+00:00"
+    },
+    "guilty/guilty_00312_nagte-schon-eine-wei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T08:04:44.192656+00:00"
+    },
+    "guilty/guilty_00313_es-war-meine-entsche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-05T08:04:49.324141+00:00"
+    },
+    "guilty/guilty_00314_nie-werde-ich-mir-se.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:53.376983+00:00"
+    },
+    "guilty/guilty_00315_keinen-frieden-finde.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-05T08:04:57.845345+00:00"
     }
   }
 }
