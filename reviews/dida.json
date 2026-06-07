@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-05T20:41:02.700596+00:00",
+  "updated_at": "2026-06-07T12:51:29.817726+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -16609,6 +16609,1346 @@
     "happy/happy_00007_alles-ist-bunt-alles.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-05T20:41:02.700545+00:00"
+    },
+    "happy/happy_00008_die-musik-klingt-heu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:21:40.769938+00:00"
+    },
+    "happy/happy_00009_ich-springe-vor-bege.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:21:46.137354+00:00"
+    },
+    "happy/happy_00010_meine-wangen-tun-weh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:21:51.580396+00:00"
+    },
+    "happy/happy_00011_heute-habe-ich-besch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:21:55.868298+00:00"
+    },
+    "happy/happy_00012_die-vögel-singen-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:22:04.702212+00:00"
+    },
+    "happy/happy_00013_ich-tanze-durch-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:09.953738+00:00"
+    },
+    "happy/happy_00014_jeder-atemzug-füllt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:16.068812+00:00"
+    },
+    "happy/happy_00015_das-leben-ist-zu-sch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:20.212625+00:00"
+    },
+    "happy/happy_00017_alles-fühlt-sich-mög.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:24.454334+00:00"
+    },
+    "happy/happy_00018_die-welt-ist-voller.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:22:28.228758+00:00"
+    },
+    "happy/happy_00019_ich-strahle-wie-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:31.693993+00:00"
+    },
+    "happy/happy_00020_heute-schmeckt-sogar.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:35.035336+00:00"
+    },
+    "happy/happy_00021_ich-zähle-die-kleine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:39.183377+00:00"
+    },
+    "happy/happy_00022_mein-lachen-ist-anst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:43.428616+00:00"
+    },
+    "happy/happy_00023_jeder-blick-in-den-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:22:50.335750+00:00"
+    },
+    "happy/happy_00024_ich-könnte-bäume-aus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:54.679407+00:00"
+    },
+    "happy/happy_00027_alles-um-mich-herum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:22:59.223674+00:00"
+    },
+    "happy/happy_00028_heute-ist-der-tag-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:03.013647+00:00"
+    },
+    "happy/happy_00030_mein-herz-ist-ein-fe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:23:15.359145+00:00"
+    },
+    "happy/happy_00031_ich-möchte-die-ganze.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:22.945093+00:00"
+    },
+    "happy/happy_00032_jeder-schritt-fühlt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:27.281864+00:00"
+    },
+    "happy/happy_00033_die-farben-des-himme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:34.076032+00:00"
+    },
+    "happy/happy_00034_ich-könnte-stundenla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:37.388511+00:00"
+    },
+    "happy/happy_00035_alles-fühlt-sich-lei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:41.542295+00:00"
+    },
+    "happy/happy_00036_heute-ist-der-perfek.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:45.627833+00:00"
+    },
+    "happy/happy_00037_ich-bin-so-glücklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:49.706762+00:00"
+    },
+    "happy/happy_00038_die-welt-ist-ein-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:53.549445+00:00"
+    },
+    "happy/happy_00039_ich-fühle-mich-als-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:23:57.265277+00:00"
+    },
+    "happy/happy_00040_jeder-tag-sollte-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:00.996553+00:00"
+    },
+    "happy/happy_00042_meine-gedanken-sind.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:24:03.065119+00:00"
+    },
+    "happy/happy_00043_ich-strahle-wie-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:06.498454+00:00"
+    },
+    "happy/happy_00044_heute-ist-alles-mögl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:10.522088+00:00"
+    },
+    "happy/happy_00045_ich-könnte-vor-freud.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:14.551906+00:00"
+    },
+    "happy/happy_00046_alles-um-mich-herum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:18.967693+00:00"
+    },
+    "happy/happy_00050_heute-ist-der-tag-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:23.301122+00:00"
+    },
+    "happy/happy_00052_jeder-moment-ist-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:28.151921+00:00"
+    },
+    "happy/happy_00053_ich-bin-so-glücklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:32.553982+00:00"
+    },
+    "happy/happy_00057_heute-ist-der-perfek.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:38.567044+00:00"
+    },
+    "happy/happy_00059_jeder-blick-in-deine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:43.527180+00:00"
+    },
+    "happy/happy_00066_jeder-atemzug-fühlt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:47.703618+00:00"
+    },
+    "happy/happy_00082_alles-fühlt-sich-mög.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:51.418919+00:00"
+    },
+    "happy/happy_00085_jeder-blick-in-den-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:55.125143+00:00"
+    },
+    "happy/happy_00096_die-kinder-haben-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:24:59.930373+00:00"
+    },
+    "happy/happy_00096_jeder-atemzug-füllt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:25:03.761586+00:00"
+    },
+    "happy/happy_00097_mein-lieblingslied-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:25:09.145889+00:00"
+    },
+    "happy/happy_00099_endlich-habe-ich-den.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:25:15.057420+00:00"
+    },
+    "happy/happy_00100_die-blumen-auf-dem-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:25:20.740491+00:00"
+    },
+    "happy/happy_00102_die-nachbarn-haben-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:25:22.456946+00:00"
+    },
+    "happy/happy_00103_ich-habe-heute-morge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:25:38.990128+00:00"
+    },
+    "happy/happy_00104_der-himmel-ist-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:25:47.120265+00:00"
+    },
+    "happy/happy_00105_meine-kollegin-hat-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:25:53.313931+00:00"
+    },
+    "happy/happy_00106_die-alte-schaukel-im.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:25:59.994068+00:00"
+    },
+    "happy/happy_00107_ich-habe-gerade-erfa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:05.214172+00:00"
+    },
+    "happy/happy_00108_die-katze-schnurrt-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:10.355551+00:00"
+    },
+    "happy/happy_00109_mein-chef-hat-mir-he.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:26:14.661520+00:00"
+    },
+    "happy/happy_00111_ich-habe-gestern-abe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:18.563250+00:00"
+    },
+    "happy/happy_00113_die-bäckerei-hat-heu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:23.138727+00:00"
+    },
+    "happy/happy_00114_ich-habe-heute-zum-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:27.780584+00:00"
+    },
+    "happy/happy_00115_die-wolken-sehen-aus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:32.297799+00:00"
+    },
+    "happy/happy_00116_meine-schwester-hat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:36.473611+00:00"
+    },
+    "happy/happy_00117_der-duft-von-frisch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:26:51.609677+00:00"
+    },
+    "happy/happy_00118_ich-habe-heute-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:26:57.013558+00:00"
+    },
+    "happy/happy_00119_die-vögel-zwitschern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:27:01.082972+00:00"
+    },
+    "happy/happy_00120_mein-lieblingskuchen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:27:10.484401+00:00"
+    },
+    "happy/happy_00121_ich-habe-gerade-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:27:16.865658+00:00"
+    },
+    "happy/happy_00122_die-sonne-kitzelt-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:27:21.965044+00:00"
+    },
+    "happy/happy_00123_mein-kleiner-neffe-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:27:26.963461+00:00"
+    },
+    "happy/happy_00124_ich-habe-heute-morge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:27:32.514063+00:00"
+    },
+    "happy/happy_00127_ich-habe-heute-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:27:38.683237+00:00"
+    },
+    "happy/happy_00128_die-kinder-in-der-na.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:27:52.755815+00:00"
+    },
+    "happy/happy_00129_mein-lieblingsrestau.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:28:03.957703+00:00"
+    },
+    "happy/happy_00131_die-musik-im-superma.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:08.336612+00:00"
+    },
+    "happy/happy_00132_mein-nachbar-hat-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:13.686651+00:00"
+    },
+    "happy/happy_00134_die-wolken-formen-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:18.431758+00:00"
+    },
+    "happy/happy_00137_die-sonne-spiegelt-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:23.390975+00:00"
+    },
+    "happy/happy_00138_die-sonne-scheint-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:27.396314+00:00"
+    },
+    "happy/happy_00138_meine-freundin-hat-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:28:40.958158+00:00"
+    },
+    "happy/happy_00140_alles-fühlt-sich-lei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:45.470445+00:00"
+    },
+    "happy/happy_00140_die-bäume-in-meinem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:52.041935+00:00"
+    },
+    "happy/happy_00143_der-duft-von-frische.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:28:55.826003+00:00"
+    },
+    "happy/happy_00144_meine-schwester-hat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:00.094032+00:00"
+    },
+    "happy/happy_00146_die-kinder-im-park-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:04.318368+00:00"
+    },
+    "happy/happy_00150_meine-nachbarin-hat.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:29:11.716344+00:00"
+    },
+    "happy/happy_00152_die-vögel-singen-heu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:16.055755+00:00"
+    },
+    "happy/happy_00155_die-wolken-ziehen-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:20.234347+00:00"
+    },
+    "happy/happy_00156_meine-freundin-hat-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:26.144934+00:00"
+    },
+    "happy/happy_00158_der-duft-von-frische.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:31.105623+00:00"
+    },
+    "happy/happy_00161_die-kinder-in-der-sc.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T08:29:43.106374+00:00"
+    },
+    "happy/happy_00164_die-sonne-scheint-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:47.484312+00:00"
+    },
+    "happy/happy_00165_alles-fühlt-sich-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:51.474457+00:00"
+    },
+    "happy/happy_00167_die-luft-riecht-heut.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T08:29:54.800848+00:00"
+    },
+    "happy/happy_00170_die-kinder-im-park-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:07:03.601104+00:00"
+    },
+    "happy/happy_00171_meine-kollegin-hat-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:07:09.466591+00:00"
+    },
+    "happy/happy_00174_meine-nachbarin-hat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:07:14.550755+00:00"
+    },
+    "happy/happy_00176_die-vögel-zwitschern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:07:22.532873+00:00"
+    },
+    "happy/happy_00182_der-duft-von-frische.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:07:27.250827+00:00"
+    },
+    "happy/happy_00188_die-luft-ist-heute-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:07:32.871276+00:00"
+    },
+    "happy/happy_00191_die-wolken-sehen-heu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:07:37.633016+00:00"
+    },
+    "happy/happy_00210_die-luft-riecht-heut.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:07:49.109127+00:00"
+    },
+    "happy/happy_00213_die-wolken-ziehen-he.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:07:51.579967+00:00"
+    },
+    "happy/happy_00225_der-wind-trägt-mein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:08:06.743830+00:00"
+    },
+    "happy/happy_00227_plötzlich-merke-ich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:08:09.770991+00:00"
+    },
+    "happy/happy_00228_die-kinder-auf-dem-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:08:15.941100+00:00"
+    },
+    "happy/happy_00229_dieser-kuchen-schmec.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:08:26.459558+00:00"
+    },
+    "happy/happy_00230_ich-könnte-stundenla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:08:32.443211+00:00"
+    },
+    "happy/happy_00231_mein-telefon-vibrier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:08:40.049831+00:00"
+    },
+    "happy/happy_00232_die-wolken-formen-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:08:44.601779+00:00"
+    },
+    "happy/happy_00233_jemand-hat-mir-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:12:08.825114+00:00"
+    },
+    "happy/happy_00234_ich-habe-vergessen-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:12:13.968525+00:00"
+    },
+    "happy/happy_00235_die-katze-auf-meinem.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:12:20.439660+00:00"
+    },
+    "happy/happy_00236_mein-lieblingslied-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:12:25.195642+00:00"
+    },
+    "happy/happy_00237_die-ersten-erdbeeren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:12:30.829899+00:00"
+    },
+    "happy/happy_00238_ich-finde-einen-alte.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:12:38.969138+00:00"
+    },
+    "happy/happy_00239_die-luft-nach-dem-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:12:44.406431+00:00"
+    },
+    "happy/happy_00241_der-duft-von-frisch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:12:49.418064+00:00"
+    },
+    "happy/happy_00242_meine-schwester-ruft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:12:55.487870+00:00"
+    },
+    "happy/happy_00243_die-farben-des-sonne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:01.195374+00:00"
+    },
+    "happy/happy_00244_ich-beobachte-wie-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:09.277217+00:00"
+    },
+    "happy/happy_00245_die-wärme-der-sonne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:15.087271+00:00"
+    },
+    "happy/happy_00246_ich-habe-heute-etwas.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:20.445392+00:00"
+    },
+    "happy/happy_00247_die-nachbarn-grillen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:25.389548+00:00"
+    },
+    "happy/happy_00248_mein-kleiner-bruder.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:31.918534+00:00"
+    },
+    "happy/happy_00249_die-ersten-takte-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:36.748841+00:00"
+    },
+    "happy/happy_00250_ich-finde-einen-fünf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:42.174573+00:00"
+    },
+    "happy/happy_00251_heute-ist-einfach-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:47.349599+00:00"
+    },
+    "happy/happy_00253_gute-laune-ohne-beso.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:52.466891+00:00"
+    },
+    "happy/happy_00254_schau-mal-wie-wunder.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:13:56.212180+00:00"
+    },
+    "happy/happy_00255_ich-lache-seit-einer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:14:01.268463+00:00"
+    },
+    "happy/happy_00256_wer-gluecklich-ist-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:14:05.219568+00:00"
+    },
+    "happy/happy_00257_leichtigkeit-traegt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:14:25.542776+00:00"
+    },
+    "happy/happy_00258_so-ein-tag-laesst-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:14:30.195893+00:00"
+    },
+    "happy/happy_00259_ich-koennte-tanzen-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:14:36.068383+00:00"
+    },
+    "happy/happy_00260_was-fuer-ein-herrlic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:14:39.433486+00:00"
+    },
+    "happy/happy_00262_ich-bringe-jedem-ein.wav": {
+      "decision": "delete",
+      "reviewed_at": "2026-06-07T09:14:53.643146+00:00"
+    },
+    "happy/happy_00263_alles-riecht-besser.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:14:58.669718+00:00"
+    },
+    "happy/happy_00264_wegen-nichts-bestimm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:03.423246+00:00"
+    },
+    "happy/happy_00265_jeden-kann-ich-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:07.690594+00:00"
+    },
+    "happy/happy_00266_stunden-vergehen-und.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:15:10.494104+00:00"
+    },
+    "happy/happy_00267_freude-teilen-macht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:13.986173+00:00"
+    },
+    "happy/happy_00268_was-gestern-noch-sch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:17.635423+00:00"
+    },
+    "happy/happy_00269_mit-einem-herz-volle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:22.001197+00:00"
+    },
+    "happy/happy_00270_so-viel-energie-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:27.853838+00:00"
+    },
+    "happy/happy_00271_heute-brauche-ich-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:31.628550+00:00"
+    },
+    "happy/happy_00272_ich-singe-auf-der-tr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:35.955920+00:00"
+    },
+    "happy/happy_00273_wenn-man-so-aufwacht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:39.943213+00:00"
+    },
+    "happy/happy_00274_lauter-kleine-ueberr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:45.366505+00:00"
+    },
+    "happy/happy_00275_ich-habe-appetit-auf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:50.557624+00:00"
+    },
+    "happy/happy_00276_das-laecheln-setzt-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:54.045981+00:00"
+    },
+    "happy/happy_00277_gute-stimmung-ist-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:15:58.238690+00:00"
+    },
+    "happy/happy_00278_gestern-noch-angespa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:02.194822+00:00"
+    },
+    "happy/happy_00279_jetzt-gerade-moechte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:05.663354+00:00"
+    },
+    "happy/happy_00280_kein-grund-zum-lache.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:09.439314+00:00"
+    },
+    "happy/happy_00281_mit-leichtigkeit-dur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:26.262418+00:00"
+    },
+    "happy/happy_00282_der-tag-haette-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:29.799908+00:00"
+    },
+    "happy/happy_00283_so-eine-innere-waerm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:34.321863+00:00"
+    },
+    "happy/happy_00284_kein-stress-keine-ei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:16:40.518619+00:00"
+    },
+    "happy/happy_00285_wenn-man-sich-wuensc.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:16:51.124709+00:00"
+    },
+    "happy/happy_00286_ich-bin-froh-dass-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:54.957768+00:00"
+    },
+    "happy/happy_00288_heute-fuehlt-sich-se.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:16:59.045527+00:00"
+    },
+    "happy/happy_00289_strahlen-ohne-anlass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:03.308738+00:00"
+    },
+    "happy/happy_00290_gut-drauf-zu-sein-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:07.909746+00:00"
+    },
+    "happy/happy_00291_dieses-kribbeln-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:12.167534+00:00"
+    },
+    "happy/happy_00293_ueberall-nur-gute-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:18.063820+00:00"
+    },
+    "happy/happy_00294_was-fuer-eine-welle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:22.463577+00:00"
+    },
+    "happy/happy_00295_mit-einem-satz-koenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:27.118412+00:00"
+    },
+    "happy/happy_00296_ich-habe-das-gefuehl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:31.227919+00:00"
+    },
+    "happy/happy_00297_so-eine-ruhige-freud.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:17:37.169025+00:00"
+    },
+    "happy/happy_00298_heute-wuerde-ich-auc.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:17:38.767715+00:00"
+    },
+    "happy/happy_00299_niemand-kann-mir-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:42.103825+00:00"
+    },
+    "happy/happy_00300_ich-traeume-wach-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:45.823950+00:00"
+    },
+    "happy/happy_00301_manche-tage-sind-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:50.273011+00:00"
+    },
+    "happy/happy_00303_ein-laecheln-kommt-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:54.061283+00:00"
+    },
+    "happy/happy_00304_das-leben-ist-kurz-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:17:58.855089+00:00"
+    },
+    "happy/happy_00305_die-welt-sieht-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:02.267096+00:00"
+    },
+    "happy/happy_00306_leichtigkeit-kann-ma.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:07.801564+00:00"
+    },
+    "happy/happy_00309_ich-stecke-alle-an-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:12.786941+00:00"
+    },
+    "happy/happy_00310_gut-gelaunt-aufgewac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:16.388904+00:00"
+    },
+    "happy/happy_00312_so-ein-hochgefuehl-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:21.588110+00:00"
+    },
+    "happy/happy_00313_ich-summe-vor-mich-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:26.277776+00:00"
+    },
+    "happy/happy_00314_warum-nicht-glueckli.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:18:37.363529+00:00"
+    },
+    "happy/happy_00315_wer-sagt-man-kann-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:41.771268+00:00"
+    },
+    "happy/happy_00316_ein-lied-im-kopf-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:47.242239+00:00"
+    },
+    "happy/happy_00317_nichts-besonderes-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:51.538795+00:00"
+    },
+    "happy/happy_00318_gelacht-bis-mir-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:18:55.855593+00:00"
+    },
+    "happy/happy_00319_das-leben-ist-lustig.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:19:06.455524+00:00"
+    },
+    "happy/happy_00323_waerme-im-herzen-ohn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:10.575906+00:00"
+    },
+    "happy/happy_00324_wenn-man-strahlt-wei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:19:15.169535+00:00"
+    },
+    "happy/happy_00325_heute-bin-ich-fuer-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:21.142181+00:00"
+    },
+    "happy/happy_00326_ein-leichter-schritt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:25.884411+00:00"
+    },
+    "happy/happy_00327_auf-solche-tage-wart.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:29.284235+00:00"
+    },
+    "happy/happy_00328_gute-energie-pur-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:33.623791+00:00"
+    },
+    "happy/happy_00329_ich-halte-dieses-gef.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:37.853184+00:00"
+    },
+    "happy/happy_00330_heute-brauche-ich-ke.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:19:49.647997+00:00"
+    },
+    "happy/happy_00331_den-ganzen-tag-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:55.741769+00:00"
+    },
+    "happy/happy_00333_was-fuer-ein-privile.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:19:59.791538+00:00"
+    },
+    "happy/happy_00334_ich-singe-falsch-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:04.309193+00:00"
+    },
+    "happy/happy_00335_manchmal-ist-glueck.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:07.787487+00:00"
+    },
+    "happy/happy_00336_einmal-am-tag-so-lac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:12.836454+00:00"
+    },
+    "happy/happy_00337_gute-nachrichten-ueb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:16.014701+00:00"
+    },
+    "happy/happy_00338_kein-tag-zuvor-hat-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:20.510158+00:00"
+    },
+    "happy/happy_00339_den-ganzen-tag-ein-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:24.966132+00:00"
+    },
+    "happy/happy_00340_so-ein-tag-laedt-zur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:32.982461+00:00"
+    },
+    "happy/happy_00341_ich-glaube-jetzt-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:36.298776+00:00"
+    },
+    "happy/happy_00342_voller-freude-warte.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:20:39.725037+00:00"
+    },
+    "happy/happy_00343_waerme-breitet-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:44.792638+00:00"
+    },
+    "happy/happy_00344_kaum-zu-glauben-wie.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:20:49.999706+00:00"
+    },
+    "happy/happy_00345_lachen-faellt-mir-he.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:20:54.479687+00:00"
+    },
+    "happy/happy_00346_glueck-ist-manchmal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:20:59.536076+00:00"
+    },
+    "happy/happy_00347_zum-strahlen-bringe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:03.313824+00:00"
+    },
+    "happy/happy_00349_zufrieden-lehne-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:07.382514+00:00"
+    },
+    "happy/happy_00350_nirgendwo-sonst-waer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:11.515143+00:00"
+    },
+    "happy/happy_00352_selbst-kleine-dinge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:16.078069+00:00"
+    },
+    "happy/happy_00353_tanzen-koennte-ich-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:19.837097+00:00"
+    },
+    "happy/happy_00354_ueberall-entdecke-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:24.112936+00:00"
+    },
+    "happy/happy_00356_froh-bin-ich-dass-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:29.064941+00:00"
+    },
+    "happy/happy_00357_strahlend-beginnt-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:34.740303+00:00"
+    },
+    "happy/happy_00358_was-fuer-ein-wunders.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:21:39.958683+00:00"
+    },
+    "happy/happy_00359_heute-ist-wirklich-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:21:47.369073+00:00"
+    },
+    "happy/happy_00360_ich-bin-so-dankbar.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:21:51.374681+00:00"
+    },
+    "happy/happy_00361_das-macht-mich-einfach.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:21:57.170259+00:00"
+    },
+    "happy/happy_00362_ich-lächle-gerade-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:00.747729+00:00"
+    },
+    "happy/happy_00363_alles-fühlt-sich-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:04.546606+00:00"
+    },
+    "happy/happy_00364_das-war-genau-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:08.121632+00:00"
+    },
+    "happy/happy_00365_ich-freue-mich-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:11.716438+00:00"
+    },
+    "happy/happy_00368_das-war-die-beste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:15.473209+00:00"
+    },
+    "happy/happy_00370_ich-bin-einfach-froh.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:22:17.320344+00:00"
+    },
+    "happy/happy_00371_so-ein-tag-macht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:20.828077+00:00"
+    },
+    "happy/happy_00372_ich-bin-so-dankbar.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:24.908560+00:00"
+    },
+    "happy/happy_00373_alles-fuehlt-sich-leicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T09:22:29.409462+00:00"
+    },
+    "happy/happy_00375_die-sonne-kitzelt-mir-im-gesic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T09:22:31.590020+00:00"
+    },
+    "hopeless/hopeless_00002_warum-sollte-ich-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:36:55.368065+00:00"
+    },
+    "hopeless/hopeless_00003_ich-kann-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:36:59.767677+00:00"
+    },
+    "hopeless/hopeless_00004_nichts-wird-jemals-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:03.880433+00:00"
+    },
+    "hopeless/hopeless_00005_ich-gebe-auf-es-lohn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:07.878806+00:00"
+    },
+    "hopeless/hopeless_00006_alles-fühlt-sich-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:12.059716+00:00"
+    },
+    "hopeless/hopeless_00008_es-bringt-doch-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:15.759296+00:00"
+    },
+    "hopeless/hopeless_00010_die-welt-dreht-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:19.864685+00:00"
+    },
+    "hopeless/hopeless_00011_egal-was-ich-tue-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:24.343428+00:00"
+    },
+    "hopeless/hopeless_00013_alles-ist-grau-und-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:37:26.490856+00:00"
+    },
+    "hopeless/hopeless_00020_alles-bricht-einfach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:30.309892+00:00"
+    },
+    "hopeless/hopeless_00036_keiner-merkt-wie-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:35.055572+00:00"
+    },
+    "hopeless/hopeless_00041_ich-spüre-nur-noch-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:38.272582+00:00"
+    },
+    "hopeless/hopeless_00051_es-gibt-nichts-was-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:41.875953+00:00"
+    },
+    "hopeless/hopeless_00062_nichts-hat-mehr-bede.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:45.307396+00:00"
+    },
+    "hopeless/hopeless_00064_alles-ist-so-aussich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:49.811006+00:00"
+    },
+    "hopeless/hopeless_00067_ich-spüre-nur-noch-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:53.485014+00:00"
+    },
+    "hopeless/hopeless_00068_keiner-sieht-wie-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:37:56.312345+00:00"
+    },
+    "hopeless/hopeless_00091_alles-ist-so-dunkel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:00.517174+00:00"
+    },
+    "hopeless/hopeless_00093_es-bringt-nichts-sic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:05.044964+00:00"
+    },
+    "hopeless/hopeless_00102_die-luft-hier-riecht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:09.493029+00:00"
+    },
+    "hopeless/hopeless_00104_meine-hände-zittern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:14.426827+00:00"
+    },
+    "hopeless/hopeless_00105_die-uhr-tickt-doch-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:18.881980+00:00"
+    },
+    "hopeless/hopeless_00105_keiner-versteht-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:23.137271+00:00"
+    },
+    "hopeless/hopeless_00106_selbst-die-wände-atm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:27.590510+00:00"
+    },
+    "hopeless/hopeless_00108_die-farbe-blau-ist-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:33.526131+00:00"
+    },
+    "hopeless/hopeless_00110_die-decke-über-mir-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:37.988221+00:00"
+    },
+    "hopeless/hopeless_00111_ich-suche-nach-worte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:42.796009+00:00"
+    },
+    "hopeless/hopeless_00112_die-türklinke-fühlt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:47.977999+00:00"
+    },
+    "hopeless/hopeless_00113_meine-gedanken-kreis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:38:52.455169+00:00"
+    },
+    "hopeless/hopeless_00114_die-suppe-schmeckt-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:38:55.836025+00:00"
+    },
+    "hopeless/hopeless_00115_ich-habe-aufgehört-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:39:00.147739+00:00"
+    },
+    "hopeless/hopeless_00117_mein-spiegelbild-sie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:03.902299+00:00"
+    },
+    "hopeless/hopeless_00118_die-bettdecke-ist-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:08.620071+00:00"
+    },
+    "hopeless/hopeless_00120_die-uhr-zeigt-immer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:12.230775+00:00"
+    },
+    "hopeless/hopeless_00121_meine-stimme-klingt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:16.361585+00:00"
+    },
+    "hopeless/hopeless_00122_die-straßenlaternen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:21.190345+00:00"
+    },
+    "hopeless/hopeless_00125_ich-sehe-keinen-ausw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:25.312389+00:00"
+    },
+    "hopeless/hopeless_00125_meine-füße-tragen-mi.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:39:31.380912+00:00"
+    },
+    "hopeless/hopeless_00126_die-vögel-singen-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:36.777083+00:00"
+    },
+    "hopeless/hopeless_00127_ich-habe-aufgehört-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:40.834226+00:00"
+    },
+    "hopeless/hopeless_00128_die-zeitungen-berich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:39:45.973481+00:00"
+    },
+    "hopeless/hopeless_00129_meine-hände-erinnern.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:39:52.950701+00:00"
+    },
+    "hopeless/hopeless_00130_die-kälte-kriecht-du.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:39:56.780671+00:00"
+    },
+    "hopeless/hopeless_00131_ich-zünde-kerzen-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:01.329991+00:00"
+    },
+    "hopeless/hopeless_00132_die-treppe-nach-oben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:05.227620+00:00"
+    },
+    "hopeless/hopeless_00133_meine-gedanken-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:08.636222+00:00"
+    },
+    "hopeless/hopeless_00134_die-musik-im-radio-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:12.518112+00:00"
+    },
+    "hopeless/hopeless_00136_die-wolken-hängen-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:17.281558+00:00"
+    },
+    "hopeless/hopeless_00137_meine-träume-sind-nu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:20.589681+00:00"
+    },
+    "hopeless/hopeless_00139_ich-zähle-die-tage-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:24.045725+00:00"
+    },
+    "hopeless/hopeless_00140_die-worte-auf-dem-ze.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:28.105503+00:00"
+    },
+    "hopeless/hopeless_00141_meine-hände-halten-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:31.425621+00:00"
+    },
+    "hopeless/hopeless_00142_die-straßen-sind-lee.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:36.582102+00:00"
+    },
+    "hopeless/hopeless_00143_ich-habe-aufgehört-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:40.404340+00:00"
+    },
+    "hopeless/hopeless_00144_die-schatten-werden.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:44.357332+00:00"
+    },
+    "hopeless/hopeless_00145_meine-stimme-bricht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:48.642321+00:00"
+    },
+    "hopeless/hopeless_00146_die-luft-schmeckt-na.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:40:52.667397+00:00"
+    },
+    "hopeless/hopeless_00148_die-vorhänge-wehen-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:41:02.297540+00:00"
+    },
+    "hopeless/hopeless_00150_keiner-versteht-wie.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:45:27.955351+00:00"
+    },
+    "hopeless/hopeless_00151_ich-zünde-streichhöl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:45:37.059172+00:00"
+    },
+    "hopeless/hopeless_00152_die-decke-ist-zu-nie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:45:42.009925+00:00"
+    },
+    "hopeless/hopeless_00153_meine-hände-zittern.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:45:54.356490+00:00"
+    },
+    "hopeless/hopeless_00154_die-straßenlaternen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:45:58.880013+00:00"
+    },
+    "hopeless/hopeless_00156_die-worte-in-meinem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:03.112368+00:00"
+    },
+    "hopeless/hopeless_00157_meine-tränen-sind-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:08.335382+00:00"
+    },
+    "hopeless/hopeless_00158_die-tür-bleibt-gesch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:12.905596+00:00"
+    },
+    "hopeless/hopeless_00159_ich-zähle-die-schrit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:16.821734+00:00"
+    },
+    "hopeless/hopeless_00160_die-luft-ist-zu-stil.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:20.711447+00:00"
+    },
+    "hopeless/hopeless_00165_meine-hände-halten-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:24.468281+00:00"
+    },
+    "hopeless/hopeless_00166_die-straßen-sind-vol.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:28.857596+00:00"
+    },
+    "hopeless/hopeless_00167_ich-zünde-kerzen-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:33.223757+00:00"
+    },
+    "hopeless/hopeless_00168_die-decke-über-mir-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:37.428698+00:00"
+    },
+    "hopeless/hopeless_00169_meine-stimme-ist-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:41.180751+00:00"
+    },
+    "hopeless/hopeless_00172_die-worte-in-meinem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:45.238209+00:00"
+    },
+    "hopeless/hopeless_00173_meine-tränen-sind-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:48.699851+00:00"
+    },
+    "hopeless/hopeless_00174_die-tür-öffnet-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:53.168775+00:00"
+    },
+    "hopeless/hopeless_00176_die-straßenlaternen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:46:57.983421+00:00"
+    },
+    "hopeless/hopeless_00182_die-straßen-sind-lee.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:47:03.386824+00:00"
+    },
+    "hopeless/hopeless_00183_ich-zünde-streichhöl.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:47:08.145980+00:00"
+    },
+    "hopeless/hopeless_00186_die-luft-schmeckt-na.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:47:13.822383+00:00"
+    },
+    "hopeless/hopeless_00190_die-tür-bleibt-zu-eg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:47:18.725246+00:00"
+    },
+    "hopeless/hopeless_00191_ich-zähle-die-stunde.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:49:22.035512+00:00"
+    },
+    "hopeless/hopeless_00192_die-straßenlaternen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:49:27.046669+00:00"
+    },
+    "hopeless/hopeless_00194_die-uhr-zeigt-eine-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:49:32.044885+00:00"
+    },
+    "hopeless/hopeless_00197_meine-hände-zittern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:49:36.458240+00:00"
+    },
+    "hopeless/hopeless_00198_die-straßen-sind-vol.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:49:48.703032+00:00"
+    },
+    "hopeless/hopeless_00201_meine-stimme-bricht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:49:52.592448+00:00"
+    },
+    "hopeless/hopeless_00205_meine-tränen-sind-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:49:56.416897+00:00"
+    },
+    "hopeless/hopeless_00206_die-tür-öffnet-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:00.842012+00:00"
+    },
+    "hopeless/hopeless_00207_ich-zähle-die-sekund.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:05.162487+00:00"
+    },
+    "hopeless/hopeless_00208_die-straßenlaternen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:09.366697+00:00"
+    },
+    "hopeless/hopeless_00212_meine-hände-halten-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:13.327650+00:00"
+    },
+    "hopeless/hopeless_00219_die-tür-bleibt-versc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:17.872294+00:00"
+    },
+    "hopeless/hopeless_00220_ich-zähle-die-atemzü.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:22.189300+00:00"
+    },
+    "hopeless/hopeless_00223_die-uhr-steht-still.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:27.073394+00:00"
+    },
+    "hopeless/hopeless_00233_die-straßenlaternen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:31.774980+00:00"
+    },
+    "hopeless/hopeless_00239_die-tür-bleibt-zu-eg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:43.849883+00:00"
+    },
+    "hopeless/hopeless_00240_mein-spiegelbild-sta.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:50:49.872225+00:00"
+    },
+    "hopeless/hopeless_00241_die-uhr-tickt-doch-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:50:58.341922+00:00"
+    },
+    "hopeless/hopeless_00243_die-stimmen-um-mich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:51:06.900925+00:00"
+    },
+    "hopeless/hopeless_00244_ich-zünde-das-licht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:51:11.784078+00:00"
+    },
+    "hopeless/hopeless_00246_meine-hände-zittern.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T12:51:14.558202+00:00"
+    },
+    "hopeless/hopeless_00247_die-straße-endet-im.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:51:20.274733+00:00"
+    },
+    "hopeless/hopeless_00248_die-musik-im-radio-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:51:24.025207+00:00"
+    },
+    "hopeless/hopeless_00249_ich-öffne-die-augen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T12:51:29.817678+00:00"
     }
   }
 }
