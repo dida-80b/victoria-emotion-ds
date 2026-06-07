@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-07T12:51:29.817726+00:00",
+  "updated_at": "2026-06-07T15:08:28.761413+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -17949,6 +17949,198 @@
     "hopeless/hopeless_00249_ich-öffne-die-augen.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-07T12:51:29.817678+00:00"
+    },
+    "hopeless/hopeless_00250_die-worte-auf-dem-pa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:10.607511+00:00"
+    },
+    "hopeless/hopeless_00251_wozu-noch-versuchen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:15.389764+00:00"
+    },
+    "hopeless/hopeless_00252_jede-bemuehung-verpu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:19.809608+00:00"
+    },
+    "hopeless/hopeless_00253_irgendwann-hoert-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:25.031951+00:00"
+    },
+    "hopeless/hopeless_00256_ich-warte-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:28.442585+00:00"
+    },
+    "hopeless/hopeless_00258_niemand-rettet-einen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:34.857804+00:00"
+    },
+    "hopeless/hopeless_00259_verloren-ist-das-fal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:39.813893+00:00"
+    },
+    "hopeless/hopeless_00260_egal-was-ich-entsche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T15:04:46.188096+00:00"
+    },
+    "hopeless/hopeless_00261_aufgegeben-habe-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:51.803645+00:00"
+    },
+    "hopeless/hopeless_00264_stunden-vergehen-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:04:56.436584+00:00"
+    },
+    "hopeless/hopeless_00265_kein-ziel-mehr-nur-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:00.142178+00:00"
+    },
+    "hopeless/hopeless_00266_mir-fehlt-die-energi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:03.706561+00:00"
+    },
+    "hopeless/hopeless_00267_warum-sollte-es-jetz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:09.286339+00:00"
+    },
+    "hopeless/hopeless_00268_tage-die-kommen-sehe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:13.365508+00:00"
+    },
+    "hopeless/hopeless_00269_ich-lebe-noch-aber-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:18.025336+00:00"
+    },
+    "hopeless/hopeless_00270_jede-tuer-die-ich-oe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:23.649587+00:00"
+    },
+    "hopeless/hopeless_00272_was-bleibt-wenn-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:30.904240+00:00"
+    },
+    "hopeless/hopeless_00274_ich-mache-weiter-ohn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:35.085750+00:00"
+    },
+    "hopeless/hopeless_00275_die-energie-reicht-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:40.836453+00:00"
+    },
+    "hopeless/hopeless_00276_vielleicht-kommt-mor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:45.814548+00:00"
+    },
+    "hopeless/hopeless_00277_wie-soll-man-hoffen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T15:05:51.607205+00:00"
+    },
+    "hopeless/hopeless_00278_mir-fehlt-das-fundam.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:56.115456+00:00"
+    },
+    "hopeless/hopeless_00279_nicht-einmal-weinen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:05:59.859740+00:00"
+    },
+    "hopeless/hopeless_00280_ich-tue-so-als-waere.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:06:06.529483+00:00"
+    },
+    "hopeless/hopeless_00281_was-sich-angestrengt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:06:19.264735+00:00"
+    },
+    "hopeless/hopeless_00282_resignation-ist-leis.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T15:06:28.410487+00:00"
+    },
+    "hopeless/hopeless_00283_ich-habe-aufgehoert.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:06:32.699726+00:00"
+    },
+    "hopeless/hopeless_00284_wer-so-lange-kaempft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:06:36.874678+00:00"
+    },
+    "hopeless/hopeless_00285_motivation-ist-ein-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:06:41.931098+00:00"
+    },
+    "hopeless/hopeless_00286_morgen-wird-sein-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:06:49.028056+00:00"
+    },
+    "hopeless/hopeless_00288_alles-wirkt-gleichgu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:06:53.932369+00:00"
+    },
+    "hopeless/hopeless_00289_mir-ist-nichts-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:05.181315+00:00"
+    },
+    "hopeless/hopeless_00291_ich-denke-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:09.192121+00:00"
+    },
+    "hopeless/hopeless_00292_wer-sich-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:13.510585+00:00"
+    },
+    "hopeless/hopeless_00293_ich-warte-auf-etwas.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:17.464412+00:00"
+    },
+    "hopeless/hopeless_00294_kein-plan-mehr-nur-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T15:07:19.335523+00:00"
+    },
+    "hopeless/hopeless_00295_erschoepft-von-allem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:24.084910+00:00"
+    },
+    "hopeless/hopeless_00296_es-ist-keine-entsche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T15:07:34.433412+00:00"
+    },
+    "hopeless/hopeless_00297_nicht-hoffnungslos-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:39.150459+00:00"
+    },
+    "hopeless/hopeless_00298_manchmal-verliert-ma.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T15:07:45.763565+00:00"
+    },
+    "hopeless/hopeless_00299_wenn-selbst-der-mond.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:50.722059+00:00"
+    },
+    "hopeless/hopeless_00300_was-einmal-sinn-hatt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:07:55.341184+00:00"
+    },
+    "hopeless/hopeless_00301_was-fehlt-ist-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:08:01.059586+00:00"
+    },
+    "hopeless/hopeless_00302_ich-schaue-in-den-sp.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:08:04.940643+00:00"
+    },
+    "hopeless/hopeless_00303_mit-einem-schulterzu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:08:09.977080+00:00"
+    },
+    "hopeless/hopeless_00304_leer-ist-das-wort-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:08:14.275882+00:00"
+    },
+    "hopeless/hopeless_00305_kein-wunsch-mehr-auc.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-07T15:08:24.435429+00:00"
+    },
+    "hopeless/hopeless_00306_was-soll-ich-noch-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-07T15:08:28.761327+00:00"
     }
   }
 }
