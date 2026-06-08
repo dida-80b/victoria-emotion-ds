@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-08T15:28:46.695876+00:00",
+  "updated_at": "2026-06-08T15:57:07.159657+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -19125,6 +19125,322 @@
     "lethargic/lethargic_00305_gaehn-das-war-alles.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-08T15:28:46.695796+00:00"
+    },
+    "lethargic/lethargic_00306_besser-ausgedrueckt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:49:09.146033+00:00"
+    },
+    "lethargic/lethargic_00307_nicht-jeder-tag-muss.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:49:14.008655+00:00"
+    },
+    "lethargic/lethargic_00308_heute-mache-ich-paus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:49:21.148179+00:00"
+    },
+    "lethargic/lethargic_00309_was-wartet-kann-wart.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:49:27.081612+00:00"
+    },
+    "lethargic/lethargic_00310_vielleicht-kommt-ene.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:49:36.343181+00:00"
+    },
+    "lethargic/lethargic_00311_mein-koerper-und-mei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:49:44.117259+00:00"
+    },
+    "lethargic/lethargic_00313_mit-minimalaufwand-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:49:52.473009+00:00"
+    },
+    "lethargic/lethargic_00314_gemuetlichkeit-ist-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:49:56.978656+00:00"
+    },
+    "lethargic/lethargic_00315_ich-spare-energie-fu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:50:03.547834+00:00"
+    },
+    "lethargic/lethargic_00316_schludern-ohne-schle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:50:10.936338+00:00"
+    },
+    "lethargic/lethargic_00317_was-ich-angefangen-h.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:50:15.983789+00:00"
+    },
+    "lethargic/lethargic_00318_gemaechlich-ist-noch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:50:21.133903+00:00"
+    },
+    "lethargic/lethargic_00319_ich-denke-an-dinge-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:50:27.282447+00:00"
+    },
+    "lethargic/lethargic_00321_heute-laeuft-alles-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:50:31.399467+00:00"
+    },
+    "lethargic/lethargic_00322_wer-mich-heute-brauc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:50:36.006603+00:00"
+    },
+    "lethargic/lethargic_00323_ohne-anlauf-keine-le.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:50:37.504000+00:00"
+    },
+    "lethargic/lethargic_00324_inaktivitaet-als-bew.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:50:55.254956+00:00"
+    },
+    "lethargic/lethargic_00325_gemuetlich-ist-das-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:51:01.980539+00:00"
+    },
+    "lethargic/lethargic_00326_weitermachen-aber-se.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:07.721186+00:00"
+    },
+    "lethargic/lethargic_00328_energie-die-hat-heut.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:12.591346+00:00"
+    },
+    "lethargic/lethargic_00329_stillhalten-geht-auc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:17.277830+00:00"
+    },
+    "lethargic/lethargic_00330_lieber-sitzen-als-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:26.599460+00:00"
+    },
+    "lethargic/lethargic_00331_ohne-hast-und-ohne-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:33.490162+00:00"
+    },
+    "lethargic/lethargic_00333_heute-bin-ich-der-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:38.632880+00:00"
+    },
+    "lethargic/lethargic_00334_weder-tatendrang-noc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:44.759264+00:00"
+    },
+    "lethargic/lethargic_00335_ich-warte-bis-mir-et.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:51.009554+00:00"
+    },
+    "lethargic/lethargic_00336_heute-laeuft-alles-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:51:57.564626+00:00"
+    },
+    "lethargic/lethargic_00337_ruhig-wie-ein-see-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:01.761160+00:00"
+    },
+    "lethargic/lethargic_00338_nicht-mal-langeweile.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:52:08.269988+00:00"
+    },
+    "lethargic/lethargic_00339_jeder-der-heute-elan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:13.465567+00:00"
+    },
+    "lethargic/lethargic_00340_mit-dem-geringsten-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:22.345238+00:00"
+    },
+    "lethargic/lethargic_00341_heute-ist-nicht-mein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:27.099900+00:00"
+    },
+    "lethargic/lethargic_00342_langsam-ist-nicht-fa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:33.490253+00:00"
+    },
+    "lethargic/lethargic_00343_kaum-die-augen-aufzu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:40.114942+00:00"
+    },
+    "lethargic/lethargic_00344_selbst-zum-aufstehen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:45.293899+00:00"
+    },
+    "lethargic/lethargic_00345_schleppend-geht-jede.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:52:53.305194+00:00"
+    },
+    "lethargic/lethargic_00346_stunde-um-stunde-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:52:59.336771+00:00"
+    },
+    "lethargic/lethargic_00347_schwer-lastet-die-mu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:53:09.061223+00:00"
+    },
+    "lethargic/lethargic_00348_nichts-zieht-mich-na.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:53:16.350164+00:00"
+    },
+    "lethargic/lethargic_00349_langsam-alles-geht-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:53:24.450287+00:00"
+    },
+    "lethargic/lethargic_00350_aufraffen-vielleicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:53:35.065616+00:00"
+    },
+    "lethargic/lethargic_00351_kein-zug-kein-drang.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:53:40.845322+00:00"
+    },
+    "lethargic/lethargic_00352_traegheit-haelt-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:53:44.653718+00:00"
+    },
+    "lethargic/lethargic_00353_wozu-aufstehen-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:53:50.322921+00:00"
+    },
+    "lethargic/lethargic_00355_von-energie-keine-sp.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:53:55.659167+00:00"
+    },
+    "lethargic/lethargic_00356_gleichgueltig-gleite.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:53:59.728624+00:00"
+    },
+    "lethargic/lethargic_00357_selbst-reden-strengt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:04.908662+00:00"
+    },
+    "lethargic/lethargic_00358_zwischen-schlafen-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:10.209197+00:00"
+    },
+    "lethargic/lethargic_00360_schon-wieder-eine-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:15.770490+00:00"
+    },
+    "lethargic/lethargic_00361_antriebslos-sitze-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:22.140975+00:00"
+    },
+    "lethargic/lethargic_00362_fluestern-kostet-mic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:27.277181+00:00"
+    },
+    "lethargic/lethargic_00363_ueberall-anstrengung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:34.855870+00:00"
+    },
+    "lethargic/lethargic_00364_ich-will-eigentlich-gar.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:54:36.990445+00:00"
+    },
+    "lethargic/lethargic_00365_alles-dauert-gerade-so.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:54:47.977472+00:00"
+    },
+    "lethargic/lethargic_00366_mir-fehlt-die-energie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:54.097718+00:00"
+    },
+    "lethargic/lethargic_00367_ich-schaffe-es-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:54:59.355692+00:00"
+    },
+    "lethargic/lethargic_00368_warum-soll-ich-anfangen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:03.631137+00:00"
+    },
+    "lethargic/lethargic_00370_ich-bewege-mich-durch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:08.130424+00:00"
+    },
+    "lethargic/lethargic_00371_selbst-kleine-dinge-überfordern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:12.278626+00:00"
+    },
+    "lethargic/lethargic_00373_ich-mache-das-später.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:20.179024+00:00"
+    },
+    "lethargic/lethargic_00374_keine-ahnung-ist-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:24.953113+00:00"
+    },
+    "lethargic/lethargic_00375_das-schaffe-ich-vielleicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:29.621155+00:00"
+    },
+    "lethargic/lethargic_00376_ich-liege-hier-und.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:55:40.838274+00:00"
+    },
+    "lethargic/lethargic_00377_wozu-sich-beeilen-alles.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:46.209990+00:00"
+    },
+    "lethargic/lethargic_00378_ich-habe-keine-lust.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:55:57.259927+00:00"
+    },
+    "lethargic/lethargic_00380_alles-fühlt-sich-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:02.370919+00:00"
+    },
+    "lethargic/lethargic_00385_ich-schaffe-es-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:08.285501+00:00"
+    },
+    "lethargic/lethargic_00387_stunden-vergehen-und-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:12.756122+00:00"
+    },
+    "lethargic/lethargic_00389_alles-klingt-anstrengend-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:17.355467+00:00"
+    },
+    "lethargic/lethargic_00390_am-liebsten-wuerde-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:23.270003+00:00"
+    },
+    "lethargic/lethargic_00391_die-treppe-hoch-fühlt-sich-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:29.627413+00:00"
+    },
+    "lethargic/lethargic_00392_mein-kaffee-ist-kalt-aber-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:35.942504+00:00"
+    },
+    "lethargic/lethargic_00393_die-decke-zieht-mich-runter-al.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:56:37.773294+00:00"
+    },
+    "lethargic/lethargic_00394_ich-hör-die-uhr-ticken-aber-me.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:56:41.584873+00:00"
+    },
+    "lethargic/lethargic_00395_selbst-das-atmen-fühlt-sich-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:48.421003+00:00"
+    },
+    "lethargic/lethargic_00396_die-gedanken-kommen-nur-noch-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:53.489832+00:00"
+    },
+    "lethargic/lethargic_00397_mein-handy-liegt-da-aber-scrol.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:56:58.855400+00:00"
+    },
+    "lethargic/lethargic_00398_die-suppe-ist-fertig-aber-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T15:57:05.071814+00:00"
+    },
+    "lethargic/lethargic_00399_ich-würd-ja-aufräumen-aber-mei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T15:57:07.159572+00:00"
     }
   }
 }
