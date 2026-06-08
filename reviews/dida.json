@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-07T15:08:28.761413+00:00",
+  "updated_at": "2026-06-08T13:27:15.604714+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -18141,6 +18141,518 @@
     "hopeless/hopeless_00306_was-soll-ich-noch-ve.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-07T15:08:28.761327+00:00"
+    },
+    "hopeless/hopeless_00307_ich-tue-dinge-weil-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:26:24.424180+00:00"
+    },
+    "hopeless/hopeless_00308_frieden-habe-ich-nic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:26:33.495130+00:00"
+    },
+    "hopeless/hopeless_00309_vielleicht-ist-das-h.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:26:43.165237+00:00"
+    },
+    "hopeless/hopeless_00310_ein-ende-waere-einfa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:26:48.336512+00:00"
+    },
+    "hopeless/hopeless_00311_ich-lebe-durch-die-t.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:26:52.332475+00:00"
+    },
+    "hopeless/hopeless_00312_energie-fuer-hoffnun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:26:56.631926+00:00"
+    },
+    "hopeless/hopeless_00313_warum-einschlafen-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:01.335319+00:00"
+    },
+    "hopeless/hopeless_00314_was-manche-als-neuen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:06.059302+00:00"
+    },
+    "hopeless/hopeless_00315_nicht-einmal-traurig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:10.023777+00:00"
+    },
+    "hopeless/hopeless_00316_wenn-man-aufhoert-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:15.122342+00:00"
+    },
+    "hopeless/hopeless_00317_wer-erschoepft-ist-k.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:27:19.359496+00:00"
+    },
+    "hopeless/hopeless_00319_mal-sehen-wird-zu-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:24.180661+00:00"
+    },
+    "hopeless/hopeless_00320_es-gibt-zustaende-au.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:29.068461+00:00"
+    },
+    "hopeless/hopeless_00321_selbst-der-gedanke-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:33.446087+00:00"
+    },
+    "hopeless/hopeless_00322_ich-folge-meiner-rou.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:39.781301+00:00"
+    },
+    "hopeless/hopeless_00323_ich-habe-schon-so-vi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:44.553465+00:00"
+    },
+    "hopeless/hopeless_00324_nicht-jammern-resign.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:49.988283+00:00"
+    },
+    "hopeless/hopeless_00325_wohin-ich-auch-schau.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:53.883220+00:00"
+    },
+    "hopeless/hopeless_00326_kein-licht-am-ende-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:27:59.173302+00:00"
+    },
+    "hopeless/hopeless_00327_selbst-hoffnung-aufz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:28:04.131464+00:00"
+    },
+    "hopeless/hopeless_00328_weinen-kann-ich-kaum.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:28:10.022077+00:00"
+    },
+    "hopeless/hopeless_00329_leer-so-leer-wie-sch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:28:14.244016+00:00"
+    },
+    "hopeless/hopeless_00330_was-soll-das-alles-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:28:21.427883+00:00"
+    },
+    "hopeless/hopeless_00331_mitten-in-der-nacht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:28:25.719804+00:00"
+    },
+    "hopeless/hopeless_00332_kein-mensch-versteht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:28:30.018479+00:00"
+    },
+    "hopeless/hopeless_00333_selbst-traeumen-will.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:28:42.731316+00:00"
+    },
+    "hopeless/hopeless_00334_nichts-kommt-mehr-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:28:47.811204+00:00"
+    },
+    "hopeless/hopeless_00335_stille-ist-das-einzi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:28:56.504233+00:00"
+    },
+    "hopeless/hopeless_00336_wer-soll-mir-noch-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:01.265400+00:00"
+    },
+    "hopeless/hopeless_00337_zu-muede-zum-kaempfe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:06.697127+00:00"
+    },
+    "hopeless/hopeless_00338_ueberall-sehe-ich-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:19.254641+00:00"
+    },
+    "hopeless/hopeless_00339_morgen-ist-genauso-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:23.731601+00:00"
+    },
+    "hopeless/hopeless_00340_niemand-wartet-auf-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:27.924523+00:00"
+    },
+    "hopeless/hopeless_00341_von-allem-abgeschnit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:33.315244+00:00"
+    },
+    "hopeless/hopeless_00342_wozu-schlafen-wenn-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:29:37.711656+00:00"
+    },
+    "hopeless/hopeless_00343_kaum-zu-glauben-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:42.891556+00:00"
+    },
+    "hopeless/hopeless_00344_sehnsucht-nach-einem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:29:49.470691+00:00"
+    },
+    "hopeless/hopeless_00345_was-einmal-moeglich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:29:51.134138+00:00"
+    },
+    "hopeless/hopeless_00346_wieder-ein-tag-der-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:29:57.490294+00:00"
+    },
+    "hopeless/hopeless_00347_wie-in-einem-grauen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:03.466141+00:00"
+    },
+    "hopeless/hopeless_00350_frieden-mit-mir-selb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:08.244121+00:00"
+    },
+    "hopeless/hopeless_00351_was-ich-mir-wuensche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:15.113098+00:00"
+    },
+    "hopeless/hopeless_00352_wozu-soll-ich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:19.729811+00:00"
+    },
+    "hopeless/hopeless_00353_es-wird-nie-besser.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:26.087331+00:00"
+    },
+    "hopeless/hopeless_00354_ich-habe-aufgehört-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:30.826645+00:00"
+    },
+    "hopeless/hopeless_00355_da-kommt-nichts-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:36.464470+00:00"
+    },
+    "hopeless/hopeless_00356_ich-sehe-keinen-weg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:40.610654+00:00"
+    },
+    "hopeless/hopeless_00358_ich-habe-alles-versucht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:45.155758+00:00"
+    },
+    "hopeless/hopeless_00360_irgendwann-muss-man-akzeptieren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:49.275403+00:00"
+    },
+    "hopeless/hopeless_00361_was-solls-es-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:53.425163+00:00"
+    },
+    "hopeless/hopeless_00362_selbst-wenn-ich-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:30:58.535081+00:00"
+    },
+    "hopeless/hopeless_00363_ich-bin-müde-davon.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:02.629872+00:00"
+    },
+    "hopeless/hopeless_00364_ich-sehe-keinen-weg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:07.130640+00:00"
+    },
+    "hopeless/hopeless_00365_es-hat-keinen-sinn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:13.650075+00:00"
+    },
+    "hopeless/hopeless_00366_es-bringt-doch-eh-nichts-noch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:18.518747+00:00"
+    },
+    "hopeless/hopeless_00367_warum-sollte-ich-mir-überhaupt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:22.993000+00:00"
+    },
+    "hopeless/hopeless_00368_alles-fühlt-sich-an-wie-ein-en.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:28.223318+00:00"
+    },
+    "hopeless/hopeless_00369_ich-seh-keinen-ausweg-mehr-ega.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:34.581600+00:00"
+    },
+    "hopeless/hopeless_00370_selbst-die-einfachsten-dinge-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:40.496486+00:00"
+    },
+    "hopeless/hopeless_00372_es-wird-nie-besser-werden-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:31:45.684861+00:00"
+    },
+    "hopeless/hopeless_00373_jeder-schritt-vorwärts-fühlt-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:31:54.734193+00:00"
+    },
+    "hopeless/hopeless_00374_ich-kann-nicht-mal-mehr-weinen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:02.653134+00:00"
+    },
+    "hopeless/hopeless_00375_egal-was-ich-versuche-es-endet.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:14.772909+00:00"
+    },
+    "hopeless/hopeless_00376_die-tage-verschwimmen-und-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:19.228927+00:00"
+    },
+    "hopeless/hopeless_00377_manchmal-wünsch-ich-mir-einfac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:24.113404+00:00"
+    },
+    "hopeless/hopeless_00378_alles-was-ich-anfasse-zerfällt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:29.511708+00:00"
+    },
+    "hopeless/hopeless_00379_ich-rede-mir-ein-es-wird-schon.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:35.140021+00:00"
+    },
+    "hopeless/hopeless_00380_aber-tief-drin-weiß-ich-dass-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:40.082495+00:00"
+    },
+    "hopeless/hopeless_00381_die-zukunft-ein-schwarzes-loch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:44.991035+00:00"
+    },
+    "hopeless/hopeless_00382_selbst-die-sonne-scheint-heute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:32:49.966999+00:00"
+    },
+    "hopeless/hopeless_00384_warum-sollte-ich-morgen-aufste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:00.277366+00:00"
+    },
+    "hopeless/hopeless_00385_die-luft-ist-raus-und-ich-komm.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:33:02.026578+00:00"
+    },
+    "hopeless/hopeless_00386_alles-was-bleibt-ist-dieses-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:11.163075+00:00"
+    },
+    "hopeless/hopeless_00387_ich-geb-mir-keine-schuld-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:16.428813+00:00"
+    },
+    "hopeless/hopeless_00388_manchmal-frag-ich-mich-ob-es-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:33:19.943865+00:00"
+    },
+    "hopeless/hopeless_00389_die-welt-dreht-sich-weiter-nur.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:33:21.399499+00:00"
+    },
+    "hopeless/hopeless_00390_ich-will-nicht-mehr-denken-abe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:33:31.256536+00:00"
+    },
+    "hopeless/hopeless_00391_selbst-die-erinnerungen-fühlen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:36.096673+00:00"
+    },
+    "hopeless/hopeless_00392_es-ist-als-würde-ich-langsam-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:40.430654+00:00"
+    },
+    "hopeless/hopeless_00393_ich-such-nach-einem-grund-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:46.195132+00:00"
+    },
+    "hopeless/hopeless_00394_die-stille-ist-das-schlimmste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:51.324566+00:00"
+    },
+    "hopeless/hopeless_00395_ich-will-nicht-aufgeben-aber-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:33:56.631667+00:00"
+    },
+    "hopeless/hopeless_00397_ich-bin-müde-aber-schlafen-kan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:34:05.690877+00:00"
+    },
+    "hopeless/hopeless_00398_es-ist-egal-was-ich-tue-es-änd.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T09:34:10.815125+00:00"
+    },
+    "hopeless/hopeless_00400_der-himmel-ist-auch-nur-noch-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T09:34:12.265508+00:00"
+    },
+    "lethargic/lethargic_00001_ich-weiß-nicht-warum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:05.490393+00:00"
+    },
+    "lethargic/lethargic_00002_meine-stimme-fühlt-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:24:22.154230+00:00"
+    },
+    "lethargic/lethargic_00003_alles-ist-zu-schwer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:18.592943+00:00"
+    },
+    "lethargic/lethargic_00005_die-worte-kommen-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:26.241729+00:00"
+    },
+    "lethargic/lethargic_00006_warum-sollte-ich-übe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:24:28.830987+00:00"
+    },
+    "lethargic/lethargic_00009_es-ist-mir-egal-was.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:33.439070+00:00"
+    },
+    "lethargic/lethargic_00011_ich-habe-keine-lust.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:38.016772+00:00"
+    },
+    "lethargic/lethargic_00013_ich-könnte-stundenla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:42.854903+00:00"
+    },
+    "lethargic/lethargic_00014_meine-stimme-klingt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:47.323137+00:00"
+    },
+    "lethargic/lethargic_00015_ich-brauche-ewig-um.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:24:56.444019+00:00"
+    },
+    "lethargic/lethargic_00018_selbst-das-denken-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:01.167420+00:00"
+    },
+    "lethargic/lethargic_00022_alles-ist-zu-viel-se.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:06.309509+00:00"
+    },
+    "lethargic/lethargic_00023_meine-worte-kommen-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:10.222741+00:00"
+    },
+    "lethargic/lethargic_00024_ich-fühle-mich-wie-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:25:16.761834+00:00"
+    },
+    "lethargic/lethargic_00025_warum-muss-ich-überh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:22.974561+00:00"
+    },
+    "lethargic/lethargic_00026_meine-gedanken-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:28.094373+00:00"
+    },
+    "lethargic/lethargic_00027_ich-könnte-ewig-so-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:25:29.736113+00:00"
+    },
+    "lethargic/lethargic_00028_nichts-hat-mehr-bede.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:34.038337+00:00"
+    },
+    "lethargic/lethargic_00030_meine-stimme-bricht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:39.082274+00:00"
+    },
+    "lethargic/lethargic_00031_alles-ist-zu-laut-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:44.840699+00:00"
+    },
+    "lethargic/lethargic_00035_selbst-das-schlucken.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:49.715170+00:00"
+    },
+    "lethargic/lethargic_00037_meine-worte-sind-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:53.252224+00:00"
+    },
+    "lethargic/lethargic_00038_alles-fühlt-sich-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:25:57.098107+00:00"
+    },
+    "lethargic/lethargic_00039_ich-könnte-stundenla.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:25:58.550659+00:00"
+    },
+    "lethargic/lethargic_00040_meine-gedanken-komme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:04.171406+00:00"
+    },
+    "lethargic/lethargic_00042_alles-ist-grau-und-f.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:26:08.934846+00:00"
+    },
+    "lethargic/lethargic_00043_ich-spüre-meinen-her.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:12.794610+00:00"
+    },
+    "lethargic/lethargic_00044_warum-sollte-ich-mic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:26:14.618834+00:00"
+    },
+    "lethargic/lethargic_00045_meine-stimme-klingt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:19.736307+00:00"
+    },
+    "lethargic/lethargic_00047_alles-dauert-zu-lang.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:24.071367+00:00"
+    },
+    "lethargic/lethargic_00049_meine-worte-sind-lee.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:27.999565+00:00"
+    },
+    "lethargic/lethargic_00051_alles-fühlt-sich-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:31.482089+00:00"
+    },
+    "lethargic/lethargic_00055_selbst-das-lächeln-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:35.952504+00:00"
+    },
+    "lethargic/lethargic_00057_warum-muss-ich-überh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:39.469813+00:00"
+    },
+    "lethargic/lethargic_00059_alles-ist-zu-kompliz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:44.482695+00:00"
+    },
+    "lethargic/lethargic_00061_meine-worte-kommen-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-08T13:26:46.574918+00:00"
+    },
+    "lethargic/lethargic_00066_alles-fühlt-sich-unw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:50.744792+00:00"
+    },
+    "lethargic/lethargic_00068_meine-stimme-bricht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:54.225964+00:00"
+    },
+    "lethargic/lethargic_00071_alles-ist-zu-anstren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:26:58.815368+00:00"
+    },
+    "lethargic/lethargic_00072_meine-worte-sind-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:27:02.454394+00:00"
+    },
+    "lethargic/lethargic_00076_alles-fühlt-sich-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:27:06.305112+00:00"
+    },
+    "lethargic/lethargic_00079_selbst-das-atmen-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:27:10.263592+00:00"
+    },
+    "lethargic/lethargic_00082_alles-ist-zu-laut-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-08T13:27:15.604631+00:00"
     }
   }
 }
