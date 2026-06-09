@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-08T16:52:02.944795+00:00",
+  "updated_at": "2026-06-09T05:48:13.120315+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -20461,6 +20461,846 @@
     "mocking/mocking_00028_deine-ideen-sind-so.wav": {
       "decision": "rerender",
       "reviewed_at": "2026-06-08T16:52:02.944740+00:00"
+    },
+    "mocking/mocking_00029_oh-das-war-jetzt-abe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:29:31.926193+00:00"
+    },
+    "mocking/mocking_00030_dein-verständnis-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:29:42.831729+00:00"
+    },
+    "mocking/mocking_00033_deine-logik-ist-so-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:29:48.369228+00:00"
+    },
+    "mocking/mocking_00034_ach-du-willst-mir-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:29:53.276388+00:00"
+    },
+    "mocking/mocking_00035_deine-ausführung-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:29:58.776308+00:00"
+    },
+    "mocking/mocking_00037_deine-argumente-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:04.918353+00:00"
+    },
+    "mocking/mocking_00039_dein-plan-ist-so-dur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:09.287300+00:00"
+    },
+    "mocking/mocking_00040_ach-du-hast-dich-wir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:25.678950+00:00"
+    },
+    "mocking/mocking_00041_deine-lösung-ist-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:31.326966+00:00"
+    },
+    "mocking/mocking_00043_deine-ideen-sind-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:36.080213+00:00"
+    },
+    "mocking/mocking_00046_deine-logik-ist-so-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:41.506511+00:00"
+    },
+    "mocking/mocking_00048_deine-ausreden-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:47.138402+00:00"
+    },
+    "mocking/mocking_00050_dein-verständnis-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:53.344518+00:00"
+    },
+    "mocking/mocking_00052_dein-timing-ist-ja-p.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:30:58.393387+00:00"
+    },
+    "mocking/mocking_00054_deine-strategie-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:31:04.531558+00:00"
+    },
+    "mocking/mocking_00061_deine-ausführung-war.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:31:06.814671+00:00"
+    },
+    "mocking/mocking_00063_dein-verständnis-der.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:31:20.135263+00:00"
+    },
+    "mocking/mocking_00065_dein-plan-ist-so-dur.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:31:29.378358+00:00"
+    },
+    "mocking/mocking_00070_klar-und-morgen-wird.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:31:33.105163+00:00"
+    },
+    "mocking/mocking_00074_deine-ausreden-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:31:39.066137+00:00"
+    },
+    "mocking/mocking_00076_dein-verständnis-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:31:54.628138+00:00"
+    },
+    "mocking/mocking_00083_klar-und-ich-fliege.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:32:01.959423+00:00"
+    },
+    "mocking/mocking_00096_klar-und-morgen-wird.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:32:07.575204+00:00"
+    },
+    "mocking/mocking_00109_klar-und-ich-werde-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:32:28.308191+00:00"
+    },
+    "mocking/mocking_00177_du-hast-dir-wirklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:32:35.081252+00:00"
+    },
+    "mocking/mocking_00178_wenn-das-dein-ernst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:32:39.260997+00:00"
+    },
+    "mocking/mocking_00179_deine-kompetenz-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:32:44.798270+00:00"
+    },
+    "mocking/mocking_00180_ach-du-bist-also-der.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:32:52.356008+00:00"
+    },
+    "mocking/mocking_00181_dein-selbstbewusstse.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:07.453595+00:00"
+    },
+    "mocking/mocking_00184_deine-erklärungen-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:12.245423+00:00"
+    },
+    "mocking/mocking_00185_wenn-das-dein-plan-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:18.182272+00:00"
+    },
+    "mocking/mocking_00186_deine-argumentation.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:23.897411+00:00"
+    },
+    "mocking/mocking_00188_dein-verständnis-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:28.888378+00:00"
+    },
+    "mocking/mocking_00190_ich-staune-wie-du-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:34.103454+00:00"
+    },
+    "mocking/mocking_00192_wenn-das-dein-bestes.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:38.960157+00:00"
+    },
+    "mocking/mocking_00194_ach-du-hast-das-extr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:45.211618+00:00"
+    },
+    "mocking/mocking_00195_dein-timing-ist-perf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:50.593535+00:00"
+    },
+    "mocking/mocking_00198_deine-lösungen-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:33:55.906606+00:00"
+    },
+    "mocking/mocking_00199_wenn-das-dein-ernst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:00.533277+00:00"
+    },
+    "mocking/mocking_00202_dein-verständnis-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:06.655199+00:00"
+    },
+    "mocking/mocking_00213_wenn-das-dein-bestes.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:12.502403+00:00"
+    },
+    "mocking/mocking_00215_dein-verständnis-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:18.621529+00:00"
+    },
+    "mocking/mocking_00218_deine-lösungen-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:25.227848+00:00"
+    },
+    "mocking/mocking_00221_ach-du-hast-das-extr.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:34:37.582121+00:00"
+    },
+    "mocking/mocking_00222_dein-timing-ist-perf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:44.416626+00:00"
+    },
+    "mocking/mocking_00228_dein-verständnis-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:49.945067+00:00"
+    },
+    "mocking/mocking_00235_dein-talent-ist-so-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:34:52.548239+00:00"
+    },
+    "mocking/mocking_00242_dein-verständnis-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:34:59.415602+00:00"
+    },
+    "mocking/mocking_00243_schau-dir-das-mal-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:04.782741+00:00"
+    },
+    "mocking/mocking_00244_wie-hat-man-das-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:09.064627+00:00"
+    },
+    "mocking/mocking_00245_grossartige-darbietu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:14.154645+00:00"
+    },
+    "mocking/mocking_00246_dein-talent-ist-lege.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:19.457401+00:00"
+    },
+    "mocking/mocking_00247_na-da-bin-ich-aber-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:24.704927+00:00"
+    },
+    "mocking/mocking_00249_das-hat-ja-hervorrag.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:33.366153+00:00"
+    },
+    "mocking/mocking_00250_wieder-ein-meisterwe.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:35:35.581189+00:00"
+    },
+    "mocking/mocking_00251_schau-her-ich-habs-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:39.427140+00:00"
+    },
+    "mocking/mocking_00252_bitte-mehr-davon-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:35:41.357114+00:00"
+    },
+    "mocking/mocking_00253_ich-staune-jedes-mal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:45.666741+00:00"
+    },
+    "mocking/mocking_00254_was-fuer-ein-beeindr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:50.018459+00:00"
+    },
+    "mocking/mocking_00255_nein-wirklich-ich-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:54.797582+00:00"
+    },
+    "mocking/mocking_00257_herzlichen-glueckwun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:35:58.511916+00:00"
+    },
+    "mocking/mocking_00258_sehr-mutig-so-aufzut.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:36:01.499175+00:00"
+    },
+    "mocking/mocking_00259_ich-bin-tief-beeindr.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:36:05.260690+00:00"
+    },
+    "mocking/mocking_00261_schoen-wenn-alles-vo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:10.178634+00:00"
+    },
+    "mocking/mocking_00262_was-fuer-ein-plan-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:14.639275+00:00"
+    },
+    "mocking/mocking_00263_kein-einziger-fehler.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:18.121290+00:00"
+    },
+    "mocking/mocking_00265_dieser-auftritt-wird.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:22.094126+00:00"
+    },
+    "mocking/mocking_00266_sehr-originelle-hera.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:36.416701+00:00"
+    },
+    "mocking/mocking_00267_und-damit-hast-du-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:40.625863+00:00"
+    },
+    "mocking/mocking_00268_bitte-mach-weiter-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:44.777703+00:00"
+    },
+    "mocking/mocking_00269_kein-besseres-vorbil.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:51.820609+00:00"
+    },
+    "mocking/mocking_00271_mit-dieser-effizienz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:36:56.132488+00:00"
+    },
+    "mocking/mocking_00272_wieder-ein-glanzvoll.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:00.675500+00:00"
+    },
+    "mocking/mocking_00274_ueberraschend-zum-zw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:06.252125+00:00"
+    },
+    "mocking/mocking_00275_das-nennt-sich-stil.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:37:14.280675+00:00"
+    },
+    "mocking/mocking_00277_das-hat-sich-wunderb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:19.005527+00:00"
+    },
+    "mocking/mocking_00278_genau-so-haette-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:23.569816+00:00"
+    },
+    "mocking/mocking_00279_niemand-hat-so-viel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:28.165298+00:00"
+    },
+    "mocking/mocking_00280_was-fuer-eine-durchd.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:31.775704+00:00"
+    },
+    "mocking/mocking_00281_nicht-jeder-wuerde-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:35.300783+00:00"
+    },
+    "mocking/mocking_00282_ja-klar-das-war-so-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:38.825480+00:00"
+    },
+    "mocking/mocking_00283_was-fuer-eine-elegan.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:44.253259+00:00"
+    },
+    "mocking/mocking_00285_sehr-taktisch-das-mu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:47.521665+00:00"
+    },
+    "mocking/mocking_00286_ich-lerne-bei-jedem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:51.726313+00:00"
+    },
+    "mocking/mocking_00287_das-war-wieder-sehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:37:55.940432+00:00"
+    },
+    "mocking/mocking_00289_gut-gemacht-wirklich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:38:01.177231+00:00"
+    },
+    "mocking/mocking_00290_wie-man-bei-sowas-ru.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:05.808295+00:00"
+    },
+    "mocking/mocking_00292_wer-sowas-hinbekommt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:38:15.246390+00:00"
+    },
+    "mocking/mocking_00293_das-uebertrifft-mein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:19.857458+00:00"
+    },
+    "mocking/mocking_00294_nochmal-bitte-ich-ka.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:25.905974+00:00"
+    },
+    "mocking/mocking_00295_so-eine-bodenstaendi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:30.721067+00:00"
+    },
+    "mocking/mocking_00297_das-nennt-man-dann-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:35.237361+00:00"
+    },
+    "mocking/mocking_00298_ja-genau-so-stellt-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:38.815726+00:00"
+    },
+    "mocking/mocking_00299_ich-bin-hin-und-weg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:42.180670+00:00"
+    },
+    "mocking/mocking_00300_wieder-mal-die-richt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:45.880077+00:00"
+    },
+    "mocking/mocking_00301_aha-das-also-war-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:50.150952+00:00"
+    },
+    "mocking/mocking_00302_mit-deiner-methode-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:55.846953+00:00"
+    },
+    "mocking/mocking_00303_wieder-eine-glaenzen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:38:59.459730+00:00"
+    },
+    "mocking/mocking_00306_was-du-dabei-denkst.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:39:05.224175+00:00"
+    },
+    "mocking/mocking_00308_kein-wort-zu-viel-se.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:39:07.648970+00:00"
+    },
+    "mocking/mocking_00310_angemessene-reaktion.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:14.515293+00:00"
+    },
+    "mocking/mocking_00311_dein-einfluss-auf-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:25.237319+00:00"
+    },
+    "mocking/mocking_00312_man-muss-schon-sehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:29.703207+00:00"
+    },
+    "mocking/mocking_00313_alles-drin-was-man-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:34.282091+00:00"
+    },
+    "mocking/mocking_00315_ich-nehme-mir-das-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:40.747008+00:00"
+    },
+    "mocking/mocking_00316_nicht-jeder-schafft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:46.185024+00:00"
+    },
+    "mocking/mocking_00317_sehr-praezise-das-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:50.719511+00:00"
+    },
+    "mocking/mocking_00318_schoen-wenn-man-weis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:39:53.831570+00:00"
+    },
+    "mocking/mocking_00319_immer-wieder-dasselb.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:39:56.044271+00:00"
+    },
+    "mocking/mocking_00320_ich-warte-auf-die-po.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:01.047147+00:00"
+    },
+    "mocking/mocking_00321_wirklich-treffsicher.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:04.975874+00:00"
+    },
+    "mocking/mocking_00322_und-damit-haben-wir.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:40:06.689488+00:00"
+    },
+    "mocking/mocking_00325_so-ein-klarer-blick.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:10.830185+00:00"
+    },
+    "mocking/mocking_00326_alles-richtig-gemach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:15.585044+00:00"
+    },
+    "mocking/mocking_00327_du-hast-das-bestimmt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:19.521624+00:00"
+    },
+    "mocking/mocking_00328_was-fuer-eine-origin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:23.193776+00:00"
+    },
+    "mocking/mocking_00329_ja-das-stimmt-du-has.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:40:32.171084+00:00"
+    },
+    "mocking/mocking_00330_nicht-meine-methode.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:36.022674+00:00"
+    },
+    "mocking/mocking_00331_dein-sinn-fuer-das-p.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:41.346762+00:00"
+    },
+    "mocking/mocking_00332_und-wozu-das-jetzt-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:46.267151+00:00"
+    },
+    "mocking/mocking_00333_grosses-kino-heute-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:49.613095+00:00"
+    },
+    "mocking/mocking_00334_ich-staune-wie-du-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:54.108218+00:00"
+    },
+    "mocking/mocking_00335_was-fuer-eine-durchd.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:40:57.522735+00:00"
+    },
+    "mocking/mocking_00336_sehr-kluge-entscheid.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:01.480566+00:00"
+    },
+    "mocking/mocking_00337_wieder-haargenau-ins.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:05.389406+00:00"
+    },
+    "mocking/mocking_00338_natuerlich-war-das-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:09.669247+00:00"
+    },
+    "mocking/mocking_00340_niemand-ausser-dir-h.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:41:18.302309+00:00"
+    },
+    "mocking/mocking_00343_einfach-mal-machen-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:23.217286+00:00"
+    },
+    "mocking/mocking_00346_mal-sehen-ob-das-nae.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:34.490778+00:00"
+    },
+    "mocking/mocking_00347_wieder-ein-hoehepunk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:37.911168+00:00"
+    },
+    "mocking/mocking_00348_wie-du-das-immer-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:42.262838+00:00"
+    },
+    "mocking/mocking_00349_das-war-sicher-keine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:45.668761+00:00"
+    },
+    "mocking/mocking_00350_ich-werde-das-noch-l.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:41:57.642256+00:00"
+    },
+    "mocking/mocking_00351_mit-sicherheit-war-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:01.827879+00:00"
+    },
+    "mocking/mocking_00352_sehr-eindrucksvoll-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:06.364922+00:00"
+    },
+    "mocking/mocking_00353_ich-kann-meinen-auge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:11.042738+00:00"
+    },
+    "mocking/mocking_00354_das-nennt-sich-dann.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:14.536298+00:00"
+    },
+    "mocking/mocking_00355_dein-urteil-ist-unfe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:18.680267+00:00"
+    },
+    "mocking/mocking_00356_selten-sieht-man-sow.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:23.178079+00:00"
+    },
+    "mocking/mocking_00357_grossartig-auf-jede.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:27.329268+00:00"
+    },
+    "mocking/mocking_00358_was-fuer-eine-reakti.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:32.291521+00:00"
+    },
+    "mocking/mocking_00359_vielleicht-das-naech.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:36.707333+00:00"
+    },
+    "mocking/mocking_00360_ich-freue-mich-schon.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:40.629737+00:00"
+    },
+    "mocking/mocking_00361_was-fuer-ein-talent.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:44.871425+00:00"
+    },
+    "mocking/mocking_00363_ich-bin-sprachlos-eh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:53.159217+00:00"
+    },
+    "mocking/mocking_00364_kein-kommentar-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:42:59.021054+00:00"
+    },
+    "mocking/mocking_00366_nein-wirklich-das-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:03.373202+00:00"
+    },
+    "mocking/mocking_00367_wieder-einmal-alle-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:06.812125+00:00"
+    },
+    "mocking/mocking_00369_das-geht-mir-nicht-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:12.038103+00:00"
+    },
+    "mocking/mocking_00370_was-waere-das-fuer-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:17.042423+00:00"
+    },
+    "mocking/mocking_00371_sehr-tiefgruendig-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:21.660593+00:00"
+    },
+    "mocking/mocking_00372_was-fuer-eine-wendun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:25.633567+00:00"
+    },
+    "mocking/mocking_00373_ich-lerne-immer-dazu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:32.875619+00:00"
+    },
+    "mocking/mocking_00374_schoen-dass-du-uns-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:36.959249+00:00"
+    },
+    "mocking/mocking_00375_kein-zweifel-das-war.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:43:39.994817+00:00"
+    },
+    "mocking/mocking_00377_wieder-uebertroffen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:44.039698+00:00"
+    },
+    "mocking/mocking_00378_was-fuer-ein-ausblic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:48.228609+00:00"
+    },
+    "mocking/mocking_00379_nochmal-bitte-so-vie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:53.745279+00:00"
+    },
+    "mocking/mocking_00380_dein-selbstvertrauen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:43:57.945933+00:00"
+    },
+    "mocking/mocking_00382_immer-auf-dem-laufen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:02.853895+00:00"
+    },
+    "mocking/mocking_00383_wer-haette-gedacht-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:06.313069+00:00"
+    },
+    "mocking/mocking_00385_immer-eine-loesung-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:10.687135+00:00"
+    },
+    "mocking/mocking_00388_wirklich-kein-mensch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:44:16.067027+00:00"
+    },
+    "mocking/mocking_00389_immer-einen-kommenta.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:27.160712+00:00"
+    },
+    "mocking/mocking_00390_mit-der-richtigen-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:31.831651+00:00"
+    },
+    "mocking/mocking_00391_ich-bin-froh-dass-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:35.556645+00:00"
+    },
+    "mocking/mocking_00392_sehr-charakteristisc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:40.434622+00:00"
+    },
+    "mocking/mocking_00393_hervorragend-navigie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:45.501704+00:00"
+    },
+    "mocking/mocking_00394_kein-falscher-ton-ne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:49.937988+00:00"
+    },
+    "mocking/mocking_00396_wieder-eine-reaktion.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:44:54.769823+00:00"
+    },
+    "mocking/mocking_00397_was-du-dir-dabei-den.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:00.081690+00:00"
+    },
+    "mocking/mocking_00398_das-war-unerwartet-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:05.040293+00:00"
+    },
+    "mocking/mocking_00400_wieder-genau-das-geg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:09.176301+00:00"
+    },
+    "mocking/mocking_00401_noch-zehn-davon-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:14.294721+00:00"
+    },
+    "mocking/mocking_00403_uebertrumpfst-dich-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:17.937279+00:00"
+    },
+    "mocking/mocking_00404_nicht-schlecht-fuer.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:45:19.662815+00:00"
+    },
+    "mocking/mocking_00405_sehr-weise-entschied.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:23.789750+00:00"
+    },
+    "mocking/mocking_00406_wirklich-hervorragen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:28.175296+00:00"
+    },
+    "mocking/mocking_00408_sehr-originell-wirkl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:32.861686+00:00"
+    },
+    "mocking/mocking_00409_das-hat-mich-sprachl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:36.831154+00:00"
+    },
+    "mocking/mocking_00410_ich-bin-baff-und-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:42.124080+00:00"
+    },
+    "mocking/mocking_00411_natuerlich-natuerlic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:47.344009+00:00"
+    },
+    "mocking/mocking_00412_toll-gemacht-wirklic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:53.014659+00:00"
+    },
+    "mocking/mocking_00413_so-einen-experten-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:45:58.726772+00:00"
+    },
+    "mocking/mocking_00414_schoen-dass-du-wei-t.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:03.642073+00:00"
+    },
+    "mocking/mocking_00415_wer-sonst-als-du-koe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:08.705964+00:00"
+    },
+    "mocking/mocking_00417_schau-mal-wer-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:11.993477+00:00"
+    },
+    "mocking/mocking_00418_das-nennst-du-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:16.690345+00:00"
+    },
+    "mocking/mocking_00419_schau-an-das-große.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:20.733160+00:00"
+    },
+    "mocking/mocking_00420_lass-mich-raten-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:25.702278+00:00"
+    },
+    "mocking/mocking_00422_ja-mach-weiter-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:29.892097+00:00"
+    },
+    "mocking/mocking_00423_der-traut-sich-was.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:34.382174+00:00"
+    },
+    "mocking/mocking_00424_dafür-klopfst-du-dir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:38.983119+00:00"
+    },
+    "mocking/mocking_00425_na-komm-das-kannst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:44.316491+00:00"
+    },
+    "mocking/mocking_00428_das-ist-dein-großer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:49.149119+00:00"
+    },
+    "mocking/mocking_00429_oh-man-das-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:46:53.985434+00:00"
+    },
+    "mocking/mocking_00430_schau-mal-er-hat.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:47:04.448951+00:00"
+    },
+    "mocking/mocking_00433_wirklich-beeindruckend-ich-sage.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:47:08.946542+00:00"
+    },
+    "mocking/mocking_00434_herzlichen-glückwunsch-zu-dieser.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:47:13.199673+00:00"
+    },
+    "mocking/mocking_00435_na-der-kommt-weit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:47:18.417691+00:00"
+    },
+    "mocking/mocking_00437_natuerlich-erklaere-du-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:47:23.770772+00:00"
+    },
+    "mocking/mocking_00438_toll-wieder-eine-bahnbrechende.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:47:27.873805+00:00"
+    },
+    "mocking/mocking_00439_sieh-mal-an-er.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:47:33.039860+00:00"
+    },
+    "mocking/mocking_00441_dein-neuer-haarschnitt-sieht-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:47:35.001590+00:00"
+    },
+    "mocking/mocking_00442_natürlich-genau-das-war-der-pl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:47:41.719470+00:00"
+    },
+    "mocking/mocking_00443_deine-kochkünste-sind-ja-fast.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:47:43.753139+00:00"
+    },
+    "mocking/mocking_00444_wow-du-hast-tatsächlich-die-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:47:59.422013+00:00"
+    },
+    "mocking/mocking_00445_dein-musikgeschmack-ist-so-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:48:01.097556+00:00"
+    },
+    "mocking/mocking_00446_ah-du-willst-jetzt-über-gefühl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-09T05:48:10.612445+00:00"
+    },
+    "mocking/mocking_00449_deine-selbstkritik-ist-ja-fast.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-09T05:48:13.120228+00:00"
     }
   }
 }
