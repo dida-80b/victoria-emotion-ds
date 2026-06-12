@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-12T12:21:37.651091+00:00",
+  "updated_at": "2026-06-12T12:27:26.913925+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -23757,6 +23757,50 @@
     "proud/proud_00234_deine-ausdauer-beim.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-12T12:21:37.651042+00:00"
+    },
+    "proud/proud_00235_dass-du-dich-nie-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:26:01.697278+00:00"
+    },
+    "proud/proud_00236_dein-organisationsta.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:26:08.527972+00:00"
+    },
+    "proud/proud_00238_deine-fähigkeit-auch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:26:26.690884+00:00"
+    },
+    "proud/proud_00239_dass-du-diese-prüfun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:26:32.337771+00:00"
+    },
+    "proud/proud_00240_dein-gespür-für-gute.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:26:44.676573+00:00"
+    },
+    "proud/proud_00241_es-ist-beeindruckend.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:26:50.834797+00:00"
+    },
+    "proud/proud_00242_deine-bereitschaft-v.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:26:57.684952+00:00"
+    },
+    "proud/proud_00243_dass-du-trotz-deiner.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:27:04.522251+00:00"
+    },
+    "proud/proud_00244_dein-musikalisches-t.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:27:09.812425+00:00"
+    },
+    "proud/proud_00245_ich-finde-es-toll-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:27:17.925336+00:00"
+    },
+    "proud/proud_00246_deine-fähigkeit-auch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:27:26.913872+00:00"
     }
   }
 }
