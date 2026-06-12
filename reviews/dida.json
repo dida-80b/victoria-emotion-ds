@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-12T06:52:49.211918+00:00",
+  "updated_at": "2026-06-12T07:39:30.649974+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -22921,6 +22921,286 @@
     "pleading/pleading_00346_kein-vorwurf-keine-f.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-12T06:52:49.211843+00:00"
+    },
+    "pleading/pleading_00347_ich-sage-es-so-ehrli.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:32:32.799777+00:00"
+    },
+    "pleading/pleading_00348_nicht-schwach-zu-sei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:32:38.083679+00:00"
+    },
+    "pleading/pleading_00349_lass-das-hier-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:32:43.690593+00:00"
+    },
+    "pleading/pleading_00350_ich-rechne-dir-das-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:32:49.427653+00:00"
+    },
+    "pleading/pleading_00351_gib-mir-einen-weg-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:32:55.698585+00:00"
+    },
+    "pleading/pleading_00352_ich-komme-nicht-mit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:01.895700+00:00"
+    },
+    "pleading/pleading_00353_das-beste-was-du-jet.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:06.155075+00:00"
+    },
+    "pleading/pleading_00354_ich-bitte-einmal-im.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:11.091615+00:00"
+    },
+    "pleading/pleading_00355_einer-von-uns-muss-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:16.524024+00:00"
+    },
+    "pleading/pleading_00357_lass-mich-nicht-mit.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:33:27.374178+00:00"
+    },
+    "pleading/pleading_00358_kein-letzter-versuch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:33.813371+00:00"
+    },
+    "pleading/pleading_00359_was-du-jetzt-entsche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:33:41.659977+00:00"
+    },
+    "pleading/pleading_00360_ich-warte-auf-ein-ze.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:48.413636+00:00"
+    },
+    "pleading/pleading_00361_ich-fluestre-damit-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:53.230176+00:00"
+    },
+    "pleading/pleading_00362_hoer-bitte-auf-mit-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:33:57.611579+00:00"
+    },
+    "pleading/pleading_00363_ich-tue-das-fuer-uns.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:00.942584+00:00"
+    },
+    "pleading/pleading_00364_bitte-glaub-mir-auch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:07.196236+00:00"
+    },
+    "pleading/pleading_00367_ich-gehe-nicht-bevor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:11.103052+00:00"
+    },
+    "pleading/pleading_00368_was-ich-von-dir-brau.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:16.034055+00:00"
+    },
+    "pleading/pleading_00369_ich-akzeptiere-jedes.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:34:27.959554+00:00"
+    },
+    "pleading/pleading_00370_bleib-einfach-ruhig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:33.494375+00:00"
+    },
+    "pleading/pleading_00371_du-hast-die-macht-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:38.493293+00:00"
+    },
+    "pleading/pleading_00372_ich-sage-es-leise-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:47.658445+00:00"
+    },
+    "pleading/pleading_00374_ich-brauche-nur-dein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:52.411643+00:00"
+    },
+    "pleading/pleading_00375_mit-allem-was-ich-bi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:34:58.624243+00:00"
+    },
+    "pleading/pleading_00376_lass-uns-noch-einmal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:02.484880+00:00"
+    },
+    "pleading/pleading_00377_ich-werde-das-nie-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:07.627546+00:00"
+    },
+    "pleading/pleading_00378_bitte-stell-das-nich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:13.410232+00:00"
+    },
+    "pleading/pleading_00379_nur-dieses-eine-mal.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:35:15.403859+00:00"
+    },
+    "pleading/pleading_00380_von-ganzem-herzen-bi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:20.340606+00:00"
+    },
+    "pleading/pleading_00381_gib-mir-eine-chance.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:24.792247+00:00"
+    },
+    "pleading/pleading_00382_tu-es-fuer-uns-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:37.018504+00:00"
+    },
+    "pleading/pleading_00384_warte-noch-geh-noch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:41.591987+00:00"
+    },
+    "pleading/pleading_00385_hoer-mir-bis-zum-end.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:35:46.907340+00:00"
+    },
+    "pleading/pleading_00386_bitte-verurteile-mic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:35:56.087619+00:00"
+    },
+    "pleading/pleading_00387_sieh-mir-in-die-auge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:36:06.277379+00:00"
+    },
+    "pleading/pleading_00388_sag-mir-dass-du-bl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:11.679667+00:00"
+    },
+    "pleading/pleading_00389_leg-die-hand-auf-mei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:18.087584+00:00"
+    },
+    "pleading/pleading_00390_dein-ja-ist-das-einz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:22.901310+00:00"
+    },
+    "pleading/pleading_00391_stell-dir-vor-du-wae.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:28.909095+00:00"
+    },
+    "pleading/pleading_00392_ein-letztes-mal-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:35.995552+00:00"
+    },
+    "pleading/pleading_00395_tu-das-für-mich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:40.650890+00:00"
+    },
+    "pleading/pleading_00396_lass-mich-das-erklären.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:44.705966+00:00"
+    },
+    "pleading/pleading_00397_ich-werde-alles-tun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:36:50.195228+00:00"
+    },
+    "pleading/pleading_00399_schick-mich-nicht-weg.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:37:00.446542+00:00"
+    },
+    "pleading/pleading_00400_bitte-vergib-mir-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:37:05.139071+00:00"
+    },
+    "pleading/pleading_00402_bitte-nur-einmal-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:37:21.434497+00:00"
+    },
+    "pleading/pleading_00404_lass-mich-das-erklaeren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:37:26.560764+00:00"
+    },
+    "pleading/pleading_00405_kannst-du-nicht-einfach-mal-fü.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:37:29.865783+00:00"
+    },
+    "pleading/pleading_00406_ich-schwöre-dir-ich-machs-nie.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:37:35.823910+00:00"
+    },
+    "pleading/pleading_00407_wenn-du-jetzt-gehst-weiß-ich-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:37:40.240290+00:00"
+    },
+    "pleading/pleading_00408_bitte-lass-uns-nicht-so-ausein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:37:42.146850+00:00"
+    },
+    "pleading/pleading_00409_ich-flehe-dich-an-sag-mir-weni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:37:51.823658+00:00"
+    },
+    "pleading/pleading_00410_können-wir-nicht-einfach-reden.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:37:56.646181+00:00"
+    },
+    "pleading/pleading_00411_ich-brauche-dich-jetzt-bitte-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:02.049432+00:00"
+    },
+    "pleading/pleading_00412_versuch-doch-mal-es-aus-meiner.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:08.779232+00:00"
+    },
+    "pleading/pleading_00413_ich-tu-alles-was-du-willst-nur.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:14.681905+00:00"
+    },
+    "pleading/pleading_00414_bitte-schick-mich-nicht-weg-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:19.917782+00:00"
+    },
+    "pleading/pleading_00415_kannst-du-nicht-wenigstens-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:27.757613+00:00"
+    },
+    "pleading/pleading_00416_ich-weiß-ich-hab-mist-gebaut-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:33.377181+00:00"
+    },
+    "pleading/pleading_00417_bitte-hör-auf-zu-schreien-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:38.211284+00:00"
+    },
+    "pleading/pleading_00418_wenn-du-mich-wirklich-liebst-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:38:42.525693+00:00"
+    },
+    "pleading/pleading_00419_ich-kann-nicht-mehr-bitte-nimm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:46.542014+00:00"
+    },
+    "pleading/pleading_00420_bitte-lass-uns-nicht-streiten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:52.509349+00:00"
+    },
+    "pleading/pleading_00421_kannst-du-nicht-mal-eine-ausna.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:38:56.513134+00:00"
+    },
+    "pleading/pleading_00422_ich-geb-dir-mein-wort-dass-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:39:02.053401+00:00"
+    },
+    "pleading/pleading_00423_bitte-geh-nicht-ich-verspreche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:39:06.894839+00:00"
+    },
+    "pleading/pleading_00424_ich-weiß-nicht-wie-ich-das-ohn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:39:11.200197+00:00"
+    },
+    "pleading/pleading_00425_bitte-sag-nicht-dass-alles-vor.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T07:39:25.368620+00:00"
+    },
+    "pleading/pleading_00426_kannst-du-nicht-wenigstens-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T07:39:30.649914+00:00"
     }
   }
 }
