@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-12T07:49:10.597549+00:00",
+  "updated_at": "2026-06-12T12:21:37.651091+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -23281,6 +23281,482 @@
     "proud/proud_00022_du-hast-dich-selbst.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-12T07:49:10.597491+00:00"
+    },
+    "proud/proud_00023_ich-bin-so-froh-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:31.389923+00:00"
+    },
+    "proud/proud_00024_dein-talent-ist-einf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:35.879158+00:00"
+    },
+    "proud/proud_00025_das-war-eine-echte-t.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:40.104755+00:00"
+    },
+    "proud/proud_00026_ich-wusste-du-würdes.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:43.830517+00:00"
+    },
+    "proud/proud_00027_deine-disziplin-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:47.501567+00:00"
+    },
+    "proud/proud_00028_das-ist-ein-ergebnis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:51.044703+00:00"
+    },
+    "proud/proud_00029_ich-bin-tief-beeindr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:54.524022+00:00"
+    },
+    "proud/proud_00030_du-hast-alles-richti.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:10:58.754780+00:00"
+    },
+    "proud/proud_00031_das-war-eine-absolut.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:02.466258+00:00"
+    },
+    "proud/proud_00033_dein-engagement-hat.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:11:11.672417+00:00"
+    },
+    "proud/proud_00036_ich-bin-so-stolz-dar.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:22.257389+00:00"
+    },
+    "proud/proud_00037_dein-erfolg-ist-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:26.616074+00:00"
+    },
+    "proud/proud_00039_ich-kann-kaum-glaube.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:31.899720+00:00"
+    },
+    "proud/proud_00040_deine-leistung-spric.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:36.474624+00:00"
+    },
+    "proud/proud_00042_das-ist-ein-erfolg-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:40.350976+00:00"
+    },
+    "proud/proud_00044_ich-bewundere-deine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:44.520832+00:00"
+    },
+    "proud/proud_00058_das-ist-ein-meilenst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:48.409235+00:00"
+    },
+    "proud/proud_00070_dein-projekt-verdien.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:54.258262+00:00"
+    },
+    "proud/proud_00073_dein-vortrag-war-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:11:59.891271+00:00"
+    },
+    "proud/proud_00074_du-hast-den-wettbewe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:04.351164+00:00"
+    },
+    "proud/proud_00075_dieser-preis-ist-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:09.236355+00:00"
+    },
+    "proud/proud_00077_deine-präsentation-h.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:12:19.239725+00:00"
+    },
+    "proud/proud_00078_das-war-nicht-glück.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:23.927466+00:00"
+    },
+    "proud/proud_00079_dein-engagement-für.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:28.936998+00:00"
+    },
+    "proud/proud_00080_ich-wünschte-ich-hät.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:33.558465+00:00"
+    },
+    "proud/proud_00081_deine-lösung-war-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:37.726500+00:00"
+    },
+    "proud/proud_00082_du-hast-bewiesen-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:49.418936+00:00"
+    },
+    "proud/proud_00083_dieser-moment-gehört.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:54.141859+00:00"
+    },
+    "proud/proud_00084_deine-kreativität-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:12:58.347637+00:00"
+    },
+    "proud/proud_00085_ich-habe-selten-jema.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:13:02.554916+00:00"
+    },
+    "proud/proud_00086_dein-erfolg-ist-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:13:07.285897+00:00"
+    },
+    "proud/proud_00087_die-jury-war-sich-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:13:12.180917+00:00"
+    },
+    "proud/proud_00088_deine-ideen-haben-da.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:13:30.063708+00:00"
+    },
+    "proud/proud_00089_ich-bin-froh-dass-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:13:34.192018+00:00"
+    },
+    "proud/proud_00090_dein-durchblick-in-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:13:44.477447+00:00"
+    },
+    "proud/proud_00091_du-hast-nicht-nur-te.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:13:50.464086+00:00"
+    },
+    "proud/proud_00091_ich-freue-mich-so-fü.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:13:54.672626+00:00"
+    },
+    "proud/proud_00092_deine-rede-hat-alle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:13:58.496342+00:00"
+    },
+    "proud/proud_00094_dein-talent-für-deta.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:02.415960+00:00"
+    },
+    "proud/proud_00095_du-hast-gezeigt-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:06.404347+00:00"
+    },
+    "proud/proud_00096_das-war-eine-echte-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:17.207277+00:00"
+    },
+    "proud/proud_00096_deine-ausdauer-in-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:22.183929+00:00"
+    },
+    "proud/proud_00097_ich-bin-sicher-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:26.770462+00:00"
+    },
+    "proud/proud_00098_dein-beitrag-hat-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:29.798390+00:00"
+    },
+    "proud/proud_00098_dein-durchhaltevermö.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:34.409619+00:00"
+    },
+    "proud/proud_00099_das-ist-ein-ergebnis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:37.857050+00:00"
+    },
+    "proud/proud_00099_du-hast-nicht-nur-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:42.722497+00:00"
+    },
+    "proud/proud_00100_deine-vision-hat-uns.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:14:50.593291+00:00"
+    },
+    "proud/proud_00100_ich-bin-wirklich-sto.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:54.578487+00:00"
+    },
+    "proud/proud_00101_ich-bin-stolz-darauf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:14:58.748097+00:00"
+    },
+    "proud/proud_00102_deine-fähigkeit-mens.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:15:13.142954+00:00"
+    },
+    "proud/proud_00102_man-sieht-sofort-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:15:17.697995+00:00"
+    },
+    "proud/proud_00103_das-war-eine-leistun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:15:23.055663+00:00"
+    },
+    "proud/proud_00103_du-hast-den-nagel-au.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:15:28.783265+00:00"
+    },
+    "proud/proud_00104_dein-einsatz-für-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:15:35.176076+00:00"
+    },
+    "proud/proud_00106_deine-arbeit-spricht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:15:40.191864+00:00"
+    },
+    "proud/proud_00108_dein-erfolg-ist-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:15:48.070831+00:00"
+    },
+    "proud/proud_00109_ich-bin-begeistert-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:15:52.391956+00:00"
+    },
+    "proud/proud_00110_deine-innovationen-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:15:57.896000+00:00"
+    },
+    "proud/proud_00111_du-hast-bewiesen-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:02.257946+00:00"
+    },
+    "proud/proud_00112_dein-engagement-für.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:06.414521+00:00"
+    },
+    "proud/proud_00112_deine-disziplin-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:10.028692+00:00"
+    },
+    "proud/proud_00113_ich-bin-froh-dass-du.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:16:18.196528+00:00"
+    },
+    "proud/proud_00114_deine-lösung-war-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:21.979636+00:00"
+    },
+    "proud/proud_00116_deine-präsenz-in-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:27.265925+00:00"
+    },
+    "proud/proud_00118_dein-projekt-wird-no.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:31.134173+00:00"
+    },
+    "proud/proud_00119_du-hast-gezeigt-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:35.527888+00:00"
+    },
+    "proud/proud_00120_deine-hartnäckigkeit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:39.015934+00:00"
+    },
+    "proud/proud_00121_ich-bin-stolz-darauf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:42.796969+00:00"
+    },
+    "proud/proud_00122_dein-erfolg-ist-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:16:52.274065+00:00"
+    },
+    "proud/proud_00124_das-ergebnis-spricht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:16:56.234263+00:00"
+    },
+    "proud/proud_00124_deine-fähigkeit-mens.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:01.205816+00:00"
+    },
+    "proud/proud_00125_ich-bin-sicher-dass.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:17:10.984576+00:00"
+    },
+    "proud/proud_00126_dein-beitrag-hat-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:15.741923+00:00"
+    },
+    "proud/proud_00128_deine-arbeit-ist-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:20.236695+00:00"
+    },
+    "proud/proud_00130_dein-durchhaltevermö.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:24.897431+00:00"
+    },
+    "proud/proud_00136_deine-präsentation-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:30.701109+00:00"
+    },
+    "proud/proud_00138_dein-einsatz-für-gle.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:35.280846+00:00"
+    },
+    "proud/proud_00140_deine-fähigkeit-komp.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:40.533132+00:00"
+    },
+    "proud/proud_00141_ich-bin-begeistert-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:44.848074+00:00"
+    },
+    "proud/proud_00142_dein-projekt-wird-no.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:48.583998+00:00"
+    },
+    "proud/proud_00144_deine-kreativität-ke.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:52.688877+00:00"
+    },
+    "proud/proud_00148_deine-arbeit-ist-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:17:56.523957+00:00"
+    },
+    "proud/proud_00150_dein-durchsetzungsve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:00.374570+00:00"
+    },
+    "proud/proud_00152_deine-ideen-haben-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:03.539316+00:00"
+    },
+    "proud/proud_00154_dein-beitrag-hat-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:08.459122+00:00"
+    },
+    "proud/proud_00158_dein-erfolg-ist-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:12.911706+00:00"
+    },
+    "proud/proud_00160_deine-präsentation-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:17.647668+00:00"
+    },
+    "proud/proud_00162_dein-einsatz-für-soz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:25.430238+00:00"
+    },
+    "proud/proud_00164_deine-fähigkeit-lösu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:30.201078+00:00"
+    },
+    "proud/proud_00165_ich-bin-begeistert-v.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:18:37.656280+00:00"
+    },
+    "proud/proud_00168_deine-kreativität-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:41.467231+00:00"
+    },
+    "proud/proud_00174_dein-durchhaltevermö.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:18:50.953031+00:00"
+    },
+    "proud/proud_00178_dein-beitrag-hat-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:18:55.437603+00:00"
+    },
+    "proud/proud_00182_dein-erfolg-ist-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:00.423232+00:00"
+    },
+    "proud/proud_00186_dein-einsatz-für-umw.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:05.298048+00:00"
+    },
+    "proud/proud_00188_deine-fähigkeit-prob.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:10.113006+00:00"
+    },
+    "proud/proud_00197_dein-durchsetzungsve.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:19:15.930283+00:00"
+    },
+    "proud/proud_00207_dein-einsatz-für-men.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:21.079108+00:00"
+    },
+    "proud/proud_00209_deine-fähigkeit-lösu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T12:19:27.458621+00:00"
+    },
+    "proud/proud_00213_deine-präsentation-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:33.420797+00:00"
+    },
+    "proud/proud_00214_dieses-projekt-hätte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:38.059834+00:00"
+    },
+    "proud/proud_00215_ich-habe-selten-jema.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:44.030054+00:00"
+    },
+    "proud/proud_00216_dein-engagement-für.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:50.263922+00:00"
+    },
+    "proud/proud_00217_dass-du-das-studium.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:19:56.876527+00:00"
+    },
+    "proud/proud_00219_deine-kreativität-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:02.887437+00:00"
+    },
+    "proud/proud_00220_es-ist-bewundernswer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:08.565731+00:00"
+    },
+    "proud/proud_00221_dein-mut-dich-gegen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:14.077867+00:00"
+    },
+    "proud/proud_00222_dass-du-diese-schwie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:20.014847+00:00"
+    },
+    "proud/proud_00223_die-geduld-mit-der-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:32.384683+00:00"
+    },
+    "proud/proud_00224_dein-blick-für-detai.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:37.903255+00:00"
+    },
+    "proud/proud_00227_dass-du-trotz-deiner.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:43.227035+00:00"
+    },
+    "proud/proud_00229_dein-einsatz-für-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:49.039674+00:00"
+    },
+    "proud/proud_00230_ich-bewundere-wie-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:20:54.237931+00:00"
+    },
+    "proud/proud_00231_dass-du-diese-heraus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:21:07.790706+00:00"
+    },
+    "proud/proud_00231_deine-leistung-spric.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:21:13.446035+00:00"
+    },
+    "proud/proud_00232_deine-analytischen-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:21:20.737324+00:00"
+    },
+    "proud/proud_00233_es-ist-erstaunlich-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:21:26.608254+00:00"
+    },
+    "proud/proud_00234_deine-ausdauer-beim.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T12:21:37.651042+00:00"
     }
   }
 }
