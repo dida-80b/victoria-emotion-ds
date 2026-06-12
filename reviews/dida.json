@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-12T12:43:24.542335+00:00",
+  "updated_at": "2026-06-12T13:30:26.704939+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -23825,6 +23825,342 @@
     "proud/proud_00252_besser-haette-es-nic.wav": {
       "decision": "rerender",
       "reviewed_at": "2026-06-12T12:43:24.542254+00:00"
+    },
+    "proud/proud_00253_ich-sage-es-laut-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:22:59.185480+00:00"
+    },
+    "proud/proud_00254_wenn-ich-sehe-was-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:04.914598+00:00"
+    },
+    "proud/proud_00255_du-hast-nicht-aufgeg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:10.158961+00:00"
+    },
+    "proud/proud_00256_sieh-dich-an-das-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:14.149741+00:00"
+    },
+    "proud/proud_00257_niemand-hat-das-leic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:23:19.600449+00:00"
+    },
+    "proud/proud_00258_was-fuer-ein-weg-was.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:23.818874+00:00"
+    },
+    "proud/proud_00260_du-hattest-recht-dam.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:23:26.208578+00:00"
+    },
+    "proud/proud_00262_das-ergebnis-spiegel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:31.037863+00:00"
+    },
+    "proud/proud_00263_ich-freue-mich-aufri.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:35.656924+00:00"
+    },
+    "proud/proud_00264_schau-wie-weit-du-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:39.652447+00:00"
+    },
+    "proud/proud_00265_heute-gehoert-dir-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:44.124570+00:00"
+    },
+    "proud/proud_00266_dein-name-wird-mit-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:48.463371+00:00"
+    },
+    "proud/proud_00268_mach-dir-keine-sorge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:52.082627+00:00"
+    },
+    "proud/proud_00269_was-du-geleistet-has.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:23:56.270210+00:00"
+    },
+    "proud/proud_00270_tapfer-ausdauernd-er.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:00.481090+00:00"
+    },
+    "proud/proud_00271_jeder-in-diesem-raum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:04.572103+00:00"
+    },
+    "proud/proud_00272_du-hast-den-beweis-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:09.985413+00:00"
+    },
+    "proud/proud_00273_selten-sehe-ich-jema.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:14.612240+00:00"
+    },
+    "proud/proud_00274_steh-gerade-du-hast.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:18.407393+00:00"
+    },
+    "proud/proud_00275_deinen-mut-im-schwie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:23.394090+00:00"
+    },
+    "proud/proud_00276_was-du-aufgebaut-has.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:36.536455+00:00"
+    },
+    "proud/proud_00277_ich-schaue-auf-das-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:41.269435+00:00"
+    },
+    "proud/proud_00278_jemand-muss-es-sagen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:44.629787+00:00"
+    },
+    "proud/proud_00279_ohne-dein-durchhalte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:49.288233+00:00"
+    },
+    "proud/proud_00280_herzlichen-glueckwun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:24:53.953861+00:00"
+    },
+    "proud/proud_00281_nicht-der-einfachste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:00.317297+00:00"
+    },
+    "proud/proud_00282_ich-bin-genauso-stol.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:04.270987+00:00"
+    },
+    "proud/proud_00284_diese-leistung-ist-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:08.662286+00:00"
+    },
+    "proud/proud_00285_wer-am-anfang-noch-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:12.830982+00:00"
+    },
+    "proud/proud_00286_zeig-das-ruhig-du-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:17.505955+00:00"
+    },
+    "proud/proud_00287_nicht-vergessen-du-h.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:25:22.814091+00:00"
+    },
+    "proud/proud_00288_was-heute-passiert-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:26.255783+00:00"
+    },
+    "proud/proud_00289_ich-haette-nicht-ged.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:30.461095+00:00"
+    },
+    "proud/proud_00290_hut-ab-wirklich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:35.510440+00:00"
+    },
+    "proud/proud_00291_du-bist-nicht-nur-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:40.247815+00:00"
+    },
+    "proud/proud_00292_dein-bestes-gegeben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:45.977953+00:00"
+    },
+    "proud/proud_00293_wer-so-kaempft-wie-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:50.827447+00:00"
+    },
+    "proud/proud_00294_manche-traeumen-davo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:25:55.293169+00:00"
+    },
+    "proud/proud_00295_ich-trage-deinen-erf.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:26:06.412553+00:00"
+    },
+    "proud/proud_00296_heute-trage-ich-dein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:11.249568+00:00"
+    },
+    "proud/proud_00297_mit-stolz-erzaehle-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:15.335360+00:00"
+    },
+    "proud/proud_00298_auf-dich-du-hast-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:19.725479+00:00"
+    },
+    "proud/proud_00299_wenn-es-je-einen-mom.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:24.245489+00:00"
+    },
+    "proud/proud_00300_nicht-aufgeben-war-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:29.388118+00:00"
+    },
+    "proud/proud_00301_fuer-das-was-du-erre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:33.963502+00:00"
+    },
+    "proud/proud_00302_der-weg-war-schwer-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:39.478593+00:00"
+    },
+    "proud/proud_00304_jeder-schweisstropfe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:43.107280+00:00"
+    },
+    "proud/proud_00305_niemand-verdient-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:46.825733+00:00"
+    },
+    "proud/proud_00306_ruhig-und-stark-so-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:52.192217+00:00"
+    },
+    "proud/proud_00307_stell-dich-morgen-no.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:26:57.782725+00:00"
+    },
+    "proud/proud_00308_lauter-applaus-fuer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:03.190784+00:00"
+    },
+    "proud/proud_00309_wer-anderen-hilft-un.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:27:07.310740+00:00"
+    },
+    "proud/proud_00310_selten-erlebe-ich-je.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:11.577716+00:00"
+    },
+    "proud/proud_00311_dein-erfolg-motivier.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:15.858254+00:00"
+    },
+    "proud/proud_00313_traenen-vor-stolz-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:20.768255+00:00"
+    },
+    "proud/proud_00314_das-hier-ist-erst-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:25.458125+00:00"
+    },
+    "proud/proud_00315_wir-alle-haben-auf-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:29.333076+00:00"
+    },
+    "proud/proud_00316_keine-falsche-besche.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:27:34.974850+00:00"
+    },
+    "proud/proud_00317_beim-naechsten-mal-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:38.683130+00:00"
+    },
+    "proud/proud_00318_du-hast-gesaet-und-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:27:43.130963+00:00"
+    },
+    "proud/proud_00319_mehr-hingabe-und-ent.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:01.471500+00:00"
+    },
+    "proud/proud_00320_was-du-aufgebaut-has.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:05.427387+00:00"
+    },
+    "proud/proud_00321_ich-weine-nicht-nein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:11.171654+00:00"
+    },
+    "proud/proud_00322_niemals-aufgeben-hat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:15.445479+00:00"
+    },
+    "proud/proud_00323_ich-haette-nie-gedac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:20.941473+00:00"
+    },
+    "proud/proud_00325_mit-jedem-schritt-ha.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:28:25.209108+00:00"
+    },
+    "proud/proud_00326_viele-haben-gesagt-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:30.506633+00:00"
+    },
+    "proud/proud_00327_stolz-bin-ich-auf-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:34.930051+00:00"
+    },
+    "proud/proud_00328_was-ich-aufgebaut-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:39.671301+00:00"
+    },
+    "proud/proud_00329_genau-das-ist-es-wof.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:45.573418+00:00"
+    },
+    "proud/proud_00330_kein-rueckschlag-hat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:49.720840+00:00"
+    },
+    "proud/proud_00331_tragen-kann-ich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:54.050480+00:00"
+    },
+    "proud/proud_00332_wer-hart-genug-arbei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:28:59.737905+00:00"
+    },
+    "proud/proud_00333_aller-muehe-zum-trot.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:29:03.645889+00:00"
+    },
+    "proud/proud_00334_darauf-bin-ich-stolz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:29:08.099862+00:00"
+    },
+    "proud/proud_00335_fest-steht-das-hat-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:29:13.422776+00:00"
+    },
+    "proud/proud_00336_zeigen-kann-ich-jetz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:29:41.634357+00:00"
+    },
+    "proud/proud_00338_das-war-harte-arbeit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:29:45.946122+00:00"
+    },
+    "proud/proud_00339_ich-bin-stolz-darauf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:29:50.122271+00:00"
+    },
+    "proud/proud_00340_dieses-gefühl-wenn-man.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-12T13:29:53.902871+00:00"
+    },
+    "proud/proud_00341_endlich-hab-ich-den-code-hinge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:29:58.221101+00:00"
+    },
+    "proud/proud_00342_meine-kleine-hat-ihr-erstes-bi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:30:04.273903+00:00"
+    },
+    "proud/proud_00343_endlich-hab-ich-den-verdammten.wav": {
+      "decision": "delete",
+      "reviewed_at": "2026-06-12T13:30:26.704865+00:00"
+    },
+    "proud/proud_00344_endlich-hab-ich-den-verdammten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-12T13:30:20.729189+00:00"
     }
   }
 }
