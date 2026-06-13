@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-13T13:16:27.341984+00:00",
+  "updated_at": "2026-06-13T15:59:38.524214+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -25101,6 +25101,146 @@
     "relieved/relieved_00326_ich-spuere-wie-die.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-13T13:16:27.341906+00:00"
+    },
+    "sad/sad_00001_ich-dachte-diesmal.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:19:09.138793+00:00"
+    },
+    "sad/sad_00002_es-tut-so-weh-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:14.392062+00:00"
+    },
+    "sad/sad_00005_ich-kann-nicht-meh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:21.483612+00:00"
+    },
+    "sad/sad_00006_niemand-versteht-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:19:23.789825+00:00"
+    },
+    "sad/sad_00008_alles-was-ich-hatt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:28.846999+00:00"
+    },
+    "sad/sad_00014_es-ist-als-w-rde-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:34.291998+00:00"
+    },
+    "sad/sad_00015_ich-habe-alles-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:40.573387+00:00"
+    },
+    "sad/sad_00017_ich-kann-nicht-meh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:47.118716+00:00"
+    },
+    "sad/sad_00018_alles-was-ich-woll.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:52.179341+00:00"
+    },
+    "sad/sad_00019_es-ist-vorbei-und-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:19:57.385604+00:00"
+    },
+    "sad/sad_00020_ich-habe-keine-tr-.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:20:08.591807+00:00"
+    },
+    "sad/sad_00022_ich-wollte-nur-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:20:13.391440+00:00"
+    },
+    "sad/sad_00024_ich-kann-nicht-meh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:20:17.300219+00:00"
+    },
+    "sad/sad_00029_es-gibt-nichts-meh.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:20:27.248576+00:00"
+    },
+    "sad/sad_00031_warum-kann-ich-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:57:18.462375+00:00"
+    },
+    "sad/sad_00033_ich-dachte-es-w-rd.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:57:25.214905+00:00"
+    },
+    "sad/sad_00036_ich-wollte-nur-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:57:30.062081+00:00"
+    },
+    "sad/sad_00037_die-tage-ziehen-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:57:36.325228+00:00"
+    },
+    "sad/sad_00040_manchmal-w-nsche-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:57:39.106588+00:00"
+    },
+    "sad/sad_00041_die-stille-im-raum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:57:46.140203+00:00"
+    },
+    "sad/sad_00044_ich-f-hle-mich-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:57:51.648063+00:00"
+    },
+    "sad/sad_00045_die-erinnerungen-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:57:58.521637+00:00"
+    },
+    "sad/sad_00046_ich-wollte-nicht-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:03.279217+00:00"
+    },
+    "sad/sad_00048_alles-was-ich-ber-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:07.990383+00:00"
+    },
+    "sad/sad_00049_ich-habe-das-gef-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:14.273890+00:00"
+    },
+    "sad/sad_00050_die-welt-dreht-sic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:19.967376+00:00"
+    },
+    "sad/sad_00051_ich-wollte-stark-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:25.322773+00:00"
+    },
+    "sad/sad_00052_manchmal-w-nsche-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:30.890309+00:00"
+    },
+    "sad/sad_00054_ich-habe-so-viele-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:38.384166+00:00"
+    },
+    "sad/sad_00055_es-tut-weh-wenn-ma.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:45.962108+00:00"
+    },
+    "sad/sad_00056_ich-wollte-nicht-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:58:52.490887+00:00"
+    },
+    "sad/sad_00058_die-tage-sind-grau.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-13T15:59:02.528685+00:00"
+    },
+    "sad/sad_00061_ich-wollte-nicht-t.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:59:10.146915+00:00"
+    },
+    "sad/sad_00065_ich-wollte-nicht-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:59:15.923859+00:00"
+    },
+    "sad/sad_00066_es-tut-so-weh-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-13T15:59:38.524160+00:00"
     }
   }
 }
