@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-14T11:23:40.797772+00:00",
+  "updated_at": "2026-06-14T11:46:14.567903+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -26065,6 +26065,926 @@
     "sad/sad_00392_es-tut-weh-wenn-selbst-die-mus.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-14T11:23:40.797690+00:00"
+    },
+    "sarcastic/sarcastic_00002_das-war-ja-genau-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:24:19.325927+00:00"
+    },
+    "sarcastic/sarcastic_00003_oh-wow-du-bist-heute.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:24:29.091089+00:00"
+    },
+    "sarcastic/sarcastic_00005_dein-plan-klingt-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:24:32.738783+00:00"
+    },
+    "sarcastic/sarcastic_00006_ich-liebe-es-wenn-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:24:37.663706+00:00"
+    },
+    "sarcastic/sarcastic_00009_wie-rührend-dass-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:24:42.207776+00:00"
+    },
+    "sarcastic/sarcastic_00010_das-hat-ja-perfekt-f.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:24:46.677706+00:00"
+    },
+    "sarcastic/sarcastic_00012_oh-entschuldige-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:24:51.640002+00:00"
+    },
+    "sarcastic/sarcastic_00013_das-ist-ja-genau-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:24:55.904419+00:00"
+    },
+    "sarcastic/sarcastic_00015_wie-aufmerksam-von-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:00.110569+00:00"
+    },
+    "sarcastic/sarcastic_00016_das-war-ja-geradezu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:03.783799+00:00"
+    },
+    "sarcastic/sarcastic_00017_deine-kritik-ist-imm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:11.534546+00:00"
+    },
+    "sarcastic/sarcastic_00018_oh-du-hast-es-wirkli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:15.502798+00:00"
+    },
+    "sarcastic/sarcastic_00019_deine-ausreden-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:19.401857+00:00"
+    },
+    "sarcastic/sarcastic_00020_wie-mutig-das-zuzuge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:23.212982+00:00"
+    },
+    "sarcastic/sarcastic_00023_oh-das-war-bestimmt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:26.983659+00:00"
+    },
+    "sarcastic/sarcastic_00024_deine-ideen-sind-imm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:32.329120+00:00"
+    },
+    "sarcastic/sarcastic_00025_wie-selbstlos-von-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:36.373435+00:00"
+    },
+    "sarcastic/sarcastic_00026_das-hat-ja-perfekt-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:25:39.401937+00:00"
+    },
+    "sarcastic/sarcastic_00027_deine-kommentare-sin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:43.215862+00:00"
+    },
+    "sarcastic/sarcastic_00028_oh-das-war-sicher-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:46.473078+00:00"
+    },
+    "sarcastic/sarcastic_00029_deine-lösungen-sind.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:25:50.809658+00:00"
+    },
+    "sarcastic/sarcastic_00030_wie-großzügig-das-zu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:25:55.434249+00:00"
+    },
+    "sarcastic/sarcastic_00031_das-war-ja-geradezu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:25:59.285401+00:00"
+    },
+    "sarcastic/sarcastic_00032_deine-argumente-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:03.735003+00:00"
+    },
+    "sarcastic/sarcastic_00033_oh-das-war-bestimmt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:07.774415+00:00"
+    },
+    "sarcastic/sarcastic_00034_deine-ratschläge-sin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:11.806561+00:00"
+    },
+    "sarcastic/sarcastic_00035_wie-klug-das-zu-erke.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:15.422679+00:00"
+    },
+    "sarcastic/sarcastic_00036_das-war-ja-genau-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:19.025382+00:00"
+    },
+    "sarcastic/sarcastic_00037_deine-geduld-ist-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:24.412534+00:00"
+    },
+    "sarcastic/sarcastic_00038_oh-das-war-sicher-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:29.170253+00:00"
+    },
+    "sarcastic/sarcastic_00039_deine-ideen-sind-imm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:34.415150+00:00"
+    },
+    "sarcastic/sarcastic_00040_wie-einfühlsam-das-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:40.217418+00:00"
+    },
+    "sarcastic/sarcastic_00042_deine-kritik-ist-imm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:45.041832+00:00"
+    },
+    "sarcastic/sarcastic_00044_deine-lösungen-sind.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:26:50.705995+00:00"
+    },
+    "sarcastic/sarcastic_00045_wie-aufmerksam-das-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:54.378573+00:00"
+    },
+    "sarcastic/sarcastic_00047_deine-ausreden-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:26:57.793439+00:00"
+    },
+    "sarcastic/sarcastic_00050_wie-selbstkritisch-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:01.346523+00:00"
+    },
+    "sarcastic/sarcastic_00052_deine-argumente-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:06.563357+00:00"
+    },
+    "sarcastic/sarcastic_00055_wie-mutig-das-zu-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:11.454504+00:00"
+    },
+    "sarcastic/sarcastic_00059_deine-ratschläge-sin.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:27:16.321147+00:00"
+    },
+    "sarcastic/sarcastic_00064_deine-lösungen-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:20.110115+00:00"
+    },
+    "sarcastic/sarcastic_00065_wie-einfühlsam-das-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:24.127533+00:00"
+    },
+    "sarcastic/sarcastic_00070_wie-selbstlos-das-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:28.024263+00:00"
+    },
+    "sarcastic/sarcastic_00075_wie-mutig-das-zu-ris.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:32.469776+00:00"
+    },
+    "sarcastic/sarcastic_00087_deine-ausreden-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:37.504785+00:00"
+    },
+    "sarcastic/sarcastic_00116_oh-toll-jetzt-muss-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:43.121594+00:00"
+    },
+    "sarcastic/sarcastic_00117_wie-schön-dass-du-en.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:48.234578+00:00"
+    },
+    "sarcastic/sarcastic_00118_deine-kochkünste-sin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:27:52.881364+00:00"
+    },
+    "sarcastic/sarcastic_00119_das-war-ja-klar-dass.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:28:03.034874+00:00"
+    },
+    "sarcastic/sarcastic_00120_wie-genial-dass-du-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:28:08.338781+00:00"
+    },
+    "sarcastic/sarcastic_00121_deine-pünktlichkeit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:28:33.919204+00:00"
+    },
+    "sarcastic/sarcastic_00124_deine-fähigkeit-alle.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:28:40.557243+00:00"
+    },
+    "sarcastic/sarcastic_00125_wie-rücksichtsvoll-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:28:45.386307+00:00"
+    },
+    "sarcastic/sarcastic_00126_deine-komplimente-si.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:29:02.890709+00:00"
+    },
+    "sarcastic/sarcastic_00127_oh-du-hast-es-tatsäc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:29:10.189777+00:00"
+    },
+    "sarcastic/sarcastic_00129_wie-mutig-das-einfac.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:29:13.186926+00:00"
+    },
+    "sarcastic/sarcastic_00130_das-war-ja-wieder-ma.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:29:19.248318+00:00"
+    },
+    "sarcastic/sarcastic_00131_deine-gedächtnislück.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:29:23.670599+00:00"
+    },
+    "sarcastic/sarcastic_00133_deine-lösungsvorschl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:29:28.329643+00:00"
+    },
+    "sarcastic/sarcastic_00137_deine-ausreden-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:29:32.758103+00:00"
+    },
+    "sarcastic/sarcastic_00138_das-war-ja-wieder-ma.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:29:37.148360+00:00"
+    },
+    "sarcastic/sarcastic_00139_wie-aufmerksam-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:29:41.912107+00:00"
+    },
+    "sarcastic/sarcastic_00142_deine-ehrlichkeit-is.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:29:47.428720+00:00"
+    },
+    "sarcastic/sarcastic_00143_wie-hilfreich-dass-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:29:53.535552+00:00"
+    },
+    "sarcastic/sarcastic_00144_deine-ideen-sind-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:30:05.179410+00:00"
+    },
+    "sarcastic/sarcastic_00147_deine-kritik-ist-wir.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:30:11.218017+00:00"
+    },
+    "sarcastic/sarcastic_00149_deine-geduld-ist-wir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:30:16.337566+00:00"
+    },
+    "sarcastic/sarcastic_00150_wie-selbstlos-dass-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:30:22.742003+00:00"
+    },
+    "sarcastic/sarcastic_00151_deine-logik-ist-einf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:30:28.889781+00:00"
+    },
+    "sarcastic/sarcastic_00154_deine-kommentare-sin.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:30:33.283509+00:00"
+    },
+    "sarcastic/sarcastic_00156_deine-ausdauer-ist-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:30:37.949285+00:00"
+    },
+    "sarcastic/sarcastic_00157_wie-aufmerksam-dass.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:30:48.296720+00:00"
+    },
+    "sarcastic/sarcastic_00160_wie-großzügig-dass-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:09.746717+00:00"
+    },
+    "sarcastic/sarcastic_00161_deine-ideen-sind-wir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:14.390014+00:00"
+    },
+    "sarcastic/sarcastic_00164_wie-hilfreich-dass-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:18.615844+00:00"
+    },
+    "sarcastic/sarcastic_00167_deine-kritik-ist-wir.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:31:21.884125+00:00"
+    },
+    "sarcastic/sarcastic_00168_deine-geduld-ist-wir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:25.926974+00:00"
+    },
+    "sarcastic/sarcastic_00170_deine-tiefgründigen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:30.731781+00:00"
+    },
+    "sarcastic/sarcastic_00173_deine-brillante-stra.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:31:35.678457+00:00"
+    },
+    "sarcastic/sarcastic_00173_deine-ideen-sind-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:39.370115+00:00"
+    },
+    "sarcastic/sarcastic_00174_wie-heldenhaft-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:44.502763+00:00"
+    },
+    "sarcastic/sarcastic_00175_wie-rücksichtsvoll-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:50.251201+00:00"
+    },
+    "sarcastic/sarcastic_00176_deine-unerschütterli.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:31:52.731167+00:00"
+    },
+    "sarcastic/sarcastic_00176_oh-das-war-ja-wieder.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:31:59.351012+00:00"
+    },
+    "sarcastic/sarcastic_00178_deine-geniale-idee-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:32:04.111187+00:00"
+    },
+    "sarcastic/sarcastic_00180_das-war-genau-das-wa.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:32:08.935244+00:00"
+    },
+    "sarcastic/sarcastic_00180_wie-selbstlos-dass-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:32:23.282235+00:00"
+    },
+    "sarcastic/sarcastic_00181_deine-argumente-sind.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:32:37.006937+00:00"
+    },
+    "sarcastic/sarcastic_00183_deine-kritik-ist-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:32:41.257742+00:00"
+    },
+    "sarcastic/sarcastic_00184_wie-selbstlos-das-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:32:45.909271+00:00"
+    },
+    "sarcastic/sarcastic_00186_deine-unfehlbare-log.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:32:50.546853+00:00"
+    },
+    "sarcastic/sarcastic_00187_oh-das-war-ja-wieder.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:32:56.362158+00:00"
+    },
+    "sarcastic/sarcastic_00188_deine-bahnbrechenden.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:33:04.154648+00:00"
+    },
+    "sarcastic/sarcastic_00189_wie-klug-das-sofort.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:07.948822+00:00"
+    },
+    "sarcastic/sarcastic_00191_deine-unerschöpflich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:13.058146+00:00"
+    },
+    "sarcastic/sarcastic_00194_wie-einfühlsam-das-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:17.405265+00:00"
+    },
+    "sarcastic/sarcastic_00195_deine-lösungen-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:21.402529+00:00"
+    },
+    "sarcastic/sarcastic_00196_deine-unbezahlbaren.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:26.827848+00:00"
+    },
+    "sarcastic/sarcastic_00198_deine-tiefgründigen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:33:28.772181+00:00"
+    },
+    "sarcastic/sarcastic_00199_wie-selbstkritisch-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:33.753942+00:00"
+    },
+    "sarcastic/sarcastic_00200_das-war-wieder-ein-v.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:33:38.689968+00:00"
+    },
+    "sarcastic/sarcastic_00201_deine-unerschütterli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:43.531844+00:00"
+    },
+    "sarcastic/sarcastic_00203_deine-brillanten-ide.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:49.033097+00:00"
+    },
+    "sarcastic/sarcastic_00206_ach-wie-schön-dass-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:33:56.697758+00:00"
+    },
+    "sarcastic/sarcastic_00207_deine-kochkünste-sin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:02.909757+00:00"
+    },
+    "sarcastic/sarcastic_00208_deine-todsicheren-pl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:08.146373+00:00"
+    },
+    "sarcastic/sarcastic_00208_oh-toll-jetzt-ist-na.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:14.020971+00:00"
+    },
+    "sarcastic/sarcastic_00209_wie-überraschend-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:19.187163+00:00"
+    },
+    "sarcastic/sarcastic_00210_dein-musikgeschmack.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:23.738373+00:00"
+    },
+    "sarcastic/sarcastic_00212_wie-rührend-dass-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:30.465318+00:00"
+    },
+    "sarcastic/sarcastic_00213_deine-organisationst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:37.986682+00:00"
+    },
+    "sarcastic/sarcastic_00214_ach-du-hast-wirklich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:34:42.241140+00:00"
+    },
+    "sarcastic/sarcastic_00216_deine-fähigkeit-ding.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:47.048501+00:00"
+    },
+    "sarcastic/sarcastic_00218_deine-entscheidungen.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:34:49.455182+00:00"
+    },
+    "sarcastic/sarcastic_00220_dein-timing-ist-einf.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:54.407458+00:00"
+    },
+    "sarcastic/sarcastic_00221_ach-du-hast-wirklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:34:59.677720+00:00"
+    },
+    "sarcastic/sarcastic_00222_deine-ausdauer-ist-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:35:03.360417+00:00"
+    },
+    "sarcastic/sarcastic_00223_wie-großzügig-dass-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:07.450499+00:00"
+    },
+    "sarcastic/sarcastic_00224_deine-kompromissbere.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:12.367882+00:00"
+    },
+    "sarcastic/sarcastic_00227_wie-mutig-das-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:17.205089+00:00"
+    },
+    "sarcastic/sarcastic_00228_deine-geduld-mit-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:23.480715+00:00"
+    },
+    "sarcastic/sarcastic_00229_ach-du-hast-natürlic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:35:27.895388+00:00"
+    },
+    "sarcastic/sarcastic_00232_dein-talent-dinge-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:35.066104+00:00"
+    },
+    "sarcastic/sarcastic_00236_deine-zuverlässigkei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:41.264321+00:00"
+    },
+    "sarcastic/sarcastic_00238_deine-art-kritik-anz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:47.559418+00:00"
+    },
+    "sarcastic/sarcastic_00240_dein-verständnis-für.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:53.176156+00:00"
+    },
+    "sarcastic/sarcastic_00242_wie-mutig-das-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:35:57.571001+00:00"
+    },
+    "sarcastic/sarcastic_00243_deine-ehrlichkeit-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:02.029878+00:00"
+    },
+    "sarcastic/sarcastic_00244_ach-du-hast-natürlic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:06.284614+00:00"
+    },
+    "sarcastic/sarcastic_00245_deine-art-dinge-zu-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:13.760725+00:00"
+    },
+    "sarcastic/sarcastic_00247_dein-talent-dinge-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:19.705733+00:00"
+    },
+    "sarcastic/sarcastic_00250_deine-geduld-mit-mir.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:36:25.742875+00:00"
+    },
+    "sarcastic/sarcastic_00251_ja-natuerlich-du-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:31.580702+00:00"
+    },
+    "sarcastic/sarcastic_00252_super-idee-das-hat-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:37.053973+00:00"
+    },
+    "sarcastic/sarcastic_00253_na-klar-denn-genau-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:36:43.922450+00:00"
+    },
+    "sarcastic/sarcastic_00254_toll-wieder-ein-meis.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:48.255506+00:00"
+    },
+    "sarcastic/sarcastic_00255_wunderbar-du-hast-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:52.498198+00:00"
+    },
+    "sarcastic/sarcastic_00256_nein-nein-das-war-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:36:58.261263+00:00"
+    },
+    "sarcastic/sarcastic_00257_ich-bin-beeindruckt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:04.051297+00:00"
+    },
+    "sarcastic/sarcastic_00258_wie-praktisch-dass-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:37:09.881071+00:00"
+    },
+    "sarcastic/sarcastic_00259_natuerlich-und-was-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:37:12.549501+00:00"
+    },
+    "sarcastic/sarcastic_00260_wer-haette-gedacht-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:19.649807+00:00"
+    },
+    "sarcastic/sarcastic_00261_stimmt-das-war-besti.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:28.071270+00:00"
+    },
+    "sarcastic/sarcastic_00262_herrlich-jetzt-erkla.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:34.033384+00:00"
+    },
+    "sarcastic/sarcastic_00265_bin-schon-gespannt-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:38.717078+00:00"
+    },
+    "sarcastic/sarcastic_00266_ja-das-ueberrascht-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:46.977436+00:00"
+    },
+    "sarcastic/sarcastic_00267_glueckwunsch-zu-dies.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:51.732200+00:00"
+    },
+    "sarcastic/sarcastic_00271_wow-was-fuer-eine-id.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:37:59.982882+00:00"
+    },
+    "sarcastic/sarcastic_00272_nein-wirklich-da-has.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:38:05.461445+00:00"
+    },
+    "sarcastic/sarcastic_00273_gut-gemacht-wieder-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:38:09.072161+00:00"
+    },
+    "sarcastic/sarcastic_00274_ich-sage-nur-respekt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:38:14.539643+00:00"
+    },
+    "sarcastic/sarcastic_00275_toll-genau-das-haben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:38:19.671366+00:00"
+    },
+    "sarcastic/sarcastic_00277_ja-ich-habe-auch-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:38:25.585980+00:00"
+    },
+    "sarcastic/sarcastic_00278_du-hast-die-situatio.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:38:38.127133+00:00"
+    },
+    "sarcastic/sarcastic_00279_bravo-dieser-moment.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:38:46.661147+00:00"
+    },
+    "sarcastic/sarcastic_00280_ich-ziehe-meinen-hut.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:38:51.441090+00:00"
+    },
+    "sarcastic/sarcastic_00281_selbstverstaendlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:38:57.859544+00:00"
+    },
+    "sarcastic/sarcastic_00282_und-du-fragst-mich-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:02.785309+00:00"
+    },
+    "sarcastic/sarcastic_00285_ich-bin-sprachlos-vo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:08.151602+00:00"
+    },
+    "sarcastic/sarcastic_00286_ah-die-ewige-ueberra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:15.303898+00:00"
+    },
+    "sarcastic/sarcastic_00287_wer-haette-das-gedac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:20.733147+00:00"
+    },
+    "sarcastic/sarcastic_00288_sehr-mutig-das-ausge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:26.359628+00:00"
+    },
+    "sarcastic/sarcastic_00289_nein-kein-problem-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:32.793347+00:00"
+    },
+    "sarcastic/sarcastic_00291_schade-das-war-so-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:39.036057+00:00"
+    },
+    "sarcastic/sarcastic_00292_wunderbar-nun-haben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:45.608161+00:00"
+    },
+    "sarcastic/sarcastic_00293_interessant-dass-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:39:51.937643+00:00"
+    },
+    "sarcastic/sarcastic_00294_herrlich-ich-liebe-e.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:39:57.472539+00:00"
+    },
+    "sarcastic/sarcastic_00295_und-das-ist-der-gros.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:01.857184+00:00"
+    },
+    "sarcastic/sarcastic_00296_ich-gratuliere-dir-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:07.333825+00:00"
+    },
+    "sarcastic/sarcastic_00297_natuerlich-hast-du-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:15.029568+00:00"
+    },
+    "sarcastic/sarcastic_00298_toll-ein-weiteres-gl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:20.949647+00:00"
+    },
+    "sarcastic/sarcastic_00299_faszinierend-was-aus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:26.233348+00:00"
+    },
+    "sarcastic/sarcastic_00300_ich-frage-mich-wirkl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:31.794361+00:00"
+    },
+    "sarcastic/sarcastic_00301_ich-bin-sicher-das-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:36.751632+00:00"
+    },
+    "sarcastic/sarcastic_00303_aber-sicher-das-leuc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:42.019179+00:00"
+    },
+    "sarcastic/sarcastic_00304_ausgezeichnet-wieder.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:46.806603+00:00"
+    },
+    "sarcastic/sarcastic_00305_natuerlich-weil-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:50.625588+00:00"
+    },
+    "sarcastic/sarcastic_00306_so-eine-tolle-ueberr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:40:56.603373+00:00"
+    },
+    "sarcastic/sarcastic_00307_ich-bin-baff-wirklic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:03.422152+00:00"
+    },
+    "sarcastic/sarcastic_00309_dein-sinn-fuer-timin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:09.556192+00:00"
+    },
+    "sarcastic/sarcastic_00311_ah-selbstverstaendli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:14.408452+00:00"
+    },
+    "sarcastic/sarcastic_00312_natuerlich-waere-kei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:20.444420+00:00"
+    },
+    "sarcastic/sarcastic_00313_klar-das-hatte-ich-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:25.075233+00:00"
+    },
+    "sarcastic/sarcastic_00314_ich-staune-immer-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:30.320255+00:00"
+    },
+    "sarcastic/sarcastic_00315_was-fuer-ein-geniale.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:35.440533+00:00"
+    },
+    "sarcastic/sarcastic_00317_wieder-ein-triumph-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:39.633558+00:00"
+    },
+    "sarcastic/sarcastic_00318_ja-genau-das-war-gar.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:45.146050+00:00"
+    },
+    "sarcastic/sarcastic_00319_keine-ueberraschunge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:41:55.912979+00:00"
+    },
+    "sarcastic/sarcastic_00321_super-lass-uns-einfa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:02.945008+00:00"
+    },
+    "sarcastic/sarcastic_00322_na-dann-bin-ich-ja-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:07.179943+00:00"
+    },
+    "sarcastic/sarcastic_00323_schoen-dass-das-jetz.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:42:11.684003+00:00"
+    },
+    "sarcastic/sarcastic_00325_wie-immer-alles-reib.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:17.424276+00:00"
+    },
+    "sarcastic/sarcastic_00326_jetzt-macht-alles-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:22.503154+00:00"
+    },
+    "sarcastic/sarcastic_00328_natuerlich-du-hattes.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:42:25.298798+00:00"
+    },
+    "sarcastic/sarcastic_00331_herrje-was-fuer-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:30.911794+00:00"
+    },
+    "sarcastic/sarcastic_00333_gut-zu-wissen-dass-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:36.931789+00:00"
+    },
+    "sarcastic/sarcastic_00334_natuerlich-bin-ich-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:41.792964+00:00"
+    },
+    "sarcastic/sarcastic_00335_tolle-idee-warum-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:47.353040+00:00"
+    },
+    "sarcastic/sarcastic_00336_klar-das-klingt-vern.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:42:53.560315+00:00"
+    },
+    "sarcastic/sarcastic_00337_super-noch-ein-meeti.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:43:05.066478+00:00"
+    },
+    "sarcastic/sarcastic_00338_wie-praktisch-dass-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:43:09.590980+00:00"
+    },
+    "sarcastic/sarcastic_00339_ach-so-funktioniert.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:43:16.808381+00:00"
+    },
+    "sarcastic/sarcastic_00341_natürlich-du-hast-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:43:21.318292+00:00"
+    },
+    "sarcastic/sarcastic_00342_wie-praktisch-dass-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:43:26.715918+00:00"
+    },
+    "sarcastic/sarcastic_00343_ja-das-war-wirklich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:43:36.681195+00:00"
+    },
+    "sarcastic/sarcastic_00344_oh-super-noch-eine.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:43:44.665875+00:00"
+    },
+    "sarcastic/sarcastic_00345_klar-das-ist-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:43:49.789431+00:00"
+    },
+    "sarcastic/sarcastic_00346_wow-was-für-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:43:56.627818+00:00"
+    },
+    "sarcastic/sarcastic_00347_toll-gemacht-ich-bin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:44:01.767523+00:00"
+    },
+    "sarcastic/sarcastic_00348_ach-wie-rücksichtsvoll-von.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:44:07.102518+00:00"
+    },
+    "sarcastic/sarcastic_00349_super-timing-wirklich-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:44:13.490874+00:00"
+    },
+    "sarcastic/sarcastic_00350_natürlich-weiß-ich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:44:36.298123+00:00"
+    },
+    "sarcastic/sarcastic_00351_oh-ja-das-klingt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:44:40.225173+00:00"
+    },
+    "sarcastic/sarcastic_00352_wunderbar-noch-eine-besprechung.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:44:45.271978+00:00"
+    },
+    "sarcastic/sarcastic_00353_stimmt-ich-hätte-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:44:47.221680+00:00"
+    },
+    "sarcastic/sarcastic_00354_ja-genau-das-war.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:44:52.987858+00:00"
+    },
+    "sarcastic/sarcastic_00356_oh-du-hast-bemerkt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:00.193583+00:00"
+    },
+    "sarcastic/sarcastic_00357_ach-wirklich-das-hätte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:05.564592+00:00"
+    },
+    "sarcastic/sarcastic_00359_natürlich-bin-ich-happy.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:10.514457+00:00"
+    },
+    "sarcastic/sarcastic_00361_ja-klar-weil-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:15.415035+00:00"
+    },
+    "sarcastic/sarcastic_00362_herzlichen-glückwunsch-du-hast.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:20.486091+00:00"
+    },
+    "sarcastic/sarcastic_00363_super-idee-warum-haben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:25.972224+00:00"
+    },
+    "sarcastic/sarcastic_00364_ach-so-das-erklärt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:30.657508+00:00"
+    },
+    "sarcastic/sarcastic_00365_oh-wow-wieder-eine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:36.055015+00:00"
+    },
+    "sarcastic/sarcastic_00367_tatsächlich-ich-bin-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:40.760780+00:00"
+    },
+    "sarcastic/sarcastic_00368_oh-wie-schön-für.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:45:48.094972+00:00"
+    },
+    "sarcastic/sarcastic_00370_ja-super-noch-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:45:54.040036+00:00"
+    },
+    "sarcastic/sarcastic_00371_ach-du-hast-also.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:46:01.915511+00:00"
+    },
+    "sarcastic/sarcastic_00373_na-klar-dafür-bin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:46:06.794848+00:00"
+    },
+    "sarcastic/sarcastic_00378_schoen-dass-du-es.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:46:14.567844+00:00"
     }
   }
 }
