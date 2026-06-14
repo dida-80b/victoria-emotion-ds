@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-14T13:41:28.819263+00:00",
+  "updated_at": "2026-06-14T14:02:28.033984+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -27909,6 +27909,946 @@
     "surprised/surprised_00471_boah-die-hat-ja-echt-ne-schlan.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-14T13:41:28.819206+00:00"
+    },
+    "sympathetic/sympathetic_00002_ich-verstehe-wie-sch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:41:53.256811+00:00"
+    },
+    "sympathetic/sympathetic_00003_manchmal-braucht-man.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:41:57.706753+00:00"
+    },
+    "sympathetic/sympathetic_00004_das-klingt-wirklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:42:02.981562+00:00"
+    },
+    "sympathetic/sympathetic_00005_du-musst-das-nicht-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:42:08.185913+00:00"
+    },
+    "sympathetic/sympathetic_00006_ich-spüre-wie-sehr-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:42:11.989115+00:00"
+    },
+    "sympathetic/sympathetic_00007_es-ist-okay-wenn-du.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:42:29.982143+00:00"
+    },
+    "sympathetic/sympathetic_00008_manchmal-reicht-es-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:42:34.841147+00:00"
+    },
+    "sympathetic/sympathetic_00010_deine-gefühle-sind-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:42:39.425499+00:00"
+    },
+    "sympathetic/sympathetic_00011_es-ist-nicht-leicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:42:43.658076+00:00"
+    },
+    "sympathetic/sympathetic_00012_ich-merke-wie-sehr-d.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:42:50.989283+00:00"
+    },
+    "sympathetic/sympathetic_00014_manchmal-hilft-es-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:42:55.151377+00:00"
+    },
+    "sympathetic/sympathetic_00015_ich-sehe-wie-sehr-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:42:58.967287+00:00"
+    },
+    "sympathetic/sympathetic_00017_du-hast-so-viel-durc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:04.247293+00:00"
+    },
+    "sympathetic/sympathetic_00021_es-ist-okay-wenn-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:07.789753+00:00"
+    },
+    "sympathetic/sympathetic_00022_ich-bin-hier-wenn-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:12.235188+00:00"
+    },
+    "sympathetic/sympathetic_00024_manchmal-reicht-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:16.307481+00:00"
+    },
+    "sympathetic/sympathetic_00025_ich-verstehe-warum-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:20.085660+00:00"
+    },
+    "sympathetic/sympathetic_00028_ich-spüre-wie-sehr-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:24.109621+00:00"
+    },
+    "sympathetic/sympathetic_00029_manchmal-hilft-es-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:28.093444+00:00"
+    },
+    "sympathetic/sympathetic_00035_ich-sehe-wie-sehr-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:31.674702+00:00"
+    },
+    "sympathetic/sympathetic_00038_ich-bin-da-wenn-du-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:35.900350+00:00"
+    },
+    "sympathetic/sympathetic_00039_manchmal-reicht-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:40.199673+00:00"
+    },
+    "sympathetic/sympathetic_00040_du-musst-nicht-stark.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:44.091173+00:00"
+    },
+    "sympathetic/sympathetic_00041_ich-spüre-wie-schwer.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:43:49.024495+00:00"
+    },
+    "sympathetic/sympathetic_00047_ich-verstehe-warum-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:52.685089+00:00"
+    },
+    "sympathetic/sympathetic_00056_du-musst-dich-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:43:56.527969+00:00"
+    },
+    "sympathetic/sympathetic_00060_manchmal-reicht-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:44:00.842562+00:00"
+    },
+    "sympathetic/sympathetic_00069_manchmal-reicht-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:44:05.068564+00:00"
+    },
+    "sympathetic/sympathetic_00071_ich-verstehe-wie-sch.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:44:09.330704+00:00"
+    },
+    "sympathetic/sympathetic_00078_ich-bin-für-dich-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:44:13.576528+00:00"
+    },
+    "sympathetic/sympathetic_00082_ich-würde-dir-gerne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:44:19.204279+00:00"
+    },
+    "sympathetic/sympathetic_00083_deine-tränen-sind-ke.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:44:24.800920+00:00"
+    },
+    "sympathetic/sympathetic_00084_es-bricht-mir-das-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:44:29.964912+00:00"
+    },
+    "sympathetic/sympathetic_00085_manchmal-reicht-es-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:44:40.607049+00:00"
+    },
+    "sympathetic/sympathetic_00086_ich-sehe-den-schmerz.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:44:46.417458+00:00"
+    },
+    "sympathetic/sympathetic_00087_deine-sorgen-sind-be.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:44:50.539354+00:00"
+    },
+    "sympathetic/sympathetic_00088_es-ist-in-ordnung-we.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:44:55.908048+00:00"
+    },
+    "sympathetic/sympathetic_00090_deine-worte-treffen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:44:59.738098+00:00"
+    },
+    "sympathetic/sympathetic_00091_manchmal-braucht-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:04.618579+00:00"
+    },
+    "sympathetic/sympathetic_00094_deine-gefühle-verdie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:09.286169+00:00"
+    },
+    "sympathetic/sympathetic_00095_ich-verstehe-wie-bel.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:13.037049+00:00"
+    },
+    "sympathetic/sympathetic_00096_manchmal-hilft-es-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:17.696285+00:00"
+    },
+    "sympathetic/sympathetic_00097_dein-schmerz-ist-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:22.007958+00:00"
+    },
+    "sympathetic/sympathetic_00098_ich-würde-dir-gerne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:26.661608+00:00"
+    },
+    "sympathetic/sympathetic_00102_deine-verzweiflung-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:45:31.682452+00:00"
+    },
+    "sympathetic/sympathetic_00104_manchmal-braucht-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:36.235279+00:00"
+    },
+    "sympathetic/sympathetic_00106_deine-trauer-hat-ihr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:40.917233+00:00"
+    },
+    "sympathetic/sympathetic_00107_es-ist-in-ordnung-we.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:45:45.682786+00:00"
+    },
+    "sympathetic/sympathetic_00112_manchmal-hilft-es-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:49.578942+00:00"
+    },
+    "sympathetic/sympathetic_00114_deine-gefühle-sind-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:55.342816+00:00"
+    },
+    "sympathetic/sympathetic_00116_manchmal-reicht-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:45:59.998027+00:00"
+    },
+    "sympathetic/sympathetic_00118_dein-schmerz-ist-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:46:44.119145+00:00"
+    },
+    "sympathetic/sympathetic_00121_dein-leid-geht-mir-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:46:47.472128+00:00"
+    },
+    "sympathetic/sympathetic_00122_deine-tränen-sind-ke.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:46:52.085259+00:00"
+    },
+    "sympathetic/sympathetic_00125_dein-herz-braucht-je.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:47:02.121742+00:00"
+    },
+    "sympathetic/sympathetic_00129_deine-gefühle-sind-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:06.527262+00:00"
+    },
+    "sympathetic/sympathetic_00131_manchmal-reicht-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:11.561106+00:00"
+    },
+    "sympathetic/sympathetic_00133_dein-schmerz-verdien.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:47:15.795565+00:00"
+    },
+    "sympathetic/sympathetic_00137_deine-verzweiflung-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:47:22.170512+00:00"
+    },
+    "sympathetic/sympathetic_00145_deine-gefühle-sind-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:27.673567+00:00"
+    },
+    "sympathetic/sympathetic_00162_deine-verzweiflung-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:33.164631+00:00"
+    },
+    "sympathetic/sympathetic_00172_dein-schmerz-verdien.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:37.697340+00:00"
+    },
+    "sympathetic/sympathetic_00182_deine-verzweiflung-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:42.142912+00:00"
+    },
+    "sympathetic/sympathetic_00189_ich-kann-nachvollzie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:47.441545+00:00"
+    },
+    "sympathetic/sympathetic_00190_dein-herz-scheint-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:52.327369+00:00"
+    },
+    "sympathetic/sympathetic_00191_es-ist-verständlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:47:57.160268+00:00"
+    },
+    "sympathetic/sympathetic_00192_manchmal-fühlt-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:01.953070+00:00"
+    },
+    "sympathetic/sympathetic_00195_deine-trauer-hat-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:06.459643+00:00"
+    },
+    "sympathetic/sympathetic_00196_manchmal-reicht-es-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:12.157729+00:00"
+    },
+    "sympathetic/sympathetic_00200_es-ist-nicht-fair-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:15.814480+00:00"
+    },
+    "sympathetic/sympathetic_00202_ich-möchte-dass-du-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:20.030087+00:00"
+    },
+    "sympathetic/sympathetic_00203_manchmal-hilft-es-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:24.360062+00:00"
+    },
+    "sympathetic/sympathetic_00204_deine-ängste-sind-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:28.640972+00:00"
+    },
+    "sympathetic/sympathetic_00205_ich-merke-wie-sehr-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:32.752840+00:00"
+    },
+    "sympathetic/sympathetic_00207_es-ist-schwer-wenn-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:37.010920+00:00"
+    },
+    "sympathetic/sympathetic_00208_deine-wut-ist-genaus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:41.656649+00:00"
+    },
+    "sympathetic/sympathetic_00210_manchmal-fühlt-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:45.979450+00:00"
+    },
+    "sympathetic/sympathetic_00211_deine-verzweiflung-b.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:50.214188+00:00"
+    },
+    "sympathetic/sympathetic_00212_ich-bin-hier-um-dein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:53.907877+00:00"
+    },
+    "sympathetic/sympathetic_00214_dein-schmerz-hat-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:48:57.849506+00:00"
+    },
+    "sympathetic/sympathetic_00215_deine-tränen-sind-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:01.636142+00:00"
+    },
+    "sympathetic/sympathetic_00217_manchmal-reicht-es-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:05.391145+00:00"
+    },
+    "sympathetic/sympathetic_00219_deine-gefühle-sind-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:10.291264+00:00"
+    },
+    "sympathetic/sympathetic_00220_ich-möchte-dass-du-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:49:15.575808+00:00"
+    },
+    "sympathetic/sympathetic_00221_manchmal-hilft-es-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:19.900681+00:00"
+    },
+    "sympathetic/sympathetic_00226_dein-herz-scheint-mi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:23.776344+00:00"
+    },
+    "sympathetic/sympathetic_00230_deine-wunden-brauche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:28.057653+00:00"
+    },
+    "sympathetic/sympathetic_00236_deine-trauer-ist-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:32.296762+00:00"
+    },
+    "sympathetic/sympathetic_00242_deine-verzweiflung-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:36.177650+00:00"
+    },
+    "sympathetic/sympathetic_00249_deine-tränen-sind-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:40.074053+00:00"
+    },
+    "sympathetic/sympathetic_00265_ich-verstehe-wie-seh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:43.598444+00:00"
+    },
+    "sympathetic/sympathetic_00295_ich-verstehe-wie-seh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:48.002389+00:00"
+    },
+    "sympathetic/sympathetic_00296_ich-hoere-dir-zu-wir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:53.913555+00:00"
+    },
+    "sympathetic/sympathetic_00297_ich-sehe-wie-schwer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:49:57.681194+00:00"
+    },
+    "sympathetic/sympathetic_00298_kein-urteil-von-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:02.335069+00:00"
+    },
+    "sympathetic/sympathetic_00299_du-hast-das-mehr-als.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:50:07.438084+00:00"
+    },
+    "sympathetic/sympathetic_00300_das-klingt-unglaubli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:13.321723+00:00"
+    },
+    "sympathetic/sympathetic_00301_was-du-gerade-durchm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:19.022332+00:00"
+    },
+    "sympathetic/sympathetic_00302_ich-bin-hier-und-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:50:22.152862+00:00"
+    },
+    "sympathetic/sympathetic_00303_ich-glaube-dir-und-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:26.878696+00:00"
+    },
+    "sympathetic/sympathetic_00304_das-ist-so-viel-auf.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:50:31.941705+00:00"
+    },
+    "sympathetic/sympathetic_00305_manche-situationen-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:38.197329+00:00"
+    },
+    "sympathetic/sympathetic_00307_ich-verstehe-warum-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:41.975743+00:00"
+    },
+    "sympathetic/sympathetic_00308_jemanden-in-so-einer.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:50:48.646059+00:00"
+    },
+    "sympathetic/sympathetic_00309_es-ist-okay-wenn-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:54.022021+00:00"
+    },
+    "sympathetic/sympathetic_00311_das-haette-so-nieman.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:50:58.682167+00:00"
+    },
+    "sympathetic/sympathetic_00312_staerke-ist-manchmal.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:04.551233+00:00"
+    },
+    "sympathetic/sympathetic_00313_was-du-fuehlst-ist-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:09.563253+00:00"
+    },
+    "sympathetic/sympathetic_00314_nicht-stark-sein-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:14.614924+00:00"
+    },
+    "sympathetic/sympathetic_00315_ich-halte-aus-was-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:20.143435+00:00"
+    },
+    "sympathetic/sympathetic_00318_dein-schmerz-zaehlt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:26.532508+00:00"
+    },
+    "sympathetic/sympathetic_00319_ich-nehme-das-was-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:31.892524+00:00"
+    },
+    "sympathetic/sympathetic_00320_wie-du-mit-dem-umgeh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:37.617163+00:00"
+    },
+    "sympathetic/sympathetic_00321_manchmal-hilft-schon.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:51:43.382129+00:00"
+    },
+    "sympathetic/sympathetic_00323_ich-wuenschte-die-wo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:49.173149+00:00"
+    },
+    "sympathetic/sympathetic_00325_ich-sitze-bei-dir-au.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:53.883205+00:00"
+    },
+    "sympathetic/sympathetic_00326_was-fuer-eine-last-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:51:58.979764+00:00"
+    },
+    "sympathetic/sympathetic_00327_kein-trost-der-gross.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:05.218918+00:00"
+    },
+    "sympathetic/sympathetic_00328_ich-halte-dir-die-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:09.004354+00:00"
+    },
+    "sympathetic/sympathetic_00330_was-passiert-ist-war.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:52:18.474104+00:00"
+    },
+    "sympathetic/sympathetic_00332_ich-weine-innerlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:24.315278+00:00"
+    },
+    "sympathetic/sympathetic_00335_was-du-beschreibst-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:29.843272+00:00"
+    },
+    "sympathetic/sympathetic_00336_ich-sage-nicht-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:37.234459+00:00"
+    },
+    "sympathetic/sympathetic_00337_niemand-verdient-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:42.157684+00:00"
+    },
+    "sympathetic/sympathetic_00339_ich-verstehe-warum-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:46.698333+00:00"
+    },
+    "sympathetic/sympathetic_00340_alles-was-du-sagst-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:50.284495+00:00"
+    },
+    "sympathetic/sympathetic_00343_was-du-traegst-ist-z.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:52:55.204654+00:00"
+    },
+    "sympathetic/sympathetic_00344_lass-mir-von-dem-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:01.143876+00:00"
+    },
+    "sympathetic/sympathetic_00345_keine-wertung-keine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:06.296975+00:00"
+    },
+    "sympathetic/sympathetic_00347_ich-bleibe-bei-dir-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:10.890845+00:00"
+    },
+    "sympathetic/sympathetic_00348_du-bist-in-guten-hae.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:15.977630+00:00"
+    },
+    "sympathetic/sympathetic_00349_manchmal-reicht-scho.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:19.832224+00:00"
+    },
+    "sympathetic/sympathetic_00351_es-ist-okay-wenn-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:25.561437+00:00"
+    },
+    "sympathetic/sympathetic_00352_lass-die-zeit-vergeh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:30.614986+00:00"
+    },
+    "sympathetic/sympathetic_00353_niemand-muss-so-etwa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:35.245848+00:00"
+    },
+    "sympathetic/sympathetic_00354_ich-strecke-die-hand.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:39.508169+00:00"
+    },
+    "sympathetic/sympathetic_00356_was-du-heute-bist-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:44.103960+00:00"
+    },
+    "sympathetic/sympathetic_00357_ich-mache-mir-sorgen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:48.512348+00:00"
+    },
+    "sympathetic/sympathetic_00359_ich-nehme-dein-leid.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:53.439588+00:00"
+    },
+    "sympathetic/sympathetic_00361_alles-hat-seine-zeit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:53:57.844317+00:00"
+    },
+    "sympathetic/sympathetic_00363_das-was-du-traegst-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:02.268044+00:00"
+    },
+    "sympathetic/sympathetic_00366_ich-sage-nichts-weit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:06.935781+00:00"
+    },
+    "sympathetic/sympathetic_00367_dein-herz-verdient-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:11.712735+00:00"
+    },
+    "sympathetic/sympathetic_00368_lass-alles-raus-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:15.575522+00:00"
+    },
+    "sympathetic/sympathetic_00369_du-darfst-erschoepft.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:20.137765+00:00"
+    },
+    "sympathetic/sympathetic_00370_was-du-erlebst-ist-r.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:54:27.126876+00:00"
+    },
+    "sympathetic/sympathetic_00371_ich-gehe-nirgendwo-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:32.227706+00:00"
+    },
+    "sympathetic/sympathetic_00372_was-du-sagst-landet.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:36.427643+00:00"
+    },
+    "sympathetic/sympathetic_00374_deine-traurigkeit-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:40.618873+00:00"
+    },
+    "sympathetic/sympathetic_00375_ich-nehme-dir-die-la.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:45.357226+00:00"
+    },
+    "sympathetic/sympathetic_00377_du-bist-wichtig-heut.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:50.425809+00:00"
+    },
+    "sympathetic/sympathetic_00378_ich-sage-dir-ohne-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:54:56.112145+00:00"
+    },
+    "sympathetic/sympathetic_00380_manchmal-reicht-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:55:05.389559+00:00"
+    },
+    "sympathetic/sympathetic_00381_ein-stilles-ja-auf-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:10.669616+00:00"
+    },
+    "sympathetic/sympathetic_00383_alles-was-du-sagst-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:15.192699+00:00"
+    },
+    "sympathetic/sympathetic_00384_ich-teile-das-mit-di.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:20.147762+00:00"
+    },
+    "sympathetic/sympathetic_00385_mit-vollem-herzen-sa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:26.044884+00:00"
+    },
+    "sympathetic/sympathetic_00386_ich-sitze-hier-ohne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:37.656884+00:00"
+    },
+    "sympathetic/sympathetic_00387_was-du-fuehlst-ist-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:43.396431+00:00"
+    },
+    "sympathetic/sympathetic_00388_was-ich-dir-geben-ka.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:51.163065+00:00"
+    },
+    "sympathetic/sympathetic_00389_jeder-traegt-sein-pa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:55:56.625341+00:00"
+    },
+    "sympathetic/sympathetic_00391_was-du-durchmachst-v.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:56:01.991660+00:00"
+    },
+    "sympathetic/sympathetic_00392_ich-verurteile-dich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:56:06.812752+00:00"
+    },
+    "sympathetic/sympathetic_00396_was-du-traegst-ist-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:56:11.090628+00:00"
+    },
+    "sympathetic/sympathetic_00397_heute-sein-morgen-se.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:56:16.178996+00:00"
+    },
+    "sympathetic/sympathetic_00398_ich-sehe-dich-als-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:56:22.564428+00:00"
+    },
+    "sympathetic/sympathetic_00399_du-hast-getan-was-du.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:56:26.863884+00:00"
+    },
+    "sympathetic/sympathetic_00400_ich-verstehe-wenn-du.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:56:35.196004+00:00"
+    },
+    "sympathetic/sympathetic_00401_ich-frage-auch-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:56:40.115217+00:00"
+    },
+    "sympathetic/sympathetic_00402_was-auch-immer-du-sa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:56:44.840220+00:00"
+    },
+    "sympathetic/sympathetic_00403_du-hast-mehr-staerke.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:56:53.367618+00:00"
+    },
+    "sympathetic/sympathetic_00404_es-ist-okay-nicht-al.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:56:57.309274+00:00"
+    },
+    "sympathetic/sympathetic_00405_alles-was-du-brauchs.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:01.590180+00:00"
+    },
+    "sympathetic/sympathetic_00406_ich-halte-diese-situ.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:05.853957+00:00"
+    },
+    "sympathetic/sympathetic_00409_ich-nehme-deine-last.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:10.422113+00:00"
+    },
+    "sympathetic/sympathetic_00410_das-reicht-du-bist-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:16.176875+00:00"
+    },
+    "sympathetic/sympathetic_00411_manchmal-ist-die-wae.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:21.954838+00:00"
+    },
+    "sympathetic/sympathetic_00412_dich-kennenlernen-he.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:26.725978+00:00"
+    },
+    "sympathetic/sympathetic_00414_jedes-gefuehl-das-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:30.592896+00:00"
+    },
+    "sympathetic/sympathetic_00416_was-auch-immer-kommt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:35.874007+00:00"
+    },
+    "sympathetic/sympathetic_00418_heute-ist-heute-morg.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:40.681359+00:00"
+    },
+    "sympathetic/sympathetic_00421_ich-gehe-nicht-weg-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:45.238082+00:00"
+    },
+    "sympathetic/sympathetic_00424_alles-was-du-brauchs.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:49.111153+00:00"
+    },
+    "sympathetic/sympathetic_00425_ich-bin-an-deiner-se.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:53.943996+00:00"
+    },
+    "sympathetic/sympathetic_00426_deine-gefuehle-sind.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:57:59.713363+00:00"
+    },
+    "sympathetic/sympathetic_00427_kein-mensch-muss-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:58:05.151577+00:00"
+    },
+    "sympathetic/sympathetic_00428_tief-in-mir-spuere-i.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:58:13.056707+00:00"
+    },
+    "sympathetic/sympathetic_00429_wenn-du-reden-moecht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:17.766611+00:00"
+    },
+    "sympathetic/sympathetic_00430_mit-dir-gemeinsam-tr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:22.519577+00:00"
+    },
+    "sympathetic/sympathetic_00431_so-viel-last-auf-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:27.560880+00:00"
+    },
+    "sympathetic/sympathetic_00432_niemand-versteht-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:31.943683+00:00"
+    },
+    "sympathetic/sympathetic_00433_glaub-mir-ich-sehe-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:36.956563+00:00"
+    },
+    "sympathetic/sympathetic_00434_lass-die-traenen-zu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:58:42.254769+00:00"
+    },
+    "sympathetic/sympathetic_00435_was-du-durchmachst-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:47.188712+00:00"
+    },
+    "sympathetic/sympathetic_00436_das-tut-mir-wirklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:51.636253+00:00"
+    },
+    "sympathetic/sympathetic_00437_ich-verstehe-wie-schwer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:58:55.927970+00:00"
+    },
+    "sympathetic/sympathetic_00440_ich-kann-mir-vorstellen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:00.353751+00:00"
+    },
+    "sympathetic/sympathetic_00442_es-ist-völlig-verständlich.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:59:05.501660+00:00"
+    },
+    "sympathetic/sympathetic_00443_ich-höre-dich-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:11.083023+00:00"
+    },
+    "sympathetic/sympathetic_00445_wenn-du-reden-möchtest.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:15.855004+00:00"
+    },
+    "sympathetic/sympathetic_00446_manchmal-ist-das-leben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:20.871377+00:00"
+    },
+    "sympathetic/sympathetic_00449_ich-wünschte-ich-könnte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:24.935618+00:00"
+    },
+    "sympathetic/sympathetic_00452_gib-dir-zeit-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:30.581898+00:00"
+    },
+    "sympathetic/sympathetic_00455_du-musst-dir-keine.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:35.904421+00:00"
+    },
+    "sympathetic/sympathetic_00457_es-ist-nicht-leicht.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:59:42.574800+00:00"
+    },
+    "sympathetic/sympathetic_00458_du-bist-nicht-allein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:47.129487+00:00"
+    },
+    "sympathetic/sympathetic_00460_das-schlimmste-ist-vorbei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:52.022469+00:00"
+    },
+    "sympathetic/sympathetic_00461_deine-gefühle-sind-berechtigt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:59:57.346162+00:00"
+    },
+    "sympathetic/sympathetic_00463_du-musst-das-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:00:01.674282+00:00"
+    },
+    "sympathetic/sympathetic_00464_es-ist-okay-dass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:00:06.116006+00:00"
+    },
+    "sympathetic/sympathetic_00465_ich-bin-hier-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:00:12.592913+00:00"
+    },
+    "sympathetic/sympathetic_00466_was-du-durchmachst-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:00:17.128834+00:00"
+    },
+    "sympathetic/sympathetic_00467_du-bist-staerker-als.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T14:00:24.507986+00:00"
+    },
+    "sympathetic/sympathetic_00468_es-tut-mir-leid.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T14:00:37.921953+00:00"
+    },
+    "sympathetic/sympathetic_00469_ich-hoere-dir-zu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:00:42.060110+00:00"
+    },
+    "sympathetic/sympathetic_00470_das-ist-eine-schwere.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T14:00:51.062457+00:00"
+    },
+    "sympathetic/sympathetic_00471_ich-mache-mir-gerade.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:00:56.044294+00:00"
+    },
+    "sympathetic/sympathetic_00472_ich-merk-wie-schwer-dir-das-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:01.964716+00:00"
+    },
+    "sympathetic/sympathetic_00473_das-tut-mir-echt-leid-für-dich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:06.994840+00:00"
+    },
+    "sympathetic/sympathetic_00474_komm-setz-dich-kurz-hin-ich-ho.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:11.938502+00:00"
+    },
+    "sympathetic/sympathetic_00475_manchmal-reicht-es-schon-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:17.116400+00:00"
+    },
+    "sympathetic/sympathetic_00476_ich-versteh-total-warum-du-jet.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T14:01:22.954422+00:00"
+    },
+    "sympathetic/sympathetic_00477_wenn-du-reden-willst-bin-ich-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:27.860445+00:00"
+    },
+    "sympathetic/sympathetic_00478_das-ist-so-eine-scheißsituatio.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:33.174509+00:00"
+    },
+    "sympathetic/sympathetic_00479_ich-wünschte-ich-könnte-dir-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:38.054397+00:00"
+    },
+    "sympathetic/sympathetic_00480_du-musst-dich-nicht-zusammenre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:42.925479+00:00"
+    },
+    "sympathetic/sympathetic_00481_manchmal-hilft-es-wenn-man-die.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T14:01:48.016484+00:00"
+    },
+    "sympathetic/sympathetic_00482_ich-weiß-worte-reichen-jetzt-n.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T14:01:53.312754+00:00"
+    },
+    "sympathetic/sympathetic_00483_das-ist-so-unfair-da-würde-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:01:58.010555+00:00"
+    },
+    "sympathetic/sympathetic_00485_ich-seh-doch-wie-sehr-dich-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:02:02.470701+00:00"
+    },
+    "sympathetic/sympathetic_00486_manchmal-braucht-man-einfach-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:02:07.584144+00:00"
+    },
+    "sympathetic/sympathetic_00487_das-hätte-mir-auch-den-boden-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:02:12.406088+00:00"
+    },
+    "sympathetic/sympathetic_00489_wenn-du-willst-können-wir-auch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:02:17.368993+00:00"
+    },
+    "sympathetic/sympathetic_00490_das-ist-so-eine-verdammte-unge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T14:02:23.782533+00:00"
+    },
+    "sympathetic/sympathetic_00491_ich-weiß-genau-wie-schwer-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T14:02:28.033874+00:00"
     }
   }
 }
