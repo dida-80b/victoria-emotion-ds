@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-14T12:53:28.437710+00:00",
+  "updated_at": "2026-06-14T13:09:10.847904+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -27485,6 +27485,138 @@
     "surprised/surprised_00344_nein-wirklich-ich-me.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-14T12:53:28.437647+00:00"
+    },
+    "surprised/surprised_00347_was-gerade-gesagt-wu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:05:22.854114+00:00"
+    },
+    "surprised/surprised_00348_moment-mal-das-stimm.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:05:29.386256+00:00"
+    },
+    "surprised/surprised_00349_das-ueberraschendste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:05:34.414430+00:00"
+    },
+    "surprised/surprised_00351_ich-schuettele-den-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:05:39.718537+00:00"
+    },
+    "surprised/surprised_00352_so-eine-wendung-so-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:06:03.430169+00:00"
+    },
+    "surprised/surprised_00353_haette-jemand-mich-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:06:04.701348+00:00"
+    },
+    "surprised/surprised_00354_ich-glaube-ich-brauc.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:06:08.919954+00:00"
+    },
+    "surprised/surprised_00355_was-fuer-eine-meldun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:06:12.762773+00:00"
+    },
+    "surprised/surprised_00356_heute-ist-ein-tag-de.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:06:17.861178+00:00"
+    },
+    "surprised/surprised_00357_unglaeubig-stehe-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:06:24.491724+00:00"
+    },
+    "surprised/surprised_00358_wer-das-erwartet-hat.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:06:28.324180+00:00"
+    },
+    "surprised/surprised_00359_ich-war-auf-alles-vo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:07:24.269446+00:00"
+    },
+    "surprised/surprised_00360_nicht-jeden-tag-pass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:07:30.528706+00:00"
+    },
+    "surprised/surprised_00361_das-hat-mich-auf-dem.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:07:34.424754+00:00"
+    },
+    "surprised/surprised_00362_wann-genau-hat-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:07:38.728009+00:00"
+    },
+    "surprised/surprised_00363_mir-bricht-fast-die.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:07:40.573199+00:00"
+    },
+    "surprised/surprised_00364_ich-nehme-das-mit-na.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:07:45.391815+00:00"
+    },
+    "surprised/surprised_00365_was-fuer-ein-unerwar.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:07:51.593177+00:00"
+    },
+    "surprised/surprised_00366_so-ein-detail-das-al.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:07:56.510682+00:00"
+    },
+    "surprised/surprised_00368_ueberraschendes-aus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:01.408313+00:00"
+    },
+    "surprised/surprised_00370_mit-offenem-mund-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:06.137306+00:00"
+    },
+    "surprised/surprised_00371_das-ist-die-letzte-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:10.354961+00:00"
+    },
+    "surprised/surprised_00372_eine-nachricht-die-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:08:19.290366+00:00"
+    },
+    "surprised/surprised_00373_ich-dachte-ich-kenne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:23.592107+00:00"
+    },
+    "surprised/surprised_00375_jetzt-sitze-ich-da-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:28.192293+00:00"
+    },
+    "surprised/surprised_00376_so-viel-neues-auf-ei.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:08:33.349825+00:00"
+    },
+    "surprised/surprised_00377_das-hab-ich-mir-nich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:37.243285+00:00"
+    },
+    "surprised/surprised_00378_zwischen-erwartung-u.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:08:47.320749+00:00"
+    },
+    "surprised/surprised_00379_ich-reagiere-sobald.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:50.988376+00:00"
+    },
+    "surprised/surprised_00380_das-klingt-verrueckt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:08:56.253926+00:00"
+    },
+    "surprised/surprised_00381_heute-passieren-ding.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:09:00.258978+00:00"
+    },
+    "surprised/surprised_00382_ich-musste-zweimal-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T13:09:05.226498+00:00"
+    },
+    "surprised/surprised_00383_unglaublich-das-wort.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T13:09:10.847845+00:00"
     }
   }
 }
