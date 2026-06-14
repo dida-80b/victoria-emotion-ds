@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-14T10:47:13.882363+00:00",
+  "updated_at": "2026-06-14T11:23:40.797772+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -25457,6 +25457,614 @@
     "sad/sad_00170_es-ist-so-schwer-w.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-14T10:47:13.882308+00:00"
+    },
+    "sad/sad_00176_es-tut-so-weh-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:07:38.149636+00:00"
+    },
+    "sad/sad_00179_ich-f-hle-mich-so-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:07:56.415173+00:00"
+    },
+    "sad/sad_00183_ich-wei-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:08:03.844892+00:00"
+    },
+    "sad/sad_00186_ich-wollte-doch-nu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:08:11.389845+00:00"
+    },
+    "sad/sad_00189_es-ist-so-schwer-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:08:30.689972+00:00"
+    },
+    "sad/sad_00199_ich-f-hle-mich-so-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:08:38.886156+00:00"
+    },
+    "sad/sad_00201_ich-wollte-nicht-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:08:47.286879+00:00"
+    },
+    "sad/sad_00202_ich-dachte-es-w-rd.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:08:55.598972+00:00"
+    },
+    "sad/sad_00205_es-ist-so-schwer-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:02.839567+00:00"
+    },
+    "sad/sad_00206_ich-wollte-nicht-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:09:06.007240+00:00"
+    },
+    "sad/sad_00207_ich-dachte-es-w-rd.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:11.941391+00:00"
+    },
+    "sad/sad_00211_ich-dachte-wir-w-r.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:19.623248+00:00"
+    },
+    "sad/sad_00212_ich-wollte-nicht-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:25.369352+00:00"
+    },
+    "sad/sad_00213_alles-was-ich-mir-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:33.108772+00:00"
+    },
+    "sad/sad_00216_ich-dachte-wir-h-t.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:40.282673+00:00"
+    },
+    "sad/sad_00218_alles-f-hlt-sich-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:49.110001+00:00"
+    },
+    "sad/sad_00222_ich-wollte-nur-ein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:09:56.105499+00:00"
+    },
+    "sad/sad_00223_ich-wollte-nur-ein.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:10:03.307686+00:00"
+    },
+    "sad/sad_00225_alles-was-ich-mir-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:10:11.507778+00:00"
+    },
+    "sad/sad_00226_manchmal-denke-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:10:17.370865+00:00"
+    },
+    "sad/sad_00228_ich-wollte-nicht-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:10:22.937686+00:00"
+    },
+    "sad/sad_00229_alles-was-ich-mir-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:10:32.432877+00:00"
+    },
+    "sad/sad_00230_ich-f-hle-mich-so-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:10:39.728069+00:00"
+    },
+    "sad/sad_00232_ich-wollte-nicht-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:10:46.356207+00:00"
+    },
+    "sad/sad_00233_ich-wollte-nicht-a.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:11:02.938644+00:00"
+    },
+    "sad/sad_00235_ich-dachte-diesmal.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:11:21.401463+00:00"
+    },
+    "sad/sad_00237_all-die-jahre-habe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:11:29.973279+00:00"
+    },
+    "sad/sad_00238_ich-sp-re-wie-die-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:11:37.813371+00:00"
+    },
+    "sad/sad_00244_ich-sp-re-wie-die-.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:11:43.920568+00:00"
+    },
+    "sad/sad_00248_es-tut-so-weh-wenn.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:11:52.601913+00:00"
+    },
+    "sad/sad_00250_all-die-tr-ume-die.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:11:59.492559+00:00"
+    },
+    "sad/sad_00253_ich-habe-so-oft-ve.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:07.428460+00:00"
+    },
+    "sad/sad_00256_all-die-jahre-habe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:15.803868+00:00"
+    },
+    "sad/sad_00257_trauer-ist-seltsam-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:22.714586+00:00"
+    },
+    "sad/sad_00258_irgendwann-hoert-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:29.907335+00:00"
+    },
+    "sad/sad_00259_selbst-die-stille-ma.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:34.634042+00:00"
+    },
+    "sad/sad_00260_ich-vermisse-dich-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:39.653747+00:00"
+    },
+    "sad/sad_00261_nirgendwo-ist-es-meh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:44.544627+00:00"
+    },
+    "sad/sad_00262_waere-es-nur-anders.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:49.848002+00:00"
+    },
+    "sad/sad_00264_traurig-ist-das-fals.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:12:55.269896+00:00"
+    },
+    "sad/sad_00265_heute-kommt-das-wein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:00.467890+00:00"
+    },
+    "sad/sad_00266_nicht-mehr-rueckgaen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:05.553181+00:00"
+    },
+    "sad/sad_00267_jemanden-zu-verliere.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:09.576867+00:00"
+    },
+    "sad/sad_00268_kein-trost-hilft-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:14.150863+00:00"
+    },
+    "sad/sad_00270_lieblingsorte-haben.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:18.307829+00:00"
+    },
+    "sad/sad_00271_wenn-freude-keine-fr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:23.014020+00:00"
+    },
+    "sad/sad_00272_ich-schlucke-die-tra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:38.136898+00:00"
+    },
+    "sad/sad_00274_heute-nacht-liegt-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:43.156556+00:00"
+    },
+    "sad/sad_00275_wuensche-ich-mir-wir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:47.420937+00:00"
+    },
+    "sad/sad_00276_manchmal-setzt-man-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:52.951243+00:00"
+    },
+    "sad/sad_00277_der-schoenste-tag-ka.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:13:59.058752+00:00"
+    },
+    "sad/sad_00278_ich-halte-ein-foto-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:03.582953+00:00"
+    },
+    "sad/sad_00280_ich-gehe-durch-alte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:09.710687+00:00"
+    },
+    "sad/sad_00281_manchmal-gibt-es-nic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:14.873784+00:00"
+    },
+    "sad/sad_00282_schmerz-der-sich-ver.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:20.282573+00:00"
+    },
+    "sad/sad_00283_an-manchen-tagen-tra.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:27.008394+00:00"
+    },
+    "sad/sad_00285_verlust-hinterlaesst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:31.963445+00:00"
+    },
+    "sad/sad_00286_zu-wissen-dass-man-n.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:39.428740+00:00"
+    },
+    "sad/sad_00289_weine-ruhig-manche-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:43.742727+00:00"
+    },
+    "sad/sad_00290_nie-hat-mir-jemand-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:49.136294+00:00"
+    },
+    "sad/sad_00292_ich-vermisse-die-ges.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:14:53.579329+00:00"
+    },
+    "sad/sad_00293_wer-gegangen-ist-lae.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:14:59.198601+00:00"
+    },
+    "sad/sad_00294_heute-waere-dein-geb.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:15:03.094708+00:00"
+    },
+    "sad/sad_00295_ich-stehe-am-fenster.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:15:08.100796+00:00"
+    },
+    "sad/sad_00296_manchmal-muss-man-ei.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:15:12.834852+00:00"
+    },
+    "sad/sad_00297_alle-machen-weiter-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:15:17.162501+00:00"
+    },
+    "sad/sad_00299_lachen-ist-heute-zu.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:15:27.114853+00:00"
+    },
+    "sad/sad_00300_verloren-auch-wenn-m.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:15:40.257621+00:00"
+    },
+    "sad/sad_00301_es-ist-okay-nicht-ok.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:15:44.748586+00:00"
+    },
+    "sad/sad_00302_traenen-sammeln-sich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:15:50.080551+00:00"
+    },
+    "sad/sad_00304_wie-still-ein-haus-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:15:55.067022+00:00"
+    },
+    "sad/sad_00305_ich-fange-an-und-bre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:00.671378+00:00"
+    },
+    "sad/sad_00307_traurig-zu-sein-ist.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:04.968862+00:00"
+    },
+    "sad/sad_00308_manchmal-weint-man-u.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:09.388018+00:00"
+    },
+    "sad/sad_00309_ohne-musik-heute-mus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:14.966272+00:00"
+    },
+    "sad/sad_00310_ich-finde-keinen-abs.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:21.306305+00:00"
+    },
+    "sad/sad_00311_jetzt-erst-vermisse.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:16:27.192904+00:00"
+    },
+    "sad/sad_00312_das-herz-ist-schwer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:32.721138+00:00"
+    },
+    "sad/sad_00313_leere-wo-freude-sein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:38.358599+00:00"
+    },
+    "sad/sad_00314_die-erinnerungen-sin.wav": {
+      "decision": "delete",
+      "reviewed_at": "2026-06-14T11:16:49.259714+00:00"
+    },
+    "sad/sad_00316_nachts-ist-die-traue.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:54.067417+00:00"
+    },
+    "sad/sad_00317_warum-fuehlt-sich-ab.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:16:59.391062+00:00"
+    },
+    "sad/sad_00318_manchmal-sitzt-man-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:05.037618+00:00"
+    },
+    "sad/sad_00319_diesen-ort-werde-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:10.828001+00:00"
+    },
+    "sad/sad_00320_was-bleibt-ist-die-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:18.029234+00:00"
+    },
+    "sad/sad_00321_weinen-waere-einfach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:23.008287+00:00"
+    },
+    "sad/sad_00322_jemand-der-fehlt-hin.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:28.019310+00:00"
+    },
+    "sad/sad_00323_mit-jedem-tag-wird-k.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:32.366137+00:00"
+    },
+    "sad/sad_00324_manche-traurigkeit-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:36.570193+00:00"
+    },
+    "sad/sad_00325_ich-sage-es-nicht-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:41.230505+00:00"
+    },
+    "sad/sad_00326_heut-nacht-weint-man.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:17:46.390400+00:00"
+    },
+    "sad/sad_00327_ich-glaube-ich-traue.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:17:57.177364+00:00"
+    },
+    "sad/sad_00328_manchmal-fragt-man-s.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:18:02.437653+00:00"
+    },
+    "sad/sad_00329_etwas-in-mir-ist-ruh.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:08.280827+00:00"
+    },
+    "sad/sad_00331_vermissen-kann-man-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:12.447415+00:00"
+    },
+    "sad/sad_00332_leise-tropft-der-reg.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:18:19.725829+00:00"
+    },
+    "sad/sad_00333_trost-finden-gelingt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:24.068076+00:00"
+    },
+    "sad/sad_00334_stunden-vergehen-und.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:30.747127+00:00"
+    },
+    "sad/sad_00335_so-weit-voneinander.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:36.500012+00:00"
+    },
+    "sad/sad_00336_wenige-worte-haetten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:41.609124+00:00"
+    },
+    "sad/sad_00337_bilder-aus-frueher-t.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:46.253804+00:00"
+    },
+    "sad/sad_00338_leer-ist-der-stuhl-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:18:50.809127+00:00"
+    },
+    "sad/sad_00339_mit-niemandem-reden.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:04.216258+00:00"
+    },
+    "sad/sad_00340_herbst-riecht-nach-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:08.474036+00:00"
+    },
+    "sad/sad_00341_langsam-begreifen-wa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:17.063659+00:00"
+    },
+    "sad/sad_00342_vergessen-moechte-ic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:19:20.041441+00:00"
+    },
+    "sad/sad_00343_weich-klingt-dein-na.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:24.152184+00:00"
+    },
+    "sad/sad_00344_dunkel-ist-der-abend.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:30.798189+00:00"
+    },
+    "sad/sad_00345_oft-denke-ich-daran.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:35.743142+00:00"
+    },
+    "sad/sad_00346_verlust-hinterlaesst.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:40.869345+00:00"
+    },
+    "sad/sad_00347_traenen-kommen-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:46.391267+00:00"
+    },
+    "sad/sad_00348_regen-gegen-die-sche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:52.105297+00:00"
+    },
+    "sad/sad_00349_alle-ziehen-weiter-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:19:56.452758+00:00"
+    },
+    "sad/sad_00350_tiefe-sehnsucht-nach.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:20:02.073966+00:00"
+    },
+    "sad/sad_00351_schwer-liegt-der-abs.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:06.719544+00:00"
+    },
+    "sad/sad_00352_zur-ruhe-kommen-geli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:13.307580+00:00"
+    },
+    "sad/sad_00353_ferne-stimmen-erinne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:18.388351+00:00"
+    },
+    "sad/sad_00354_wann-wird-dieser-sch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:24.022156+00:00"
+    },
+    "sad/sad_00355_nachts-liege-ich-wac.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:28.484395+00:00"
+    },
+    "sad/sad_00356_keinen-platz-finden.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:33.896785+00:00"
+    },
+    "sad/sad_00357_zaertlich-denke-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:37.800310+00:00"
+    },
+    "sad/sad_00358_winter-kommt-und-mit.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:42.074349+00:00"
+    },
+    "sad/sad_00359_uebrig-bleibt-ein-ge.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:20:49.405495+00:00"
+    },
+    "sad/sad_00360_frieden-mit-diesem-v.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:20:54.392743+00:00"
+    },
+    "sad/sad_00361_schmerzhaft-still-is.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:21:00.981400+00:00"
+    },
+    "sad/sad_00363_abends-am-fenster-st.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:05.663577+00:00"
+    },
+    "sad/sad_00364_sehnsucht-ist-wie-hu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:13.040263+00:00"
+    },
+    "sad/sad_00365_leer-kehre-ich-heim.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:18.719172+00:00"
+    },
+    "sad/sad_00366_ich-vermisse-ihn-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:24.733827+00:00"
+    },
+    "sad/sad_00368_manchmal-weint-man-einfach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:29.911761+00:00"
+    },
+    "sad/sad_00369_es-gibt-tage-wo.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:35.386621+00:00"
+    },
+    "sad/sad_00370_ich-wünschte-ich-könnte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:39.850618+00:00"
+    },
+    "sad/sad_00371_alles-erinnert-mich-an.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:44.626034+00:00"
+    },
+    "sad/sad_00372_ich-habe-das-lachen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:48.837733+00:00"
+    },
+    "sad/sad_00373_manche-verluste-heilen-einfach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:21:53.918612+00:00"
+    },
+    "sad/sad_00375_ich-habe-heute-wieder.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T11:21:59.265809+00:00"
+    },
+    "sad/sad_00377_ich-glaube-ich-brauche.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:03.758404+00:00"
+    },
+    "sad/sad_00378_warum-sind-die-schönsten.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:08.437824+00:00"
+    },
+    "sad/sad_00379_ich-weine-manchmal-nachts.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:13.990689+00:00"
+    },
+    "sad/sad_00380_es-ist-schwer-fröhlich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:20.472154+00:00"
+    },
+    "sad/sad_00381_schön-war-das-damals.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:25.939352+00:00"
+    },
+    "sad/sad_00382_ich-vermisse-einfach-wie.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:30.121627+00:00"
+    },
+    "sad/sad_00383_manches-lässt-sich-leider.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:34.679277+00:00"
+    },
+    "sad/sad_00384_heute-ist-einfach-kein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:40.974593+00:00"
+    },
+    "sad/sad_00385_es-ist-okay-traurig.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:46.115041+00:00"
+    },
+    "sad/sad_00386_ich-weiß-nicht-mehr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:50.332617+00:00"
+    },
+    "sad/sad_00387_die-leere-die-du.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:22:55.352114+00:00"
+    },
+    "sad/sad_00388_ich-vermisse-das-einfach.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:23:01.638675+00:00"
+    },
+    "sad/sad_00389_manchmal-weinst-du-ohne.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:23:06.822204+00:00"
+    },
+    "sad/sad_00390_es-ist-so-schwer.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:23:13.029667+00:00"
+    },
+    "sad/sad_00391_der-himmel-ist-heute-wieder-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:23:19.476471+00:00"
+    },
+    "sad/sad_00392_es-tut-weh-wenn-selbst-die-mus.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T11:23:40.797690+00:00"
     }
   }
 }
