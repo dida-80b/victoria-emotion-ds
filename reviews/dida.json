@@ -1,6 +1,6 @@
 {
   "reviewer": "dida",
-  "updated_at": "2026-06-14T11:46:14.567903+00:00",
+  "updated_at": "2026-06-14T12:53:28.437710+00:00",
   "total_clips": 6712,
   "decisions": {
     "angry/angry_00001_das-ist-doch-nicht.wav": {
@@ -26985,6 +26985,506 @@
     "sarcastic/sarcastic_00378_schoen-dass-du-es.wav": {
       "decision": "keep",
       "reviewed_at": "2026-06-14T11:46:14.567844+00:00"
+    },
+    "surprised/surprised_00001_wow-das-hätte-ich-wi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:39:37.066061+00:00"
+    },
+    "surprised/surprised_00002_das-gibts-doch-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:39:41.231326+00:00"
+    },
+    "surprised/surprised_00003_hast-du-das-gerade-w.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:39:46.415922+00:00"
+    },
+    "surprised/surprised_00004_ich-fasse-es-nicht-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:39:50.554291+00:00"
+    },
+    "surprised/surprised_00006_unglaublich-das-hätt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:39:54.488888+00:00"
+    },
+    "surprised/surprised_00008_boah-das-haut-mich-j.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:40:02.316998+00:00"
+    },
+    "surprised/surprised_00010_wie-bitte-das-ist-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:40:05.764487+00:00"
+    },
+    "surprised/surprised_00012_das-ist-ja-der-hamme.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:40:10.904278+00:00"
+    },
+    "surprised/surprised_00013_was-zum-teufel-das-g.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:40:24.683557+00:00"
+    },
+    "surprised/surprised_00014_das-ist-ja-krass-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:40:28.705361+00:00"
+    },
+    "surprised/surprised_00015_nein-oder-das-ist-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:40:47.221879+00:00"
+    },
+    "surprised/surprised_00017_ich-bin-echt-platt-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:40:51.504087+00:00"
+    },
+    "surprised/surprised_00019_was-das-kann-doch-ni.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:40:55.500967+00:00"
+    },
+    "surprised/surprised_00021_ich-glaubs-nicht-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:40:59.107151+00:00"
+    },
+    "surprised/surprised_00023_boah-das-kommt-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:41:03.587549+00:00"
+    },
+    "surprised/surprised_00027_ich-bin-echt-sprachl.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:41:27.299214+00:00"
+    },
+    "surprised/surprised_00029_was-das-habe-ich-jet.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:41:15.245887+00:00"
+    },
+    "surprised/surprised_00031_unglaublich-das-hätt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:41:19.564886+00:00"
+    },
+    "surprised/surprised_00033_ich-glaub-ich-träume.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:41:33.365219+00:00"
+    },
+    "surprised/surprised_00034_was-zum-geier-das-is.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:41:37.877008+00:00"
+    },
+    "surprised/surprised_00036_boah-das-haut-mich-j.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:41:43.539395+00:00"
+    },
+    "surprised/surprised_00038_ich-bin-echt-baff-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:41:48.710255+00:00"
+    },
+    "surprised/surprised_00040_was-das-ist-ja-nicht.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:43:40.809852+00:00"
+    },
+    "surprised/surprised_00053_was-zum-teufel-das-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:43:44.930884+00:00"
+    },
+    "surprised/surprised_00057_wow-das-ist-ja-mal-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:43:49.126174+00:00"
+    },
+    "surprised/surprised_00101_das-kommt-jetzt-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:43:53.504941+00:00"
+    },
+    "surprised/surprised_00102_wer-hätte-gedacht-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:43:58.135870+00:00"
+    },
+    "surprised/surprised_00103_ich-dachte-ich-höre.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:44:05.547399+00:00"
+    },
+    "surprised/surprised_00104_das-schlägt-dem-fass.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:09.034007+00:00"
+    },
+    "surprised/surprised_00104_wie-kann-das-denn-se.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:12.800140+00:00"
+    },
+    "surprised/surprised_00106_boah-das-kommt-jetzt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:44:17.304012+00:00"
+    },
+    "surprised/surprised_00106_ich-trau-meinen-auge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:21.601001+00:00"
+    },
+    "surprised/surprised_00107_das-haut-mich-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:25.590162+00:00"
+    },
+    "surprised/surprised_00109_ich-glaub-ich-träume.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:44:29.940418+00:00"
+    },
+    "surprised/surprised_00111_nein-oder-das-kann-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:35.014406+00:00"
+    },
+    "surprised/surprised_00113_wow-das-ist-ja-mal-e.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:40.355594+00:00"
+    },
+    "surprised/surprised_00115_ich-dachte-das-gibts.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:43.774575+00:00"
+    },
+    "surprised/surprised_00115_wie-bitte-das-ist-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:48.543849+00:00"
+    },
+    "surprised/surprised_00116_ich-glaubs-nicht-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:44:51.671633+00:00"
+    },
+    "surprised/surprised_00117_wie-kommt-das-denn-j.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:44:53.343707+00:00"
+    },
+    "surprised/surprised_00119_ich-glaub-ich-bin-im.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:44:56.638666+00:00"
+    },
+    "surprised/surprised_00125_das-ist-ja-krass-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:00.489511+00:00"
+    },
+    "surprised/surprised_00125_ich-bin-jetzt-echt-s.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:04.196869+00:00"
+    },
+    "surprised/surprised_00127_wie-kommt-das-denn-j.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:45:11.153518+00:00"
+    },
+    "surprised/surprised_00129_ich-dachte-das-wäre.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:16.523977+00:00"
+    },
+    "surprised/surprised_00132_ich-glaub-ich-sehe-g.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:19.936104+00:00"
+    },
+    "surprised/surprised_00139_was-zum-geier-das-gi.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:24.169610+00:00"
+    },
+    "surprised/surprised_00141_nein-oder-das-ist-ja.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:28.117988+00:00"
+    },
+    "surprised/surprised_00143_wow-das-kommt-jetzt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:32.777287+00:00"
+    },
+    "surprised/surprised_00148_ich-glaub-ich-bin-in.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:36.475182+00:00"
+    },
+    "surprised/surprised_00164_ich-bin-echt-sprachl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:40.782816+00:00"
+    },
+    "surprised/surprised_00176_nein-oder-das-kann-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:45.357855+00:00"
+    },
+    "surprised/surprised_00188_meine-güte-das-kommt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:50.508842+00:00"
+    },
+    "surprised/surprised_00191_wie-kann-das-sein-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:54.609631+00:00"
+    },
+    "surprised/surprised_00192_das-ist-so-absurd-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:45:59.398498+00:00"
+    },
+    "surprised/surprised_00194_das-haut-mich-jetzt.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:46:08.377002+00:00"
+    },
+    "surprised/surprised_00196_ich-bin-gerade-echt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:46:12.842589+00:00"
+    },
+    "surprised/surprised_00198_wie-kommt-es-dass-ic.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:46:17.168388+00:00"
+    },
+    "surprised/surprised_00202_das-ist-so-überrasch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:46:22.092575+00:00"
+    },
+    "surprised/surprised_00204_das-kommt-jetzt-aber.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:47:59.946775+00:00"
+    },
+    "surprised/surprised_00205_ich-bin-gerade-echt.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:03.993759+00:00"
+    },
+    "surprised/surprised_00206_das-ist-so-unerwarte.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:09.067325+00:00"
+    },
+    "surprised/surprised_00208_wie-kann-das-sein-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:13.059536+00:00"
+    },
+    "surprised/surprised_00209_wow-das-haut-mich-je.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:18.301708+00:00"
+    },
+    "surprised/surprised_00214_wie-kommt-es-dass-ic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:21.996079+00:00"
+    },
+    "surprised/surprised_00215_das-ist-so-absurd-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:26.608316+00:00"
+    },
+    "surprised/surprised_00226_ich-bin-echt-baff-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:30.773136+00:00"
+    },
+    "surprised/surprised_00247_ich-trau-meinen-auge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:35.392367+00:00"
+    },
+    "surprised/surprised_00249_boah-das-ist-ja-der.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:39.623177+00:00"
+    },
+    "surprised/surprised_00250_ich-dachte-ich-träum.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:45.789722+00:00"
+    },
+    "surprised/surprised_00272_boah-das-ist-ja-der.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:48:48.041391+00:00"
+    },
+    "surprised/surprised_00274_warte-mal-kurz-wann.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:52.249465+00:00"
+    },
+    "surprised/surprised_00275_ich-wusste-nicht-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:48:56.346514+00:00"
+    },
+    "surprised/surprised_00276_mein-mund-steht-offe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:01.101418+00:00"
+    },
+    "surprised/surprised_00278_ich-reibe-mir-die-au.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:04.929195+00:00"
+    },
+    "surprised/surprised_00279_und-das-sagst-du-mir.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:08.802404+00:00"
+    },
+    "surprised/surprised_00283_mit-offenem-mund-ste.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:14.358725+00:00"
+    },
+    "surprised/surprised_00284_wer-haette-damit-ger.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:18.973791+00:00"
+    },
+    "surprised/surprised_00285_das-ist-das-unerwart.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:49:26.942293+00:00"
+    },
+    "surprised/surprised_00286_so-eine-wende-die-ha.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:31.896758+00:00"
+    },
+    "surprised/surprised_00290_nie-haette-ich-mir-d.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:35.797444+00:00"
+    },
+    "surprised/surprised_00291_ich-steh-hier-und-be.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:39.828772+00:00"
+    },
+    "surprised/surprised_00292_du-hast-mich-erwisch.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:44.173102+00:00"
+    },
+    "surprised/surprised_00293_nicht-in-einer-milli.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:48.254662+00:00"
+    },
+    "surprised/surprised_00294_ich-weiss-nicht-ob-i.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:53.114942+00:00"
+    },
+    "surprised/surprised_00295_dieser-twist-haette.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:49:58.823371+00:00"
+    },
+    "surprised/surprised_00296_ich-klappe-den-mund.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:02.773282+00:00"
+    },
+    "surprised/surprised_00297_was-fuer-eine-ueberr.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:06.684176+00:00"
+    },
+    "surprised/surprised_00298_nein-das-warte-nein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:11.472601+00:00"
+    },
+    "surprised/surprised_00299_ich-setze-mich-kurz.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:16.245714+00:00"
+    },
+    "surprised/surprised_00300_so-unerwartet-war-da.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:21.914356+00:00"
+    },
+    "surprised/surprised_00301_was-fuer-eine-neuigk.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:26.356581+00:00"
+    },
+    "surprised/surprised_00302_ehrlich-gesagt-das-t.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:50:28.491352+00:00"
+    },
+    "surprised/surprised_00304_die-situation-hat-si.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:33.725631+00:00"
+    },
+    "surprised/surprised_00305_ich-weiss-die-antwor.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:38.096160+00:00"
+    },
+    "surprised/surprised_00306_nicht-mal-in-meinen.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:41.993086+00:00"
+    },
+    "surprised/surprised_00308_so-eine-ueberraschun.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:46.088586+00:00"
+    },
+    "surprised/surprised_00311_was-fuer-eine-unerwa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:49.810528+00:00"
+    },
+    "surprised/surprised_00312_ich-kann-kaum-glaube.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:54.011016+00:00"
+    },
+    "surprised/surprised_00313_das-kam-so-ploetzlic.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:50:58.634066+00:00"
+    },
+    "surprised/surprised_00314_erstaunlich-wirklich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:03.721422+00:00"
+    },
+    "surprised/surprised_00315_seit-wann-ist-das-so.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:16.415018+00:00"
+    },
+    "surprised/surprised_00318_was-wann-wie-ist-das.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:51:27.507935+00:00"
+    },
+    "surprised/surprised_00319_mit-einem-mal-alles.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:33.118818+00:00"
+    },
+    "surprised/surprised_00320_das-haette-mir-vorhe.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:36.968698+00:00"
+    },
+    "surprised/surprised_00322_ich-blinzle-und-das.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:40.409777+00:00"
+    },
+    "surprised/surprised_00323_was-du-mir-gerade-er.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:45.776040+00:00"
+    },
+    "surprised/surprised_00324_atme-kurz-durch-nein.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:51.233856+00:00"
+    },
+    "surprised/surprised_00325_das-ist-wirklich-pas.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:51:55.916130+00:00"
+    },
+    "surprised/surprised_00326_ich-strecke-meinen-a.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:02.113032+00:00"
+    },
+    "surprised/surprised_00327_so-etwas-das-hab-ich.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:07.358788+00:00"
+    },
+    "surprised/surprised_00329_ein-schritt-zurueck.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:11.806259+00:00"
+    },
+    "surprised/surprised_00331_wie-soll-man-darauf.wav": {
+      "decision": "rerender",
+      "reviewed_at": "2026-06-14T12:52:16.780735+00:00"
+    },
+    "surprised/surprised_00332_ueberrumpelt-sprachl.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:31.488296+00:00"
+    },
+    "surprised/surprised_00333_das-ist-das-zweite-m.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:36.061580+00:00"
+    },
+    "surprised/surprised_00334_jetzt-wo-ich-weiss-w.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:42.341708+00:00"
+    },
+    "surprised/surprised_00335_ich-weiss-nicht-was.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:47.335722+00:00"
+    },
+    "surprised/surprised_00336_das-ist-eine-informa.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:52.131875+00:00"
+    },
+    "surprised/surprised_00337_bin-ich-der-einzige.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:52:55.681823+00:00"
+    },
+    "surprised/surprised_00338_fassungslosigkeit-pu.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:53:00.888641+00:00"
+    },
+    "surprised/surprised_00339_ich-reagiere-erst-we.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:53:05.613110+00:00"
+    },
+    "surprised/surprised_00341_so-eine-kehrtwende-h.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:53:09.896555+00:00"
+    },
+    "surprised/surprised_00342_so-ein-wendepunkt-un.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:53:14.566904+00:00"
+    },
+    "surprised/surprised_00343_ruhig-bleiben-ist-ge.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:53:22.746108+00:00"
+    },
+    "surprised/surprised_00344_nein-wirklich-ich-me.wav": {
+      "decision": "keep",
+      "reviewed_at": "2026-06-14T12:53:28.437647+00:00"
     }
   }
 }
